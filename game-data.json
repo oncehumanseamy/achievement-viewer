@@ -1,5 +1,5 @@
 {
-  "last_updated": 1790605585,
+  "last_updated": 1790610711,
   "total_games": 30,
   "games": [
     {
@@ -1911,6 +1911,463 @@
       }
     },
     {
+      "appid": "1546990",
+      "info": {
+        "appid": "1546990",
+        "name": "Grand Theft Auto: Vice City – The Definitive Edition",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546990/header.jpg?t=1781138647",
+        "achievements": {
+          "ACH01": {
+            "name": "Born in the 80’s",
+            "description": "Listen to all music stations at least once.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/471cdc671f7b8cf45ac0f0bd6d9b8aa5ac723578.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/b2851e8c7ccb260f205bc64478bec1f02ab6558a.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "7.5"
+          },
+          "ACH02": {
+            "name": "Running Rampant",
+            "description": "Complete Vigilante mission level 12.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/b5873e226f12f7cef0b0a5fbd964610f602a6e01.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/f5087c9fdf62d28149472f2b2470148f285400f4.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "10.2"
+          },
+          "ACH03": {
+            "name": "Iron-y",
+            "description": "Kill the property developer with a Golf Club during \"Four Iron\".",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/89dc3341f769af9622a2d665b5961de263827651.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/ea7f155b3c029b31ad88798b152e9d6aff7063f6.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "17.9"
+          },
+          "ACH04": {
+            "name": "Not my First Time",
+            "description": "Complete mission \"G-Spotlight\" without falling from the rooftops.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/9dee58f415093d04e58314bcc64b3d2f0c7912da.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/8ee7163c0ffd9eae477be6d2edccc630594f10f9.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "12.6"
+          },
+          "ACH05": {
+            "name": "One is Better Than Two",
+            "description": "Perform a 30 second wheelie.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/c29962ca8c731be87bbfd0de23abcc5f86c9a051.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/821aba1729d9020c9ee3758837ef663dc928387b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.6"
+          },
+          "ACH06": {
+            "name": "Point A to Point B",
+            "description": "Drop off 25 passengers driving the taxi.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/e5186a7806c4febb00f5767806b1491b7b9324eb.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/8790488c9e471df737e696a9522380f734005790.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "12.0"
+          },
+          "ACH07": {
+            "name": "High Quality H2O",
+            "description": "Extinguish 10 fires.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/724b78220d873ccac693560970269a43dd8c3c0b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/086d3a4c75490820da802a9a6dbae8e922cbc81b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.6"
+          },
+          "ACH08": {
+            "name": "Pie Guy",
+            "description": "Deliver 10 pizzas.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/54ebe3843aff914bd74ff5c9c383ed20772484b8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/ca10c6e50041da558fe9e68fba601a6352deceab.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "13.2"
+          },
+          "ACH09": {
+            "name": "Bull in a China Shop",
+            "description": "Cause $1,000,000 in property damage.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/9edc3272f608e0da9869e80e98e2c19a1792e9d5.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/7835122df8d17140db890c75ded11c3c2e126be1.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "10.4"
+          },
+          "ACH10": {
+            "name": "Vice City Mogul",
+            "description": "Own 10 properties.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/f918e8a55ced2ae32089a7a45cf0a133f896f054.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/0a069c036f5706130aaa1768fcc92df85d1e16f6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "15.9"
+          },
+          "ACH11": {
+            "name": "Salutations My Little Friend",
+            "description": "Use the M4 to take out Diaz during the mission \"Rub Out\".",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/028225d5964d3bab51928cb0f63c2752260ffff9.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/191625e3592a574f5d0892087de0fca6149d75c3.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "19.7"
+          },
+          "ACH12": {
+            "name": "Catch Me if You Can",
+            "description": "Achieve a six-star wanted level.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/dd68700cf84a3be1ec9b64efd6362b03d1e2083f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/b437444aa568993b094329530462cae21a28434c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "15.6"
+          },
+          "ACH13": {
+            "name": "Somebody Call the Wambulance?",
+            "description": "Complete Paramedic Mission level 12.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/5dae47bb60c904cf5565fbb7bba9d6db78a701e0.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/d0a0b9beaa0fb6ff4f06b4f757feda0eb1b7866f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "10.8"
+          },
+          "ACH14": {
+            "name": "Greasy Palms",
+            "description": "Use a police bribe to reduce your wanted level.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/5fc571873b986b628b0e37a1d1d38c24bc345c67.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/8544e293da2fbb7b7c2522d0c80a02ce0e3cc97a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "48.9"
+          },
+          "ACH15": {
+            "name": "Just Like the Real Thing",
+            "description": "Win the RC Bandit Race.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/660e5560389f7f1d005f6f5a14fde1fd2d1563e7.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/e02a9d2385866880036cc15b871d3d96fe7a032a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.7"
+          },
+          "ACH16": {
+            "name": "Keepie-Uppy Okie Dokie",
+            "description": "Earn a high score of 5 with the Keepie-Uppy Beach Ball.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/126bfd824adb57cf660735b3049bd5bd32dfb584.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/c0e3d1325ace116b4a2f8f1f7de4fdfa202b713c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.1"
+          },
+          "ACH17": {
+            "name": "Gun for Hire",
+            "description": "Complete all assassination contracts.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/213c268477f99f13b60e9d94d3729603fcb6a008.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/37b3af46ea61c9e269cb520275ad239dd357a7e2.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "18.5"
+          },
+          "ACH18": {
+            "name": "I'm Famous!",
+            "description": "Earn the Stuff of Legends media attention rank.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/187b194de93454de05ce57e5d628c4c162f0bc9f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/bd95a486560f5fc76ff5a269add243e3f595a19a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.7"
+          },
+          "ACH19": {
+            "name": "Don't Need Roads",
+            "description": "Hit max speed in a Deluxo.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/1c33c8dee8dc9e435ac6e514f20358bdf4e7b893.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/415c4f72d643b7094b40f99de4d791d122cd66db.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "11.5"
+          },
+          "ACH20": {
+            "name": "Daredevil",
+            "description": "Complete 36 unique jumps.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/cff01457e2956b1ac7686b2f6e6c9439dd716045.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/84d9fa45df9c3f9d7cac3c7d600586fa52dfb53d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.1"
+          },
+          "ACH21": {
+            "name": "Legal Counsel",
+            "description": "Complete the \"Riot\" mission.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/d83c68fc759857a6fe7b011b163a6989b8898c4e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/94f0ab4491d5fc8229abe9a0fa6a175c95c15fb6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "52.6"
+          },
+          "ACH22": {
+            "name": "Life of the Party",
+            "description": "Complete the \"All Hands on Deck!\" mission.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/306581f03a298fc8fd143ae6c6177a4e97eb68d3.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/3e00344919be260fa8208b8abfb038cd2ceebc5b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "30.6"
+          },
+          "ACH23": {
+            "name": "South American Connection",
+            "description": "Complete the \"Supply & Demand\" mission.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/cce2e86920317241e22f0320e88e15c1c5ea7dfc.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/83a2a67ca43d528d5f11466da5b1ac0840bc983a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "36.0"
+          },
+          "ACH24": {
+            "name": "Big Heat from Little Havana",
+            "description": "Complete the \"Trojan Voodoo\" mission.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/3eacd8bef1192ca58672e5863445a99b07aeaf8e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/3744cc5cfbe04a1e9660d5a554e195c4e5a78209.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "24.9"
+          },
+          "ACH25": {
+            "name": "Chauffeur",
+            "description": "Complete the \"Publicity Tour\" mission.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/b07706769488cf51f2f47940a2b64fe895a76ef6.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/e1a3cc60ff832036ecf5139d0c287c3c1fa8c80f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "25.1"
+          },
+          "ACH26": {
+            "name": "Tommy Two-Wheels",
+            "description": "Complete the \"Hog Tied\" mission.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/7a41d07dbd3ce8bc62a0e1b1267bc1b4f5305e55.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/ef2fd3efad8e6ab4a57da88fbdecdf526bdbc78b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "25.5"
+          },
+          "ACH27": {
+            "name": "Grand Theft Auto",
+            "description": "Retrieve every wanted vehicle at Sunshine Autos Import Garage.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/09fe0388dcd4fe492e34b41be74067028acbc224.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/f2ef7c7f875bcd740e13382b3bce06eec71578f1.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "13.1"
+          },
+          "ACH28": {
+            "name": "Bloodstained Hands",
+            "description": "Earn the Butcher criminal rating.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/3fb3d76b945ee5de8e91f0de9e93e67961465f41.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/8f8c4c13a6374a14509813ebe0db17b3985452c2.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "13.6"
+          },
+          "ACH29": {
+            "name": "Take the Cannoli",
+            "description": "Earn the Godfather criminal rating.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/19487a92c8d37e1e6f0493d9a0e5d41ce389ba76.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/1a7e3d7b53ee3612cf590e70e5910d356b6ecc5a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.3"
+          },
+          "ACH30": {
+            "name": "Mischief Managed",
+            "description": "Complete the \"Keep Your Friends Close...\" mission.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/229fa20cf17187017009039bf8eed32542613ca8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/a7442561756fdd42a94b2d5fbbe7bb40710a5e7d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "18.8"
+          },
+          "ACH31": {
+            "name": "Chopper’d Up",
+            "description": "Kill all hostile NPCs during the mission \"Demolition Man\" using the RC chopper’s blades.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/bacbfc3fa1d4ad8f98c56686ad18efba7b3ab1ed.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/412737712d1501785d6429bf001760ed2fe6c9f8.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "10.1"
+          },
+          "ACH32": {
+            "name": "City Sleuth",
+            "description": "Find 100 hidden packages.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/a173d42c7e53307f87f4b4929cfda2906e2eb48e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/c166a6f12c5b1765e2e1577f8054cf9c3f747ae4.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.1"
+          },
+          "ACH33": {
+            "name": "Done it All",
+            "description": "Earn 100% completion.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/4ed6615697e1d60ea876dfbeeb9f60dc03de2e57.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/488c693836882724cbf12d20212df9150f65c218.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.8"
+          },
+          "ACH34": {
+            "name": "Kingpin",
+            "description": "Unlock all achievements.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/9bbb42c58c6848555583362b4655a91fec37c437.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1546990/b81e2df15fdc394df1ceb1b3630fd039a1e84faa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.0"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": true
+      },
+      "achievements": {
+        "ACH01": {
+          "earned": true,
+          "earned_time": 1788356768
+        },
+        "ACH02": {
+          "earned": true,
+          "earned_time": 1788188482
+        },
+        "ACH03": {
+          "earned": true,
+          "earned_time": 1788360818
+        },
+        "ACH04": {
+          "earned": true,
+          "earned_time": 1788876903
+        },
+        "ACH05": {
+          "earned": true,
+          "earned_time": 1788278426
+        },
+        "ACH06": {
+          "earned": true,
+          "earned_time": 1788278823
+        },
+        "ACH07": {
+          "earned": true,
+          "earned_time": 1788528513
+        },
+        "ACH08": {
+          "earned": true,
+          "earned_time": 1788276039
+        },
+        "ACH09": {
+          "earned": true,
+          "earned_time": 1790010955
+        },
+        "ACH10": {
+          "earned": true,
+          "earned_time": 1788799361
+        },
+        "ACH11": {
+          "earned": true,
+          "earned_time": 1788635141
+        },
+        "ACH12": {
+          "earned": true,
+          "earned_time": 1790011015
+        },
+        "ACH13": {
+          "earned": true,
+          "earned_time": 1788163576
+        },
+        "ACH14": {
+          "earned": true,
+          "earned_time": 1787933036
+        },
+        "ACH15": {
+          "earned": true,
+          "earned_time": 1788190958
+        },
+        "ACH16": {
+          "earned": true,
+          "earned_time": 1788714890
+        },
+        "ACH17": {
+          "earned": true,
+          "earned_time": 1788792824
+        },
+        "ACH18": {
+          "earned": true,
+          "earned_time": 1790011574
+        },
+        "ACH19": {
+          "earned": true,
+          "earned_time": 1789836863
+        },
+        "ACH20": {
+          "earned": true,
+          "earned_time": 1788877530
+        },
+        "ACH21": {
+          "earned": true,
+          "earned_time": 1788357914
+        },
+        "ACH22": {
+          "earned": true,
+          "earned_time": 1788633736
+        },
+        "ACH23": {
+          "earned": true,
+          "earned_time": 1788595672
+        },
+        "ACH24": {
+          "earned": true,
+          "earned_time": 1788628953
+        },
+        "ACH25": {
+          "earned": true,
+          "earned_time": 1788714201
+        },
+        "ACH26": {
+          "earned": true,
+          "earned_time": 1788711873
+        },
+        "ACH27": {
+          "earned": true,
+          "earned_time": 1789981209
+        },
+        "ACH28": {
+          "earned": true,
+          "earned_time": 1788623568
+        },
+        "ACH29": {
+          "earned": true,
+          "earned_time": 1790095403
+        },
+        "ACH30": {
+          "earned": true,
+          "earned_time": 1790098105
+        },
+        "ACH31": {
+          "earned": true,
+          "earned_time": 1788365995
+        },
+        "ACH32": {
+          "earned": true,
+          "earned_time": 1788622945
+        },
+        "ACH33": {
+          "earned": true,
+          "earned_time": 1790098105
+        },
+        "ACH34": {
+          "earned": true,
+          "earned_time": 1790098105
+        }
+      }
+    },
+    {
       "appid": "3361470",
       "info": {
         "appid": "3361470",
@@ -2087,7 +2544,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "96.9"
+            "percent": "96.8"
           },
           "dust_to_dust": {
             "name": "Dust to Dust",
@@ -2123,7 +2580,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "97.8"
+            "percent": "97.7"
           },
           "layer_cake": {
             "name": "Layer Cake",
@@ -2141,7 +2598,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "98.8"
+            "percent": "98.7"
           },
           "time_flies": {
             "name": "Time Flies",
@@ -2150,7 +2607,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "94.9"
+            "percent": "94.8"
           },
           "novice_miner": {
             "name": "Novice Miner",
@@ -2186,7 +2643,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "66.9"
+            "percent": "66.8"
           },
           "legendary_miner": {
             "name": "Legendary Miner",
@@ -2195,7 +2652,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "48.6"
+            "percent": "48.4"
           },
           "clicker": {
             "name": "Clicker",
@@ -2204,7 +2661,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "98.9"
+            "percent": "98.8"
           },
           "click_sprint": {
             "name": "Click Sprint",
@@ -2240,7 +2697,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "48.6"
+            "percent": "48.5"
           },
           "never_miss": {
             "name": "Never Miss",
@@ -2249,7 +2706,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "91.9"
+            "percent": "91.8"
           },
           "speed_demon": {
             "name": "Speed Demon",
@@ -2267,7 +2724,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "29.0"
+            "percent": "28.9"
           },
           "damage_dealer": {
             "name": "Damage Dealer",
@@ -2294,7 +2751,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "57.2"
+            "percent": "57.1"
           },
           "quadrillion_damage_club": {
             "name": "Quadrillion Damage Club",
@@ -2303,7 +2760,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.0"
+            "percent": "48.9"
           },
           "stone_age": {
             "name": "Stone Age",
@@ -2312,7 +2769,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "95.0"
+            "percent": "94.9"
           },
           "clay_sculptor": {
             "name": "Clay Sculptor",
@@ -2339,7 +2796,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "72.6"
+            "percent": "72.5"
           },
           "iron_will": {
             "name": "Iron Will",
@@ -2357,7 +2814,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "48.2"
+            "percent": "48.1"
           },
           "golden_touch": {
             "name": "Golden Touch",
@@ -2366,7 +2823,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "41.4"
+            "percent": "41.3"
           },
           "diamond_dreams": {
             "name": "Diamond Dreams",
@@ -2375,7 +2832,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "37.5"
+            "percent": "37.4"
           },
           "stick_fighter": {
             "name": "Stick Fighter",
@@ -2420,7 +2877,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "52.9"
+            "percent": "52.8"
           },
           "mallet_monarch": {
             "name": "Mallet Monarch",
@@ -2429,7 +2886,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "47.5"
+            "percent": "47.4"
           },
           "solid_steel": {
             "name": "Solid Steel",
@@ -2438,7 +2895,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "44.6"
+            "percent": "44.4"
           },
           "tungsten_titan": {
             "name": "Tungsten Titan",
@@ -2447,7 +2904,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "43.0"
+            "percent": "42.8"
           },
           "drone_pilot": {
             "name": "Drone Pilot",
@@ -2456,7 +2913,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "91.5"
+            "percent": "91.4"
           },
           "drone_commander": {
             "name": "Drone Commander",
@@ -2465,7 +2922,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "54.6"
+            "percent": "54.4"
           },
           "drone_overlord": {
             "name": "Drone Overlord",
@@ -2474,7 +2931,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "43.6"
+            "percent": "43.4"
           },
           "hammer_squadron": {
             "name": "Hammer Squadron",
@@ -2483,7 +2940,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "69.3"
+            "percent": "69.2"
           },
           "sentry_network": {
             "name": "Sentry Network",
@@ -2492,7 +2949,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "47.0"
+            "percent": "46.8"
           },
           "collection_force": {
             "name": "Collection Force",
@@ -2501,7 +2958,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.6"
+            "percent": "49.5"
           },
           "pierce_battalion": {
             "name": "Pierce Battalion",
@@ -2510,7 +2967,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.8"
+            "percent": "49.6"
           },
           "supervisor_council": {
             "name": "Supervisor Council",
@@ -2519,7 +2976,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "56.7"
+            "percent": "56.5"
           },
           "shatter_storm": {
             "name": "Shatter Storm",
@@ -2528,7 +2985,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "47.1"
+            "percent": "46.9"
           },
           "boost_brigade": {
             "name": "Boost Brigade",
@@ -2537,7 +2994,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "53.2"
+            "percent": "53.0"
           },
           "automated_empire": {
             "name": "Automated Empire",
@@ -2591,7 +3048,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "35.9"
+            "percent": "35.7"
           },
           "maximum_charge": {
             "name": "Maximum Charge",
@@ -2627,7 +3084,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "56.2"
+            "percent": "56.1"
           },
           "world_breaker": {
             "name": "World Breaker",
@@ -2645,7 +3102,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "54.2"
+            "percent": "54.1"
           },
           "fracture_master": {
             "name": "Fracture Master",
@@ -2654,7 +3111,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "34.7"
+            "percent": "34.6"
           },
           "core_collector": {
             "name": "Core Collector",
@@ -2672,7 +3129,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.7"
+            "percent": "49.5"
           },
           "iron_monopoly": {
             "name": "Iron Monopoly",
@@ -2681,7 +3138,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "68.6"
+            "percent": "68.5"
           },
           "reality_bender": {
             "name": "Reality Bender",
@@ -2699,7 +3156,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "63.5"
+            "percent": "63.4"
           },
           "reality_manipulator": {
             "name": "Reality Manipulator",
@@ -2708,7 +3165,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "36.9"
+            "percent": "36.8"
           },
           "reality_master": {
             "name": "Reality Master",
@@ -2717,7 +3174,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "24.8"
+            "percent": "24.7"
           },
           "shard_seeker": {
             "name": "Shard Seeker",
@@ -2726,7 +3183,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "48.6"
+            "percent": "48.5"
           },
           "shard_emperor": {
             "name": "Shard Emperor",
@@ -2735,7 +3192,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "36.8"
+            "percent": "36.6"
           },
           "dust_bunny": {
             "name": "Dust Bunny",
@@ -2744,7 +3201,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "88.3"
+            "percent": "88.2"
           },
           "dust_storm": {
             "name": "Dust Storm",
@@ -2753,7 +3210,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "67.5"
+            "percent": "67.4"
           },
           "dust_universe": {
             "name": "Dust Universe",
@@ -2762,7 +3219,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "52.4"
+            "percent": "52.3"
           },
           "stone_monopoly": {
             "name": "Stone Monopoly",
@@ -2789,7 +3246,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "74.8"
+            "percent": "74.7"
           },
           "quartz_monopoly": {
             "name": "Quartz Monopoly",
@@ -2798,7 +3255,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "72.0"
+            "percent": "71.9"
           },
           "gold_monopoly": {
             "name": "Gold Monopoly",
@@ -2807,7 +3264,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "56.9"
+            "percent": "56.7"
           },
           "diamond_monopoly": {
             "name": "Diamond Monopoly",
@@ -2816,7 +3273,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "52.6"
+            "percent": "52.5"
           },
           "upgrade_addict": {
             "name": "Upgrade Addict",
@@ -2879,7 +3336,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "43.5"
+            "percent": "43.4"
           },
           "pacifist_run": {
             "name": "Pacifist Run",
@@ -2897,7 +3354,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "68.3"
+            "percent": "68.2"
           },
           "geological_anomaly": {
             "name": "Geological Anomaly",
@@ -2906,7 +3363,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "42.7"
+            "percent": "42.6"
           },
           "memory_master": {
             "name": "Memory Master",
@@ -2915,7 +3372,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "39.3"
+            "percent": "39.1"
           },
           "sudden_surprise": {
             "name": "Sudden Surprise",
@@ -2924,7 +3381,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "46.9"
+            "percent": "46.7"
           },
           "geode_hunter": {
             "name": "Geode Hunter",
@@ -2933,7 +3390,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "47.0"
+            "percent": "46.8"
           },
           "mk_ii_master": {
             "name": "Mk II Master",
@@ -2942,7 +3399,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "44.2"
+            "percent": "44.0"
           }
         },
         "platform": null,
@@ -11160,7 +11617,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/7bd5d93dae9b09073cdca6c8ce0ca3bd4bd3300d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "35.4"
+            "percent": "35.3"
           },
           "Pal_Achievement_4": {
             "name": "Volcano Sovereign",
@@ -11169,7 +11626,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/3c1563349e7b1e2d8cc4208e6b23cd00c5a4b88c.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "39.6"
+            "percent": "39.5"
           },
           "Pal_Achievement_5": {
             "name": "Astral Sovereign",
@@ -11178,7 +11635,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/ac497d2d8ed411d64a02254a16d376a909de19f1.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "31.4"
+            "percent": "31.2"
           },
           "Pal_Achievement_6": {
             "name": "Beginning of the Legend",
@@ -11232,7 +11689,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/5ed8acd1e447cb7f6892621482f3f35310efa79e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "24.3"
+            "percent": "24.2"
           },
           "Pal_Achievement_12": {
             "name": "Eclipsed Siren",
@@ -11241,7 +11698,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/ef30ec1e49365e5b551ca7cc78dc0bad01fd3031.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "16.8"
+            "percent": "16.7"
           },
           "Pal_Achievement_13": {
             "name": "Blossom Sovereign",
@@ -11250,7 +11707,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/a405d83f3ed68e18fecec3adc42a29a0887c7324.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "24.5"
+            "percent": "24.3"
           },
           "Pal_Achievement_14": {
             "name": "Incarnation of the Eternal Flame",
@@ -11259,7 +11716,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/9f7102af4f5879490be0522395ee28ce22902aca.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "13.4"
+            "percent": "13.3"
           },
           "Pal_Achievement_15": {
             "name": "Exceptional Pal Tamer",
@@ -11268,7 +11725,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/f719f2864d6ae3da1858c8d5db4bd53be1a4b139.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.4"
+            "percent": "22.3"
           },
           "Pal_Achievement_16": {
             "name": "Overhunting",
@@ -11277,7 +11734,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/485c214c00e01c34056d090f43d9e58d9ac29c4e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.6"
+            "percent": "17.5"
           },
           "Pal_Achievement_17": {
             "name": "Inhuman Act",
@@ -11286,7 +11743,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/0077337de364b6014c6af7a6a9e285eba6565ff2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "40.9"
+            "percent": "40.8"
           },
           "Pal_Achievement_18": {
             "name": "Legendary Celestial Dragon",
@@ -11295,7 +11752,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/fde3e384107fe679fdddfd6cec15aab35b627ed2.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "26.8"
+            "percent": "26.7"
           },
           "Pal_Achievement_19": {
             "name": "Holy Knight of Legend",
@@ -11304,7 +11761,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/22b42db0dd58e2b49eb4a208b8a22702afc3cd70.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "21.6"
+            "percent": "21.5"
           },
           "Pal_Achievement_20": {
             "name": "Dark Knight of Legend",
@@ -11313,7 +11770,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/b2ab33d68f678964cc34a11f45f27876d3b72317.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "21.4"
+            "percent": "21.3"
           },
           "Pal_Achievement_21": {
             "name": "Legendary Steed of Ice",
@@ -11322,7 +11779,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/9d9f4ea196ef2c5824b4a5b3c2e59ac653f5efda.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "25.0"
+            "percent": "24.9"
           },
           "Pal_Achievement_22": {
             "name": "Trail of the Castaway",
@@ -11340,7 +11797,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/21bc52a62bf88b0e71a8eefbd15534a3f7d1d1f7.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.4"
+            "percent": "10.3"
           },
           "Pal_Achievement_24": {
             "name": "All for One",
@@ -11349,7 +11806,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/f5a0f12f50b8c6981826facd50231750a5879409.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.1"
+            "percent": "20.0"
           },
           "Pal_Achievement_25": {
             "name": "Voice of Resentment",
@@ -11358,7 +11815,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/7d26be1d00ef62b45a4b8b07509a913476a1d1ce.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.3"
+            "percent": "13.2"
           },
           "Pal_Achievement_26": {
             "name": "Senior Adventurer",
@@ -11376,7 +11833,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/1c8074278f73364c75c0d7bdc2b331cad6bb2096.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "29.0"
+            "percent": "28.9"
           },
           "Pal_Achievement_28": {
             "name": "Champion of the Palpagos Islands",
@@ -11403,7 +11860,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/873efeab09c76d86a2567c181fb8a95f8d3f4744.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "27.2"
+            "percent": "27.1"
           },
           "Pal_Achievement_31": {
             "name": "Blood and Iron",
@@ -11412,7 +11869,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/7c92ae4fc331c3b84f07bec2080e7f339bebbf50.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.0"
+            "percent": "9.9"
           },
           "Pal_Achievement_32": {
             "name": "Feybreak Sovereign",
@@ -11421,7 +11878,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/941eaafaac56d4416e3c03a05cfcb98aadf8dd27.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "19.9"
+            "percent": "19.7"
           },
           "Pal_Achievement_33": {
             "name": "Invader from Space",
@@ -11439,7 +11896,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/5ab2e6e4d945f3126f55bd016aedf773823549ee.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.2"
+            "percent": "5.1"
           },
           "Pal_Achievement_35": {
             "name": "Pal Labor Student",
@@ -11448,7 +11905,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/e41de4192cb7f19641054bab4a07ddd6ba5097ff.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.9"
+            "percent": "22.8"
           },
           "Pal_Achievement_36": {
             "name": "Pal Labor Researcher",
@@ -11457,7 +11914,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/de1e918de3ee70982a1a1e2eee2df860f3161339.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.4"
+            "percent": "14.3"
           },
           "Pal_Achievement_37": {
             "name": "Pal Labor Professor",
@@ -11475,7 +11932,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/1435e920d4a6181482412ddd70c90a7ae16cd35b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.3"
+            "percent": "22.2"
           },
           "Pal_Achievement_39": {
             "name": "Elite Pal Dispatcher",
@@ -11484,7 +11941,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/4124fff11c2a8d6bce6cb85a856ca294b3795a72.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.3"
+            "percent": "16.2"
           },
           "Pal_Achievement_40": {
             "name": "Freshman Surveyor",
@@ -11493,7 +11950,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/982ef0d29bf5edaca781e3b94f751c39e625edb8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "44.0"
+            "percent": "43.9"
           },
           "Pal_Achievement_41": {
             "name": "Junior Surveyor",
@@ -11502,7 +11959,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/3456010dd838ccc1d1bad3c3625f1339a72f5f0f.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "34.8"
+            "percent": "34.7"
           },
           "Pal_Achievement_42": {
             "name": "Senior Surveyor",
@@ -11511,7 +11968,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/4ac207eefd45a1aa5534ba7ef2355f337c51d7d4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.8"
+            "percent": "22.7"
           },
           "Pal_Achievement_43": {
             "name": "Predator Hunter",
@@ -11520,7 +11977,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/ccd6fa1b9c96efdde0a91df4add94a133fded555.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "26.1"
+            "percent": "25.9"
           },
           "Pal_Achievement_44": {
             "name": "No-Fly Zone",
@@ -11538,7 +11995,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/b3a0c89db4ab17c1129025b913b8c670fc2d0761.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "15.4"
+            "percent": "15.3"
           },
           "Pal_Achievement_46": {
             "name": "Seasoned Angler",
@@ -11565,7 +12022,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/5499364727ef53479ffdb04d429ed8d3c1920a50.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.9"
+            "percent": "14.8"
           },
           "Pal_Achievement_49": {
             "name": "Silver Champ",
@@ -11592,7 +12049,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/3c96c9096981d6294b791fadfd737e459c4927e8.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.1"
+            "percent": "18.0"
           },
           "Pal_Achievement_52": {
             "name": "Successful Infiltration",
@@ -11601,7 +12058,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/ca960963581db1b69c7ada2aa185cb936321fda9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "28.2"
+            "percent": "28.0"
           },
           "Pal_Achievement_53": {
             "name": "Unstoppable Streak",
@@ -11610,7 +12067,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/d7c9d86e72f66e76df7f66ab481efc64efdb086e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.1"
+            "percent": "6.0"
           },
           "Pal_Achievement_54": {
             "name": "A Nose for Treasure",
@@ -11619,7 +12076,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/e96c44944d6a722d1fa56f84058971f86d2bb7de.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.9"
+            "percent": "9.8"
           },
           "Pal_Achievement_55": {
             "name": "Rookie Pal Slayer",
@@ -11628,7 +12085,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/087e1016479d1dc1d4a9a1062ac86cb1502eac23.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "38.5"
+            "percent": "38.4"
           },
           "Pal_Achievement_56": {
             "name": "Alpha Pal Slayer",
@@ -11637,7 +12094,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/679509734679f286a8dd149792473ae00916e569.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "27.3"
+            "percent": "27.2"
           },
           "Pal_Achievement_57": {
             "name": "King of Salvation",
@@ -11646,7 +12103,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/9437780e2f0431e3f2fbc8cda7749f9f13ff811b.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "5.8"
+            "percent": "5.7"
           },
           "Pal_Achievement_58": {
             "name": "Forest Guru",
@@ -11754,7 +12211,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/12ad92ba0b5fa08b92502685ff323a3dc0d385d9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "15.1"
+            "percent": "14.9"
           },
           "Pal_Achievement_70": {
             "name": "Hidden Potential",
@@ -11763,7 +12220,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/72e56182ab97a9373e5f0365c47a4dab5eccce8a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.2"
+            "percent": "8.1"
           },
           "Pal_Achievement_71": {
             "name": "Arena Legend",
@@ -11781,7 +12238,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/eb926d95ad69f993e1f4f59dca7f04c471e4ec00.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "15.2"
+            "percent": "15.1"
           },
           "Pal_Achievement_73": {
             "name": "Legendary Ocean King",
@@ -11790,7 +12247,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/a590fa4873c1645e9ee19c2f7bfc2e9c958dfb72.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "14.9"
+            "percent": "14.8"
           },
           "Pal_Achievement_74": {
             "name": "To the World Tree",
@@ -11799,7 +12256,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/75b5b2a31b0d8ae26bba6013c1cc96080c31c71e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.7"
+            "percent": "14.5"
           },
           "Pal_Achievement_75": {
             "name": "Savior of Palpagos",
@@ -11808,7 +12265,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1623730/3c6a825793b02c9013d698e4e266b34f271eab0b.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "10.2"
+            "percent": "10.1"
           }
         },
         "platform": null,
@@ -15709,796 +16166,796 @@
         },
         "platform": null,
         "blacklist": [],
-        "uses_db": false
+        "uses_db": true
       },
       "achievements": {
         "ReachLV5": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681658006
         },
         "ReachLV10": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681659006
         },
         "Survive1Minute": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681657425
         },
         "Survive5MinutesWithDiamond": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731555
         },
         "Survive10Minutes": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681660140
         },
         "GetFireWandToLevel4": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681744114
         },
         "GetHolyBookToLevel4": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681659006
         },
         "GetHolyWaterToLevel4": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681659006
         },
         "GetLightningRingToLevel4": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "GetMagicMissileToLevel7": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681659006
         },
         "GetPeachoneToLevel7": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681744114
         },
         "GetRunetracerToLevel7": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "Have6DifferentWeapons": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681661047
         },
         "Destroy20Candles": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681659006
         },
         "Eat5PotRoast": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681660140
         },
         "FindAClover": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "FindAVacuum": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681661047
         },
         "FindAnOrologion": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681659006
         },
         "FindARosary": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681661047
         },
         "Defeat5000Enemies": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681661047
         },
         "Defeat3000Skeletons": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681818196
         },
         "Survive20Minutes": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "DefeatBossMadForest": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681833057
         },
         "DefeatBossLibrary": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "ReachLV20InMadForest": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681661047
         },
         "Survive5MinutesWithKnife": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681746751
         },
         "FindAStoneMask": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681744114
         },
         "EvolveWhip": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731555
         },
         "EvolveMagicWand": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681744114
         },
         "EvolveKnife": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "EvolveAxe": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "EvolveCross": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681746751
         },
         "EvolveKingBible": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681818196
         },
         "EvolveFireWand": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681744114
         },
         "GetGarlicToLevel7": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681661047
         },
         "EvolveGarlic": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681749301
         },
         "UniteBirds": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681749301
         },
         "Unlock2Hypers": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681746751
         },
         "Recover1000HP": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681744114
         },
         "Earn5000CoinsInASingleRun": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "Defeat100KEnemies": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681744113
         },
         "Survive20MinutesWithCross": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681918864
         },
         "EvolveSantaWater": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "EvolveLightning": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "ReachLV100WithMortaccio": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681749301
         },
         "Survive30MinutesInGreenAcres": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682529235
         },
         "ReachLV100WithCavallo": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682219588
         },
         "Defeat3000Buers": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "Survive20MinutesWithCurse": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681833058
         },
         "Survive30MinutesWithAxe": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682002624
         },
         "ReachLV40InLibrary": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "DefeatBossPlant": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681746751
         },
         "FindMilkyWayMap": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681746751
         },
         "FindCoffinStage3": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681746751
         },
         "Survive15MinutesWithSong": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682005013
         },
         "EvolveSongOfMana": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682005013
         },
         "GetPentagramToLevel7": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "Unlock3Hypers": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731554
         },
         "Survive15MinutesInMolise": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682263402
         },
         "EvolvePentagram": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681731555
         },
         "See50Items": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681749301
         },
         "FindCoffinStage1": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681833058
         },
         "Survive10MinutesWithGuns": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681916287
         },
         "Survive15MinutesWithGuns": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681916287
         },
         "EvolveGuns": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682147002
         },
         "EvolveRunetracer": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681916287
         },
         "ReachLV100WithRamba": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682594646
         },
         "See60Items": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681818196
         },
         "DefeatBossTower": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681818196
         },
         "FindSorceressTears": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681818196
         },
         "ReachLV60InDairyPlant": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681746751
         },
         "Defeat3000Milk": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682531980
         },
         "See70Items": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681833058
         },
         "FindRandomazzo": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681749841
         },
         "Survive15MinutesWithGatti": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681997029
         },
         "FindCoffinStage2": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681749301
         },
         "ReachLV99WithGiovanna": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681997029
         },
         "ReachLV99WithKroci": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681918864
         },
         "FindRandomazzoT06": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681749841
         },
         "ReachLV99WithLama": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682000290
         },
         "ReachLV99WithPoppea": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682005013
         },
         "ReachLV99WithArca": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682144760
         },
         "Defeat3000Hydra": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682250771
         },
         "Unlock3Hypers_Correct": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681818196
         },
         "Survive30MinutesInBoneZone": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682526044
         },
         "ReachLV100WithOsole": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682260231
         },
         "ReachLV99WithImelda": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682007212
         },
         "ReachLV99WithGennaro": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682006125
         },
         "FindCoffinStage4": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681749841
         },
         "ReachLV99WithConcetta": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682137065
         },
         "EvolveGatti": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681997029
         },
         "EvolveShadow": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682137065
         },
         "Survive31MinutesInLibrary": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681916287
         },
         "See80Items": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681906492
         },
         "FindMagicBanger": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681818196
         },
         "Survive15MinutesWithShadow": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682137065
         },
         "Unlock4Hypers": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681829257
         },
         "Survive15MinutesInMoongolow": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681837305
         },
         "BuyGlassMask": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681833317
         },
         "ReachLV99WithPasqualina": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682217829
         },
         "Survive31MinutesInTower": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682259298
         },
         "See90Items": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681918864
         },
         "FindYellowSign": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681830683
         },
         "ObtainTheInfiniteCorridor": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681906492
         },
         "ObtainTheCrimsonShroud": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681916287
         },
         "ReachLV99WithAntonio": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681818196
         },
         "Survive31MinutesInForest": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682248289
         },
         "Have6Evolutions": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681829257
         },
         "GetTorroneToLevel9": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681906492
         },
         "FindYellowSignS5": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681818196
         },
         "FindCoffinStage5": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681829257
         },
         "Survive15MinutesWithWind": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681906492
         },
         "EvolveWind": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681906492
         },
         "DefeatBossChapel": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681829257
         },
         "Defeat6000StageKillers": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681835878
         },
         "ReachLV99WithPorta": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681833058
         },
         "Survive31MinutesInDairyPlant": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681918864
         },
         "See100Items": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682000291
         },
         "ReachLV100WithAmbrojoe": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682221143
         },
         "FindGrimoire": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681661820
         },
         "FindGouda": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681746751
         },
         "FindGGospel": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681835879
         },
         "DefeatBossChapel2": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681835879
         },
         "Unlock5Hypers": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681833058
         },
         "Survive15MinutesInBossRash": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682526044
         },
         "ReachLV99WithDommario": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681922108
         },
         "ReachLV99WithPugnala": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681916287
         },
         "FindForbiddenScroll": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681919346
         },
         "ReachLV99WithChristine": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682146011
         },
         "CompleteCollection": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682594646
         },
         "Defeat100kWithSigma": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682596373
         },
         "ReachLV99WithClerici": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681829257
         },
         "ReachLV99WithPoe": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681835879
         },
         "GalloDivano": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682248289
         },
         "EvolveBracelet": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682250771
         },
         "EvolveAll": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682250771
         },
         "ObtainAllRelics": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681919346
         },
         "ObtainGraciasMirror": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681919392
         },
         "ObtainSeventhTrumpet": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681919476
         },
         "GreatestJubilee": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1681920173
         },
         "Banish10Items": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682144760
         },
         "ReachLV80InverseTower": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682250771
         },
         "MOON01_FindCoffin": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682597667
         },
         "MOON02_Survive15Miang": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682598341
         },
         "MOON03_EvolveSilverWind": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682598341
         },
         "MOON04_Survive15Menya": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682600713
         },
         "MOON05_EvolveFourSeasons": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682600713
         },
         "MOON06_Survive15Syuuto": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682602385
         },
         "MOON07_EvolveSummonNight": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682602385
         },
         "MOON08_Survive15BabiOnna": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682603324
         },
         "MOON09_EvolveMirageRobe": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682603325
         },
         "MOON10_Survive15McCoy": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682604288
         },
         "MOON11_Defeat100kVanya": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682600713
         },
         "MOON12_Defeat100kVadjouel": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682602385
         },
         "MOON13_Defeat6kWater": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682604288
         },
         "MOON14_FindNightSword": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682597667
         },
         "MOON15_EvolveNightSword": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682597667
         },
         "MOON16_DefeatBossRuins": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682597667
         },
         "MOON17_EvolveBubbles": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682604943
         },
         "ReachLV80InverseForest": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682248289
         },
         "FindApoplexy": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682267763
         },
         "FindChaosMalachite": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682267763
         },
         "Banish20Items": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682531981
         },
         "FOSC01_FindCoffin": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682604943
         },
         "FOSC02_Survive15Eleanor": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682605631
         },
         "FOSC03_GetStreamToLevel6": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682605632
         },
         "FOSC04_GetStrikeToLevel6": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682605632
         },
         "FOSC05_UniteSpells": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682605632
         },
         "FOSC06_Survive15Viktor": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682606301
         },
         "FOSC07_EvolveEskizzibur": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682606301
         },
         "FOSC08_Survive15Keira": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682609576
         },
         "FOSC09_EvolveFlashArrow": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682609576
         },
         "FOSC10_BreakSeal1": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682609576
         },
         "FOSC11_BreakSeal2": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682610012
         },
         "FOSC12_BreakSeal3": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682611208
         },
         "FOSC13_Survive15Luminaire": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682686976
         },
         "FOSC14_EvolvePrismatic": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682611208
         },
         "FOSC15_Survive15Genevieve": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682738615
         },
         "FOSC16_EvolveShadow": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682738615
         },
         "FOSC17_Defeat100kGenevieve": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682738615
         },
         "FOSC18_Defeat6kFairy": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682609576
         },
         "FOSC19_Defeat6kHorror": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682612067
         },
         "FOSC20_DefeatBossLake": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682609576
         },
         "FOSC21_DefeatBossAbyss": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1682611208
         },
         "ReachLV80InverseLibrary": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1686661647
         },
         "FindChaosRosalia": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1686662339
         },
         "FindTrisection": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1686662339
         },
         "FindMap_AstralStair": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1686662339
         },
         "MOON18_FindMap_Moonspell": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1686662752
         },
         "FOSC22_FindMap_Foscari": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1686662933
         },
         "FindChaosAltemanna": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1699368476
         },
         "FindManyOrologions": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1699368476
         },
         "GetGlassFandangoToLevel7": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1699369452
         },
         "EvolveGlassFandango": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1699369452
         },
         "SurviveUntilTheEndOfWhiteout": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1699369452
         },
         "FindAntidote": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1699369452
         },
         "FindAtlas": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1762866688
         },
         "FindManyGoldenFinger": {
           "earned": false,
@@ -16521,36 +16978,36 @@
           "earned_time": 0
         },
         "DefeatManyBats": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1736093651
         },
         "EvolveBattilia": {
           "earned": false,
           "earned_time": 0
         },
         "FindManyRosaries": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1736089181
         },
         "GetJavelinToLevel7": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1736090662
         },
         "EvolveJavelin": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1736090662
         },
         "Survive20MinutesInLaborratory": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1736091830
         },
         "FindAnArmaDio": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1736090662
         },
         "HitManyEnemiesWithTrain": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1736090662
         },
         "Banish40Items": {
           "earned": false,
@@ -16565,16 +17022,16 @@
           "earned_time": 0
         },
         "CastForbiddenBox": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1762873540
         },
         "ObtainDarkasso": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1762874165
         },
         "Dark_06Darkasso": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1762874165
         },
         "Dark_01SpaceDude": {
           "earned": false,
@@ -16593,24 +17050,24 @@
           "earned_time": 0
         },
         "FindManyChickens": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1762866073
         },
         "FindAParmAegis": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1762871329
         },
         "FindChickenClock": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1762871329
         },
         "Defeat0EnemiesInCoop": {
           "earned": false,
           "earned_time": 0
         },
         "EvolveOfGaea": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1762871329
         },
         "Dark_03Gazebo": {
           "earned": false,
@@ -16629,8 +17086,8 @@
           "earned_time": 0
         },
         "FindManyClovers": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1762866074
         },
         "Survive20minutesInWestwoods": {
           "earned": false,
@@ -16669,8 +17126,8 @@
           "earned_time": 0
         },
         "DefeatShootingEnemies": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1762866074
         },
         "EvolveAmmoAppalate": {
           "earned": false,
@@ -17132,7 +17589,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "89.8"
+            "percent": "89.9"
           },
           "CRYPTO_MINE": {
             "name": "Crypto Mine",
@@ -17213,7 +17670,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "78.1"
+            "percent": "78.0"
           },
           "DEPLOY_GODVIRUS": {
             "name": "Genesis",
@@ -17379,7 +17836,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/5d0f836c97d87d868a2532224f404dff02cc6cad.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "70.6"
+            "percent": "70.5"
           },
           "artifact": {
             "name": "Hidden inside a rock!",
