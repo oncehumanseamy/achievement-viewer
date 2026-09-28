@@ -1,0 +1,208 @@
+{
+  "appid": "3769130",
+  "name": "Keep on Mining!",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3769130/320ecc31730377d03c319b411fbf9ee95908d3c2/header.jpg?t=1779084143",
+  "achievements": {
+    "mine_rock": {
+      "name": "Mine a rock.",
+      "description": "Mine a rock.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/841e477f039e3de035a9753ea250175c4d4244dc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/841e477f039e3de035a9753ea250175c4d4244dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "99.9"
+    },
+    "mineRock200K": {
+      "name": "Mine a lot of rocks!",
+      "description": "Mine more than 200 000 rocks.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/841e477f039e3de035a9753ea250175c4d4244dc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/841e477f039e3de035a9753ea250175c4d4244dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.3"
+    },
+    "copper": {
+      "name": "Copper!",
+      "description": "Unlock copper rocks.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/a636a47c2706bd7f00b642921cd4f9432be007a4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/a636a47c2706bd7f00b642921cd4f9432be007a4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "96.2"
+    },
+    "allMaterial": {
+      "name": "All materials unlocked!",
+      "description": "Unlock all different material rocks.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/4a4b217c83f5c8af80d765c30a607d018c56fd90.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/4a4b217c83f5c8af80d765c30a607d018c56fd90.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "77.9"
+    },
+    "beamDynamitePlazma": {
+      "name": "Beams, explosions and balls!",
+      "description": "Unlock the lightning beam, dynamite and plazma balls.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/690c4266a1d6362dbc6c3518ed12f8c2656d3e01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/690c4266a1d6362dbc6c3518ed12f8c2656d3e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "89.7"
+    },
+    "allSkillTree": {
+      "name": "Everything purchased!",
+      "description": "Purchase every single skill tree upgrade.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/a008f51362e2704c2beddd307f2bc5bf8ad97cb7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/a008f51362e2704c2beddd307f2bc5bf8ad97cb7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.4"
+    },
+    "talentCard": {
+      "name": "Pick a card, any card.",
+      "description": "Choose 1 talent card.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/3474d67b1cbc2d7e9ebbda17004acf7b21232d24.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/3474d67b1cbc2d7e9ebbda17004acf7b21232d24.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "99.0"
+    },
+    "talentCard10": {
+      "name": "Card collector.",
+      "description": "Choose 10 talent cards.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/f82203fa6ee65e78941f54189b18845a342a7746.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/f82203fa6ee65e78941f54189b18845a342a7746.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "89.6"
+    },
+    "pickaxe": {
+      "name": "First we mine.. ",
+      "description": "Craft a pickaxe!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/3f13eb6851ede0eb0f70201cbc7bd4c95aecc911.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/3f13eb6851ede0eb0f70201cbc7bd4c95aecc911.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "97.5"
+    },
+    "pickaxeALL": {
+      "name": "Then we craft!",
+      "description": "Craft all pickaxes! (Except the final one)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/5d0f836c97d87d868a2532224f404dff02cc6cad.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/5d0f836c97d87d868a2532224f404dff02cc6cad.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.6"
+    },
+    "artifact": {
+      "name": "Hidden inside a rock!",
+      "description": "Find an artifact.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/6a762aa733651b0ee4637aa33172a1576d7b4d0f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/6a762aa733651b0ee4637aa33172a1576d7b4d0f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "99.0"
+    },
+    "artifact7": {
+      "name": "Unearther ",
+      "description": "Find 7 artifacts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/6a762aa733651b0ee4637aa33172a1576d7b4d0f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/6a762aa733651b0ee4637aa33172a1576d7b4d0f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "93.4"
+    },
+    "artifactALL": {
+      "name": "Master Archaeologist",
+      "description": "Find ALL artifacts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/6a762aa733651b0ee4637aa33172a1576d7b4d0f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/6a762aa733651b0ee4637aa33172a1576d7b4d0f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.7"
+    },
+    "bars100": {
+      "name": "Craft!",
+      "description": "Craft 100 bars.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/2f851a4a505471cd740fa3cc9b73029ee31d33fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/2f851a4a505471cd740fa3cc9b73029ee31d33fa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "98.5"
+    },
+    "bars100M": {
+      "name": "Craft everything!",
+      "description": "Craft 100M bars.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/2f851a4a505471cd740fa3cc9b73029ee31d33fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/2f851a4a505471cd740fa3cc9b73029ee31d33fa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.9"
+    },
+    "ores1000": {
+      "name": "Ores!",
+      "description": "Collect 1000 ores.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/77f213f800d61c32d101a81dcf791bb463f3e33e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/77f213f800d61c32d101a81dcf791bb463f3e33e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "97.2"
+    },
+    "ores500M": {
+      "name": "More ore!",
+      "description": "Collect 500M ores.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/77f213f800d61c32d101a81dcf791bb463f3e33e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/77f213f800d61c32d101a81dcf791bb463f3e33e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.9"
+    },
+    "levelUp": {
+      "name": "1",
+      "description": "Level up!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/eacce61a4b54a7f0466abddf68f19c94370b174a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/eacce61a4b54a7f0466abddf68f19c94370b174a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "99.4"
+    },
+    "levelUp80": {
+      "name": "Keep on leveling!",
+      "description": "Reach level 80.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/eacce61a4b54a7f0466abddf68f19c94370b174a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/eacce61a4b54a7f0466abddf68f19c94370b174a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.1"
+    },
+    "beatGame": {
+      "name": "Beat the game.",
+      "description": "You mined the big rock.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/448180e40e2514da4a4b190095ecfdb382544890.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/448180e40e2514da4a4b190095ecfdb382544890.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "74.3"
+    },
+    "equipDiamondPickaxe": {
+      "name": "The diamond pickaxe.",
+      "description": "Equip the diamond pickaxe.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/df9424acb215b94bc9fa906be435b6198091a071.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/df9424acb215b94bc9fa906be435b6198091a071.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.9"
+    },
+    "theMine": {
+      "name": "The Mine!",
+      "description": "Purchase The Mine!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/334c2b882b8c57937fcaa8cbf88541a8c6859148.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/334c2b882b8c57937fcaa8cbf88541a8c6859148.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

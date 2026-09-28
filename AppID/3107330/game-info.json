@@ -1,0 +1,127 @@
+{
+  "appid": "3107330",
+  "name": "Nodebuster",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3107330/header.jpg?t=1746551295",
+  "achievements": {
+    "FIRST_SESSION": {
+      "name": "Awakened",
+      "description": "Initiate your first session",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/82a3782f1d1f9b40519f70f5fda9401a4b0c3299.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "99.4"
+    },
+    "TOTAL_SESSIONS_50": {
+      "name": "Routine",
+      "description": "Initiate 50 total sessions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/5230d14e99930a51bc03f0bff18e3c216fe4d5fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.9"
+    },
+    "MILESTONES": {
+      "name": "Milestones",
+      "description": "Unlock Milestones",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/7130482c2af3c65e6c3a9c908b296a12912c288a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "89.8"
+    },
+    "CRYPTO_MINE": {
+      "name": "Crypto Mine",
+      "description": "Unlock the Crypto Mine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/c698bdfa37c0f45b0f94fac79c5cfbf0001fc614.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "84.9"
+    },
+    "THE_LAB": {
+      "name": "The Lab",
+      "description": "Unlock the Lab",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/ed048401baaf854ecf87c618c75e10bc404b2280.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "77.5"
+    },
+    "BITS_10K": {
+      "name": "Bit Guy",
+      "description": "Earn a total of 10,000 Bits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/1367c82010b81d6cbcb43360cda7cd165ee70905.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "89.0"
+    },
+    "BITS_100K": {
+      "name": "Bit Getter",
+      "description": "Earn a total of 100,000 Bits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/2fee105a6e24f4d4c74308cd4e8501462f4bc8ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.1"
+    },
+    "BITS_1M": {
+      "name": "Bit Collector",
+      "description": "Earn a total of 1,000,000 Bits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/5977ff76d328e58691b1fa99e1de7e39d14ebdc6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.9"
+    },
+    "BITS_10M": {
+      "name": "Bit Lord",
+      "description": "Earn a total of 10,000,000 Bits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/60d4b73e819196377ad9328ab035395a88a6637b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.9"
+    },
+    "NODES_1K": {
+      "name": "Node Hunter",
+      "description": "Earn a total of 1,000 Nodes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/81751743733621f5c2db8e4e21103f1c3530d8fb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.7"
+    },
+    "NODES_10K": {
+      "name": "Node Buster",
+      "description": "Earn a total of 10,000 Nodes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/b9cfaf9372f082516ea1810a61182ba5c9286d6f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.9"
+    },
+    "SP_25": {
+      "name": "SP Seeker",
+      "description": "Earn a total of 25 SP",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/36a13b2f1d929c29307772fc83a3da58a8071ed3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.1"
+    },
+    "DEPLOY_GODVIRUS": {
+      "name": "Genesis",
+      "description": "Deploy the godvirus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/0e4fb13cfb0add834d5202cd23304ceec4acbd6b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,100 @@
+{
+  "appid": "4634560",
+  "name": "Carpet Cleaning Simulator",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634560/30ce64b008c8a9d0828a372fea2a75d015d5f22d/header.jpg?t=1783917119",
+  "achievements": {
+    "ACH_CLEAR_GAME": {
+      "name": "Clear!",
+      "description": "Clear the game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/2bfa77a897175812b28c103eb3d52a0e379fc4ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/d6c1f27b7a61a96ccf1a29b73db332c51f1be222.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.0"
+    },
+    "ACH_EARTH_DESTROYED": {
+      "name": "Earth Destroyed",
+      "description": "Let the meteor destroy the Earth.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/ab48ef3210cc7bb5d69cad01f09e60ed7aacae98.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/643be6ad8455e3f36e684b5143d6d0103a4964dd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.3"
+    },
+    "ACH_CLEAN_FIRST_CARPET": {
+      "name": "First Clean",
+      "description": "Fully clean your first carpet.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/d4b324ee9ea580d1bc1e6c95fd5fded0e361c1a4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/f281ff17f463c45e65e06560269acea9625fa738.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "93.7"
+    },
+    "ACH_CLEAN_FIRST_UNKNOWN_CARPET": {
+      "name": "Unknown Encounter",
+      "description": "Fully clean your first unknown carpet.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/ddef82fd6b4c5a5751ca54a2599a0247970b251d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/1b3db09e74ab86d20471e598d4369cb2107fc510.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.0"
+    },
+    "ACH_TOOL_LEVEL_10": {
+      "name": "Tool Master",
+      "description": "Raise any tool to Level 10.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/b9cf071a10cea847917ba1d97d017af61fa13dab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/6c92127eb51e85de043a85407b1c9f2b460c9813.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.3"
+    },
+    "ACH_ENTER_GAME_WITH_ROBOT": {
+      "name": "Robot Deployed",
+      "description": "Start cleaning while owning a cleaning robot.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/1db8671e6e162b42754baf936ba96b5a35e925ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/06a9b59ee17180a8f6bd1d18a4977f3df74ca800.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.5"
+    },
+    "ACH_ENTER_GAME_WITH_FAN": {
+      "name": "Fan Deployed",
+      "description": "Start cleaning while owning a fan.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/b25383b1794e0d404c850fea536f53875d161a34.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/afe10ef93787712fca0ae1826df407629f5971c6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.0"
+    },
+    "ACH_CLEAN_10_CARPETS": {
+      "name": "Cleaning Pro",
+      "description": "Fully clean 10 carpets in total.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/c7b965ae98ddb0883bffe7438fa2cde9ff2ac9b0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/7312170dbd625e0b72c00c423eda6be1c83f244d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.0"
+    },
+    "ACH_FIRST_DARK_SHOP_PURCHASE": {
+      "name": "Dark Deal",
+      "description": "Make your first purchase at the Dark Shop.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/84a5bb4768dcb46d7673598d6736b8ed8c06faaa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/76968ce5547121bae25e399b59b8b94e6e000e09.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.9"
+    },
+    "ACH_MONEY_1M": {
+      "name": "Millionaire",
+      "description": "Have more than 1M money.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/425d3c139116968c56ca9e404d9f2dde1f7242df.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/887473e06626d3a87f6117e2f92af07999f526f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.6"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

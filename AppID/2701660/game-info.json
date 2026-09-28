@@ -1,0 +1,388 @@
+{
+  "appid": "2701660",
+  "name": "DRAGON QUEST III HD-2D Remake",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701660/header.jpg?t=1785184720",
+  "achievements": {
+    "ACHIEVEMENT_00": {
+      "name": "A Legend Is Born",
+      "description": "Awarded for unlocking all other achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/3a09b8be2704d57e067ebfb64976638e24027324.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "ACHIEVEMENT_01": {
+      "name": "Adventure Underway",
+      "description": "Awarded for leaving Aliahan.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/c70719acac33500bcd736b30a4dde3b0b259bdf8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "92.7"
+    },
+    "ACHIEVEMENT_02": {
+      "name": "The World Awaits",
+      "description": "Awarded for leaving the Shrine of Promise.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/a9b2dbcf032338b9a009a8be654a6725586bbfc7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.8"
+    },
+    "ACHIEVEMENT_03": {
+      "name": "Dishonourable Defeat",
+      "description": "Awarded for defeating Robbin' 'Ood.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/cc22697d3688a82f0bad88c4de1add21f4165a00.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.7"
+    },
+    "ACHIEVEMENT_04": {
+      "name": "Ripper Ripped",
+      "description": "Awarded for defeating the Ripper of the Rift.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/edbfa11e5b39678aa359ecb1aff70e62013a41fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.1"
+    },
+    "ACHIEVEMENT_05": {
+      "name": "Double Defeat",
+      "description": "Awarded for defeating Robbin' 'Ood...again.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/7e354d7ba0f5f0f285958e4ee27471acdd30b958.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.6"
+    },
+    "ACHIEVEMENT_06": {
+      "name": "Sea Legs",
+      "description": "Awarded for obtaining your very own ship.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/8e1909ecdf48b145b9c80b7283b41827a5ad5733.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.8"
+    },
+    "ACHIEVEMENT_07": {
+      "name": "Orochi Ousted",
+      "description": "Awarded for defeating Orochi.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/f048c49dd2802f5597713ab64ab5ad068bada577.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.0"
+    },
+    "ACHIEVEMENT_08": {
+      "name": "Chiromassacre",
+      "description": "Awarded for defeating the Chiromancer.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/0ad1cb09f6feb5d705ea35313080a8a014a92804.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.8"
+    },
+    "ACHIEVEMENT_09": {
+      "name": "Playing with the Dead",
+      "description": "Awarded for defeating the dying fires.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/5f7c9f17e5cdc54e460dc4dfd1cd9b08c61e37f3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.9"
+    },
+    "ACHIEVEMENT_10": {
+      "name": "Mirror, Mirror...",
+      "description": "Awarded for defeating the boss troll that had disguised itself as Manoza's ruler.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/6eccdf39b6c08ced11a9700a603ae7199db727c1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.0"
+    },
+    "ACHIEVEMENT_11": {
+      "name": "Grudge Match",
+      "description": "Awarded for defeating the Garboyle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/32118f52f15ef9f24c531148aed79bf1813eb866.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.2"
+    },
+    "ACHIEVEMENT_12": {
+      "name": "Everbird Awakened",
+      "description": "Awarded for reviving Ramia.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/066535dfacbeb77b0dd48a881075701991940d14.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.5"
+    },
+    "ACHIEVEMENT_13": {
+      "name": "Baramos Bested",
+      "description": "Awarded for defeating Baramos.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/6ec6f032d4b94fc923b8ebc234fb49fc4490a064.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.3"
+    },
+    "ACHIEVEMENT_14": {
+      "name": "Deeper Underground",
+      "description": "Awarded for setting foot in Alefgard.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/96620b28e82fa0731afc9a595b0c5880b98470bc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "53.8"
+    },
+    "ACHIEVEMENT_15": {
+      "name": "The Almighty",
+      "description": "Awarded for freeing Rubiss.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/de98ad5a43ae6c8ed17dc9b348dff29ac607d13f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "49.6"
+    },
+    "ACHIEVEMENT_16": {
+      "name": "Rainbow, Rainbow",
+      "description": "Awarded for summoning forth the bridge of the rain's bow.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/f5a59484854164ec670d83baf31eb83aa0a5e00d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.6"
+    },
+    "ACHIEVEMENT_17": {
+      "name": "Seeds of Salvation",
+      "description": "Awarded for completing the game's story.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/dc714e3d8dc9416f1368f629bffd74e4836a23cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.9"
+    },
+    "ACHIEVEMENT_18": {
+      "name": "Mate of the Monsters",
+      "description": "Awarded for filling up the Defeated Monster List.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/a1b5107d722ef97ddaaa9f1efbb673f36f929098.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "ACHIEVEMENT_19": {
+      "name": "Item Aficionado",
+      "description": "Awarded for obtaining 250 items.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/5bc71e453d5a3d2a4c1a9250e84f5f69b1282bbc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.3"
+    },
+    "ACHIEVEMENT_20": {
+      "name": "Able Conjurer",
+      "description": "Awarded for learning all spells and abilities.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/0d203d1f58ad806e8134f51f957504eb255e1e83.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.3"
+    },
+    "ACHIEVEMENT_21": {
+      "name": "Grand Designs",
+      "description": "Awarded for obtaining the grand medal.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/327521d8083de91dbfff6c7e916d98e49728d443.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.8"
+    },
+    "ACHIEVEMENT_22": {
+      "name": "Farewell, Mortal",
+      "description": "Awarded for having Xenlon grant every one of your wishes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/76be3c75cab7e82d340a92270e91adb37dd4534e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.0"
+    },
+    "ACHIEVEMENT_23": {
+      "name": "Monster Monitor",
+      "description": "Awarded for rescuing all friendly monsters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/165e480eb5b4f3b77848cfeac9d13ea1ea4b8c85.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "ACHIEVEMENT_24": {
+      "name": "Many a Medal",
+      "description": "Awarded for getting all Morgan Minimann's prizes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/b45c25c6486c46a3a664948a8af60f936bae3813.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.0"
+    },
+    "ACHIEVEMENT_25": {
+      "name": "Monster Champion",
+      "description": "Awarded for winning the rank-11 monster arena tournament.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/8a08eb6ef53fd2d34703b27d75d9ebbbf065de99.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.6"
+    },
+    "ACHIEVEMENT_26": {
+      "name": "Brilliant Battler",
+      "description": "Awarded for winning 1000 battles.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/6628a18890fc1c13f82d19fce33838d9f840d65f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.4"
+    },
+    "ACHIEVEMENT_27": {
+      "name": "Sparkle Spotter",
+      "description": "Awarded for interacting with 100 sparkly spots on the world map.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/835fbb20545b27056d25028a656b04fd14df483d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.3"
+    },
+    "ACHIEVEMENT_28": {
+      "name": "Much Ado about Money",
+      "description": "Awarded for earning 100,000 gold coins over the course of your adventure.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/1c89ab2f55092e6c787ff30106fd4ef5ad2a7aaa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.7"
+    },
+    "ACHIEVEMENT_29": {
+      "name": "Tonnes of Treasure",
+      "description": "Awarded for opening 100 treasure chests.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/f9c5ce001c183df4ef293221f78bd916ddb5da3a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.4"
+    },
+    "ACHIEVEMENT_30": {
+      "name": "Metallic Masher",
+      "description": "Awarded for defeating a metal slime or liquid metal slime for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/8c5cb2da3dced7a21a54d38c29b9396c4f910f30.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.3"
+    },
+    "ACHIEVEMENT_31": {
+      "name": "Juggling Jobs",
+      "description": "Awarded for changing vocations for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/4c895e64ea807bfe4bb0e056b023d18089410a01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.3"
+    },
+    "ACHIEVEMENT_32": {
+      "name": "Wakey-Wakey, Rise and Shiiine",
+      "description": "Awarded for removing the curse placed on Norvik.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/3c5f8f904f4cf20d2b7f6bfe26a9c5802e549366.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.6"
+    },
+    "ACHIEVEMENT_33": {
+      "name": "Heroic Headwear",
+      "description": "Awarded for obtaining the auroral helm.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/cc0329a694c4ec72ba773b606871e132e6c5a04b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.2"
+    },
+    "ACHIEVEMENT_34": {
+      "name": "Stately Sword",
+      "description": "Awarded for obtaining the Sword of Kings.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/956ea83717b8c5c32430c604c3cc0d593dc5b73a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.9"
+    },
+    "ACHIEVEMENT_35": {
+      "name": "Rip-Off Merchant",
+      "description": "Awarded for being ripped off.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/1a12fc20a4d3a44e2ec055bf3f95026595dfe893.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.5"
+    },
+    "ACHIEVEMENT_36": {
+      "name": "Puffection",
+      "description": "Awarded for enjoying a puff-puff.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/277de480a4b4081ff70679296d015cd57cb003e3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.1"
+    },
+    "ACHIEVEMENT_37": {
+      "name": "Sage Advice",
+      "description": "Awarded for obtaining the sage vocation.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/9ebca553362aa0c592d60db521f12b9c7db2294a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.4"
+    },
+    "ACHIEVEMENT_38": {
+      "name": "Join the Party",
+      "description": "Awarded for adding someone to your party for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/54d03554bf5819bac46f6324203eaba04e2f2628.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "93.2"
+    },
+    "ACHIEVEMENT_39": {
+      "name": "Regal Ruler",
+      "description": "Awarded for acquiescing to the king's request to become ruler of Romaria.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/1689340c92a771a959f3e1a6bbb14202a3067926.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.7"
+    },
+    "ACHIEVEMENT_40": {
+      "name": "Undoing Death",
+      "description": "Awarded for reviving yourself at a church for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/354d98844d9459e400e8e45e1872781009f9653d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.6"
+    },
+    "ACHIEVEMENT_41": {
+      "name": "Finders Keepers",
+      "description": "Awarded for obtaining the golden claws and escaping the great pyramid's basement.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/7b8852fe26b860175481f702daf8d15d031e2b11.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2701660/fa206ed3a86ce97611c80d30a3f4218fb5488c1a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

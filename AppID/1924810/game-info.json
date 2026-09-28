@@ -1,0 +1,424 @@
+{
+  "appid": "1924810",
+  "name": "Kamiwaza: Way of the Thief",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924810/header.jpg?t=1732584821",
+  "achievements": {
+    "PLATINUM": {
+      "name": "Kamiwaza: Way of the Thief",
+      "description": "Obtain every achievement.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/19eab5fb3fb109c82b334de29fc72d23b111b532.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/9f5eb6c4efa79dda63a8c42dfb0f575ccbe2ad76.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "SUZUNA_CLEAR": {
+      "name": "Quiet Days Ahead",
+      "description": "Clear \"Story of Suzuna.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/fbdd813c6b20d7880c121f36a955b34a49842905.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/5122edab02c237abdfa75b4b2d05d308884c2a2c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "BYAKUMON_CLEAR": {
+      "name": "Two Faces",
+      "description": "Clear \"Story of Byakumon.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/79159cd1b04ce3d44e46499dc6d92672cf2d25ec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/d888cec2c61b327761c29f892091ab65fef1d5b3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "AINOSUKE_CLEAR": {
+      "name": "The Mask at the Grave",
+      "description": "Clear \"Story of Ainosuke.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/634af9f51b28c9fca977179dfeb2390e92474a77.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/925b33f5172c8abccf05b0dd1e4566e7cea09a04.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "SHIN_SUZUNA_CLEAR": {
+      "name": "For the Greatest Good",
+      "description": "Clear \"True Story of Suzuna.\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/7bb785785b892ab0930fafdf08e1acbcb8ccbdf0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/a0a1b5b97f41533c6db216523d5ef1c6fc7feb0d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "DEFEAT_ONATSU": {
+      "name": "Silver Ravens: Onatsu",
+      "description": "Defeat Onatsu of the Silver Ravens.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/750a29851f7382bd8c64197b093aad8c1c32f994.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/ce0bc186c5d182a120ef24d1c29b425bffd79c2d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.6"
+    },
+    "DEFEAT_KOMAJISHI": {
+      "name": "Silver Ravens: Komajishi",
+      "description": "Defeat Komajishi of the Silver Ravens.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/0be965e8f8c32dab63aee844f8ec4e2f44eca15e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/bebc53ccd79020c0fda158818d32ba3996cc846a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "DEFEAT_GINGITSUNE": {
+      "name": "Silver Ravens: Gingitsune",
+      "description": "Defeat Gingitsune of the Silver Ravens.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/91614de6c47e030f98ef0b030d6703a56f7de950.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/0476093acae8ad3411412a9493ecaab5ad25f6d6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.5"
+    },
+    "DEFEAT_OKASHIRA": {
+      "name": "Chief Amatsu",
+      "description": "Defeat Chief Amatsu of the Thievery Response Division.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/bc468b4d9680c06ddc18d2acf2ad4abf2295a903.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/421311b079f4f06a688fe69b2a61ce1ef64cb9af.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.5"
+    },
+    "ENCOUNT_GOEMON": {
+      "name": "The Legendary Thief",
+      "description": "Meet Goemon at the deepest level of the Prison.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/f6d50fc7ffda868833bda64062bba3b69baf40d5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/9c628f8854e3d5143f5ba4e084df9384726e917e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.1"
+    },
+    "SUZUNA_GET_BETTER": {
+      "name": "Joyous Occasion",
+      "description": "Cure Suzuna's illness.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/a39f77932cd58e941f83b95efe45b0695c95d300.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/72a03cd2e2b60c5da5905ce896cf2dd5ac17560a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.1"
+    },
+    "LEARN_STEAL_3": {
+      "name": "Quick Learner",
+      "description": "Learn three Stealing moves from Pops.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/0bf7a326691d6d4dbe7336d20e66438001c9d623.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/b5aa2bb6fe6829a3da07bdb21096bac9dbbb635d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.3"
+    },
+    "LEARN_STEAL_ALL": {
+      "name": "Master of Theft",
+      "description": "Learn every Stealing move from Pops.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/968750fa5ed85446773566888dca28d81f436eaa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/2a78674c874cdc2c7e9eb2bad01c75379a7bd5ad.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "LEARN_HIDE_3": {
+      "name": "Studious Hiding",
+      "description": "Learn three Hiding moves from Pops.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/79a574187cfeca5dd11e6836fe95907c539bd490.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/af9d7fff1ddc132313a4320ed046fd6c6a3228bd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.5"
+    },
+    "LEARN_HIDE_ALL": {
+      "name": "Masterful Hiding",
+      "description": "Learn every Hiding move from Pops.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/8916c25001317bc3bcdc3157da162278b71c2bb9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/5fdcd4f09f523a26c2148de19b35e8686d521761.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.9"
+    },
+    "GET_TOWEL_3": {
+      "name": "Bandana Bunch",
+      "description": "Obtain three new bandanas.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/2114570877a1a4354c9e4fa2f800efba221b5142.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/95504d4187a9921d4b56c4732be31ec315e50556.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "GET_TOWEL_8": {
+      "name": "Bandana Hunter",
+      "description": "Obtain eight new bandanas.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/0021ee3d501e87222d303e9288fe1dc6d7995e1f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/5989bcfeb05e2020e0bde057e10c489215f07533.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "GET_TOWEL_ALL": {
+      "name": "Bandana Master",
+      "description": "Obtain every bandana.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/dc6dae9ef93998b398c45372fdfd6e27ca15e4e9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/80ef07d67296eb032c9a18af997a473b6de67078.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "GET_FUROSHIKI_3": {
+      "name": "Bag Novice",
+      "description": "Obtain three new bags.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/45fc8930630ad457b10b51859c16764a062b3718.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/03025d1304cd37dc1077a3c836e159a23fb46cac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "GET_FUROSHIKI_8": {
+      "name": "Bag Professional",
+      "description": "Obtain eight new bags.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/216156ccbf130900becc89866965bb44a5340071.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/bec22bf89e125d447a0a662414d41faeb12b63ee.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "GET_FUROSHIKI_ALL": {
+      "name": "Bag Connoisseur",
+      "description": "Obtain all bags.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/7da2ea7c4992f15007ac0f98c1c283ac4f015cd7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/1e1917bb833e0ebe0bc784241c5e664509067878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "NETA_FIRST": {
+      "name": "Rookie Thief",
+      "description": "Complete a mission for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/4dead07d1a743e067f53100183be92e6c38cb7cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/9e0b74db5fb736851250f77d5d8a5d8d9c53f048.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.6"
+    },
+    "NETA_10": {
+      "name": "Diligent Thief",
+      "description": "Complete 10 missions.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/0bfe74935115441895198e41a320320ad014c9e9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/cc59f0d6fe63781a5c805fc8e1d60a0fb18b1055.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.6"
+    },
+    "NETA_30": {
+      "name": "Veteran Thief",
+      "description": "Complete 30 missions.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/cf41541081790547dfac3c1d13135cd5170561a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/c53a360af6d074b99240491ec562530c05c5685e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.7"
+    },
+    "MOTOJIME_800": {
+      "name": "Pay Your Respects",
+      "description": "Pay 800 Mon in tribute to The Boss.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/1d93797a58bbdc9820926f2279dc067f0b3fd187.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/6e77c4e510db8ed50a8cec09d61fc75aecb6fce9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.6"
+    },
+    "MOTOJIME_35000": {
+      "name": "Generous Contribution",
+      "description": "Pay 35,000 Mon in tribute to The Boss.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/7eeb15af2327784f72f80f460b20f624736018dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/bcef9893b2277ac07c42fa20f09bb5cbcdfb35fd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.3"
+    },
+    "MOTOJIME_100000": {
+      "name": "More Than A Tribute",
+      "description": "Pay 100,000 Mon in tribute to The Boss.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/2b5aa3c087bf8e11d56db39ecad0bba170b7238c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/2ed8b3cd80ea89686c458b4c2d9617354cf3331d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "POPULAR_100": {
+      "name": "Mr. Popular",
+      "description": "Reach 100 reputation.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/5f361e20cb781ff83a99654db2d45715a3a3d845.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/4ec84b871601836ec923abc4ae801e88e82fb679.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.5"
+    },
+    "GET_COLLECTION_25": {
+      "name": "Local Collector",
+      "description": "Complete 25% of your loot collection.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/72ddc8c089e3fb14d4ee81f1fb9e1acdc04a7451.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/43aca40312ca80e0e8e2e2a27afc14bb962ee9d8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.0"
+    },
+    "GET_COLLECTION_50": {
+      "name": "Esteemed Collector",
+      "description": "Complete 50% of your loot collection.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/31a8d8591de213e98ba9509ccd056960ce3584bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/d3430f95af12aed119bef967616d6258860a42f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.9"
+    },
+    "GET_COLLECTION_100": {
+      "name": "Supreme Collector",
+      "description": "Complete 100% of your loot collection.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/fad95a321193eec3ee6c7a5621ed94cc47248b9a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/92c9ce254362c658f5438820c6f9c02e424aa1f6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "UNLOCKING_USO": {
+      "name": "Iron Hands",
+      "description": "Open an Iron Lock within 5 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/d92d9152d49cc43d5badb9014c2f2f31c3c1e63b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/cfe990a4ccdddc7ac7fef3f4be4a5da19b66cb31.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.2"
+    },
+    "UNLOCKING_NUSUTTO": {
+      "name": "Coppy Hands",
+      "description": "Open a Copper Lock within 6 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/0fc4c93be1702cbaa84b7156844237513e1bbe47.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/7632589c7ed242c4a6eced81d3c4e9013ad823a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.4"
+    },
+    "UNLOCKING_GIZOKU": {
+      "name": "Silver Hands",
+      "description": "Open a Silver Lock within 8 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/f2dedd3f9cf7ef7b76ac2b0ddeaec03543823d98.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/f5d22b262dabb2f738f73520b5c899235caa2878.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.2"
+    },
+    "UNLOCKING_OODOROBO": {
+      "name": "Golden Hands",
+      "description": "Open a Gold Lock within 10 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/409bcdde4b7c22388e4732d8896dfeca0ae399b8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/402e89b34d76599aa3b37b71d0591378284885bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "GET_KUMOGAKURE_LICENSE": {
+      "name": "Vanishing Thief",
+      "description": "Obtain the License of Vanishing.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/b48887ebf7cd8d3afa36e86d779f93fc78615dc2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/30d583a7df71cb0a996ba84a1210e325b90ab36d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.5"
+    },
+    "GET_STOIC_LICENSE": {
+      "name": "Stoic Thief",
+      "description": "Obtain the Stoic License.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/8cd835e81235a21c3940eb423cb7f5069f6cb9fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/2a98d831238891ab25618994f60e3d92643e28b9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.0"
+    },
+    "GET_OTOKOMAE_LICENSE": {
+      "name": "Handsome Thief",
+      "description": "Obtain the Handsome License.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/e60ec14e0366f7ab8f2c85e206b82ae0a754ddec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/9ac3c633f1f5f9626839ed42a9ee584f205e7551.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.3"
+    },
+    "GET_DAITANFUTEKI_LICENSE": {
+      "name": "Courageous Thief",
+      "description": "Obtain the Courageous License.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/d701146145d532b58ff77e7bd3944d08bcadcc61.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/a42100d8a9e8932080cb1203d413f01aa0f6b253.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "GET_KAMINOTE_LICENSE": {
+      "name": "Godly Thief",
+      "description": "Obtain the God's Hand License.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/d36397afdee329453bae9cffa6adf2acd814e03a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/d1b1c16fb936739b3358346f1689a8a7002d7496.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.6"
+    },
+    "GET_INJA_LICENSE": {
+      "name": "Reclusive Thief",
+      "description": "Obtain the Hermit's License",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/c9f261f03c26028c2d28ad35329f4e62a05d41f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/f6c1b42ac78d411de14913bfe7bd1bbedd6fd3f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "GET_KIKIIPPATU_LICENSE": {
+      "name": "Dangerous Thief",
+      "description": "Obtain the Critical License.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/1443a08a066f9df59e24ff89c78fcc8c98d21e4b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/903765513d47130c256a20ab10f105289b7c82bd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "GET_KIMOTTAMA_LICENSE": {
+      "name": "Fearless Thief",
+      "description": "Obtain the Fearless License.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/8cb35d022ed85a914526f1a2794a1839b261a38c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/85bb3d313fa6c2292ece52a74df16ef3c58f3ce9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.1"
+    },
+    "GET_JINGI_LICENSE": {
+      "name": "Honorable Thief",
+      "description": "Obtain the Honorable License.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/4dba8576def49083c1bf2a082ba640cba5b605fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/a0d5242cd2fdb68709489d4ef9d5d6b570c002fe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.1"
+    },
+    "GET_SHUSENDO_LICENSE": {
+      "name": "Frugal Thief",
+      "description": "Obtain the Miserly License.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/3517f5bfd8573593a84d1c00cacbdd7b56aafe8b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/e265b7a529e3053c106a4978588599ccd1ae31d1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.5"
+    },
+    "GET_FURODOROBO_LICENSE": {
+      "name": "Bath Thief",
+      "description": "Obtain the License of a Bath Thief.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/725375d9ccfd40b201a089c2bbb7324799008a86.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/d4979f118c911ff6ce2811ea1cae8bf67749b286.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.7"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

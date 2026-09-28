@@ -1,0 +1,289 @@
+{
+  "appid": "2851150",
+  "name": "Tomba! Special Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2851150/header.jpg?t=1766428099",
+  "achievements": {
+    "ACH_BLOW_AWAY_THE_THICK_FOG": {
+      "name": "Blow Away The Thick Fog",
+      "description": "Clear the thick fog in the Village of All Beginnings.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/9039c509cfcc69a63f88fcdd2891e81d4781d42e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/23f732c9704a59b73545f189a662cddc0512e36f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.3"
+    },
+    "ACH_THE_100_YEAR_OLD_WISE_MAN": {
+      "name": "The 100 Year Old Wise Man",
+      "description": "Learn about the Evil Pigs and get the 100 Year Old Key.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/bdf546983cff79cea5967ffe937a8ed576e3912d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/06ba2243df519a0facd1dd1b75faf24e640b42f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.9"
+    },
+    "ACH_BEGINNERS_DWARF_LANGUAGE": {
+      "name": "Beginner's Dwarf Language",
+      "description": "Learn to speak the dwarf language.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/e25d21f4961bc5ae6f2520ed2b7eb8387d6f7440.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/d92e5aa61182272e5e81fe01924df2ca645574af.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.2"
+    },
+    "ACH_FROG_FRIEND": {
+      "name": "Frog Friend",
+      "description": "Bring back the frog to the Ol' Pond.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/5d71953e480ba2436fe8afa2f308e2183e5ef0a5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/8f4d71b68050fcc691846711bac229903668c61b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.5"
+    },
+    "ACH_SEVEN_MISSING_DWARFS": {
+      "name": "Seven Missing Dwarfs",
+      "description": "Save all 7 missing dwarves.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/7976dba4b65881a6c7d4b2965fcffa46d0e5a5a8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/1a32feb3003c3c500cc5c49562392e37351fc87e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.6"
+    },
+    "ACH_LAUGH": {
+      "name": "LAUGH!",
+      "description": "Use the mushroom to show the dwarf your laughter in Mushroom Forest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/bbe1c0e92e3b42f910d2c026ae781048c89ac617.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/9322b1eb7f45f7e0e2b0a85743cac637e4465a06.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.9"
+    },
+    "ACH_POUT": {
+      "name": "POUT!",
+      "description": "Use the mushroom to show the dwarf your pout in Mushroom Forest.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/42799f053dccbc64e9c0cb99c56eb832eb6aae93.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/eba4a36afcd0c96b5fb64679b423febd0c8188e7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.3"
+    },
+    "ACH_CIVILIZED_WORLD": {
+      "name": "Civilized World",
+      "description": "Restore power to The Village of Civilization.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/060123ba94b49ae8e7ae9048ab907e9e8b00fcd1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/395a41a33d05412122d3be5aca301f89323f9ba6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.1"
+    },
+    "ACH_READY_SET_GO": {
+      "name": "Ready, Set, Go!",
+      "description": "Beat the thief to the top of the Watch Tower.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/37b11c8ed223df076cc9c9eb77a419344f943a36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/82d6c6d4b66543d427b509d61dcae04b04326888.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.8"
+    },
+    "ACH_RISE_AND_SHINE_OF_THE_PHOENIX": {
+      "name": "Rise (and Shine) of the Phoenix",
+      "description": "Ride the Phoenix to the Masakari Jungle.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/37606456cf24474c05792006646cc46f68edca77.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/9eeff1badba75d6b2db616d74fc6ec2e466b3822.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.7"
+    },
+    "ACH_ANIMAL_DASH": {
+      "name": "Animal Dash",
+      "description": "Get the Animal Dash ability from Charles.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/8cf3edb7d1b77b824e62aa830cd6ca007ba7cab5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/44a2e8ad93664f6d0953f6dc26d048914e322871.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.1"
+    },
+    "ACH_BE_LIKE_WATER": {
+      "name": "Be Like Water, My Friend",
+      "description": "Get the Swim ability from Charles.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/fd84f5239ac7cb4b30bc73800e323605e883c995.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/4ab62071d0dddfedd3e0ccdef271838b3142443b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.8"
+    },
+    "ACH_DEEP_BLUE": {
+      "name": "Deep Blue",
+      "description": "Get the Dive ability from the mermaid.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/f0e0ea34f8dfe82acddb0dc23c330b7ccfc95d59.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/0692dcffb4e4239cb7e9bd3a3699ed0c8b61d669.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.3"
+    },
+    "ACH_GOLD_MEDAL_CHAMP": {
+      "name": "Gold Medal Champ",
+      "description": "Get the gold medal on the Motocross Course.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/dfc753d6b8a939aed1e29ca0cf54ab738ba957c2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/2060effff65ff2d6e130536fdbc56f8a9de62acf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.7"
+    },
+    "ACH_5_GOLDEN_ITEMS": {
+      "name": "5 Golden Items",
+      "description": "Get the 5 Golden Items",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/65939b52f2ec6566ed12052558255adbac53d60b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/448da30b9135e29054bd228e09fed37ff4687b25.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.0"
+    },
+    "ACH_SHRED_THREADS": {
+      "name": "Shred Threads",
+      "description": "Get the 4 pants.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/4b5dcd00b7a1fc345cf21131d2bae35080ebb782.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/50309982f8fac4a8f042e403695687005d2e6dc2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.1"
+    },
+    "ACH_MATH_LESSONS": {
+      "name": "Math Lessons",
+      "description": "Find all the 10 Math Beads hidden in the water of Trick Village.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/6cd49eeea8638e5771b6c15841beb53eb928fe74.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/3148a4dfb0577d0d89daa80dca7ab3a76b2765bd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.1"
+    },
+    "ACH_GREEN_THUMB": {
+      "name": "Green Thumb",
+      "description": "Step on every Pump Rock to prevent the Ol' Tree from dying.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/979470fb997190563eb5b615d556dacb088dbdd0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/8106ad3579d60d787467ff70bb917d84b12e73c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.1"
+    },
+    "ACH_FIRE_FIGHTER": {
+      "name": "Fire Fighter",
+      "description": "Reach level 10 with red experience.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/ce0c6044a146f0851f164c8c9090c3d40fce1df1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/310dc356c80696bf58feb8c3ebb3841ba9cb2beb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.1"
+    },
+    "ACH_WIND_WALKER": {
+      "name": "Wind Walker",
+      "description": "Reach level 10 with green experience.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/ad02312201e1736705ee02af74f42147d43288ca.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/6abdcbc4ce1c0f96c6366492e3f64ebb68950753.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.6"
+    },
+    "ACH_WATER_DANCER": {
+      "name": "Water Dancer",
+      "description": "Reach level 10 with blue experience.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/40e9e74c834e1b5e3a62525bff1648e065bf57a5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/d3f945d89f3ffd1059acd6a2485419b2a177e547.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.8"
+    },
+    "ACH_CATS_NINE_LIVES": {
+      "name": "Cat's Nine Lives",
+      "description": "Get maximum obtainable health bars.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/4bab8ec2adfd3fc470a862e19d3eacb38c2461ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/9212ac7929bec3f972def9a5ef303830b9eb4abd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.8"
+    },
+    "ACH_EVENTFUL_EVENING": {
+      "name": "Eventful Evening",
+      "description": "Clear all 130 in-game events.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/1ea8fc4f6c35082dce0436cab385058b42bcf5ef.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/f35eba5640958be35a909b6e2ff6225a239fdc0d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "ACH_CAPTURE_FIRE_PIG": {
+      "name": "Capture The Fire Pig",
+      "description": "Capture The Fire Pig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/538437cd6194953c2213489a9d09f32d39e18cbe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/a6cb4ace75ae101b419c756ef64640d3b22e9e93.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.6"
+    },
+    "ACH_CAPTURE_GHOST_PIG": {
+      "name": "Capture the Ghost Pig",
+      "description": "Capture the Ghost Pig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/f302d88c33b0be5f114a26d0c2bc3d253c186e99.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/66f7cd8d2d90a0f57b81450e3427e7a2fa4eb558.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.2"
+    },
+    "ACH_CAPTURE_MOUSE_PIG": {
+      "name": "Capture the Mouse Pig",
+      "description": "Capture the Mouse Pig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/fd35ec71cfdd4b7a77d11ab68cc5912befe058b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/ffb1e69f1b3d2394b9f5f14d92bbd3591433fa52.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.9"
+    },
+    "ACH_CAPTURE_STORM_PIG": {
+      "name": "Capture the Storm Pig",
+      "description": "Capture the Storm Pig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/55bd3dc1c91d1fa21ab75840cf048393d8e7987d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/7ce83e19b520f50f89272d86cfb11cba0e0381bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.6"
+    },
+    "ACH_CAPTURE_WATER_PIG": {
+      "name": "Capture the Water Pig",
+      "description": "Capture the Water Pig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/2b12b448f55966f704bdc4892b6fcdb5888f3074.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/7a293f53901b0ac22c3500fd9c23e54857825f3a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "ACH_CAPTURE_FOREST_PIG": {
+      "name": "Capture the Forest Pig",
+      "description": "Capture the Forest Pig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/51a1496582c883e6f1c461fd77991e2c2fd6eeab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/840ae09f194094b78eaca9df74fdc2aca93d8ad9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.0"
+    },
+    "ACH_CAPTURE_JUNGLE_PIG": {
+      "name": "Capture the Jungle Pig",
+      "description": "Capture the Jungle Pig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/45bcc697d10fac2397f0a8b410223a464b936910.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/4ce4409d790973d003e266449aef36ca43e08810.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "ACH_CAPTURE_REAL_EVIL_PIG": {
+      "name": "Capture the Real Evil Pig",
+      "description": "Capture the Real Evil Pig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/59f3632bb7c7483c5d2fa2b0c7db39e2378a4172.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/ca1db3f7537ca3bd98db29349e29222ae3bb96e1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,100 @@
+{
+  "appid": "3361470",
+  "name": "Digseum",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3361470/header.jpg?t=1746551330",
+  "achievements": {
+    "FIRST_RELIC": {
+      "name": "My First Relic",
+      "description": "Discover your first relic",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/60c7407d124802ae2813d133e21a131d46030328.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/c27d4d40d507db8524b53114696c1bffe537e4f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "99.5"
+    },
+    "FIRST_PRESTIGE": {
+      "name": "Dreaming",
+      "description": "Prestige for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/a94b76a958627169dc15825d1ad06831c122988e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/c27d4d40d507db8524b53114696c1bffe537e4f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.6"
+    },
+    "FIRST_DREAM_FRAG": {
+      "name": "Mysterious Fragment",
+      "description": "Obtain your first Dream Fragment",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/432a5a55ed33772fef66fa6ddadf6e5d2e060ead.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/c27d4d40d507db8524b53114696c1bffe537e4f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "98.4"
+    },
+    "1M_GOLD": {
+      "name": "Millionaire",
+      "description": "Earn 1,000,000 G",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/a4890446b95af87f203fecfffe8014e1b9b00c9d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/c27d4d40d507db8524b53114696c1bffe537e4f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "96.5"
+    },
+    "1E27_GOLD": {
+      "name": "Octillionaire",
+      "description": "Earn 1e27 G",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/a2cc8b6d1fd855abe54cd1cebe6276d5ea187adf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/c27d4d40d507db8524b53114696c1bffe537e4f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.8"
+    },
+    "RELIC_LV_100": {
+      "name": "Level 100",
+      "description": "Level up a relic to level 100",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/1d38e67cb97ca54197f0c090331ef6d9fa80194b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/c27d4d40d507db8524b53114696c1bffe537e4f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.6"
+    },
+    "RELIC_LV_1000": {
+      "name": "Level 1000",
+      "description": "Level up a relic to level 1,000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/0f787b681c2b9f423f5d2d03974c9705a99dd58e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/c27d4d40d507db8524b53114696c1bffe537e4f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "80.4"
+    },
+    "BRINK_OF_REALITY": {
+      "name": "Final Destination",
+      "description": "Unlock the final location",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/1d5937eaf9174c59f743a35f750d8f51ed14d555.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/c27d4d40d507db8524b53114696c1bffe537e4f8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "82.4"
+    },
+    "PRESTIGE_5_TIMES": {
+      "name": "Sleep Cycles",
+      "description": "Prestige 5 times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/cf5553d5628b8adb7d549a5923a157b924f194da.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/c27d4d40d507db8524b53114696c1bffe537e4f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.3"
+    },
+    "THE_END": {
+      "name": "Awaken",
+      "description": "Beat the game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/28c43f76511a4bed0d7a68e5f523f19d84a99042.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/c27d4d40d507db8524b53114696c1bffe537e4f8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "82.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
