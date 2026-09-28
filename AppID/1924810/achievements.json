@@ -1,0 +1,186 @@
+{
+  "AINOSUKE_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BYAKUMON_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEAT_GINGITSUNE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEAT_KOMAJISHI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEAT_OKASHIRA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DEFEAT_ONATSU": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ENCOUNT_GOEMON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_COLLECTION_100": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_COLLECTION_25": {
+    "earned": true,
+    "earned_time": 1742477128
+  },
+  "GET_COLLECTION_50": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_DAITANFUTEKI_LICENSE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_FURODOROBO_LICENSE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_FUROSHIKI_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_FUROSHIKI_8": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_FUROSHIKI_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_INJA_LICENSE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_JINGI_LICENSE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_KAMINOTE_LICENSE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_KIKIIPPATU_LICENSE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_KIMOTTAMA_LICENSE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_KUMOGAKURE_LICENSE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_OTOKOMAE_LICENSE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_SHUSENDO_LICENSE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_STOIC_LICENSE": {
+    "earned": true,
+    "earned_time": 1742477875
+  },
+  "GET_TOWEL_3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_TOWEL_8": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GET_TOWEL_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LEARN_HIDE_3": {
+    "earned": true,
+    "earned_time": 1742559541
+  },
+  "LEARN_HIDE_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LEARN_STEAL_3": {
+    "earned": true,
+    "earned_time": 1742479705
+  },
+  "LEARN_STEAL_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOTOJIME_100000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOTOJIME_35000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOTOJIME_800": {
+    "earned": true,
+    "earned_time": 1742108178
+  },
+  "NETA_10": {
+    "earned": true,
+    "earned_time": 1742479303
+  },
+  "NETA_30": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NETA_FIRST": {
+    "earned": true,
+    "earned_time": 1742463419
+  },
+  "PLATINUM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "POPULAR_100": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SHIN_SUZUNA_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUZUNA_CLEAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUZUNA_GET_BETTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "UNLOCKING_GIZOKU": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "UNLOCKING_NUSUTTO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "UNLOCKING_OODOROBO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "UNLOCKING_USO": {
+    "earned": true,
+    "earned_time": 1742560078
+  }
+}

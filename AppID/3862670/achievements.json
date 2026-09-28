@@ -1,0 +1,54 @@
+{
+  "ACH_ALL_SKILLS": {
+    "earned": true,
+    "earned_time": 1768316462
+  },
+  "ACH_REST": {
+    "earned": true,
+    "earned_time": 1768316486
+  },
+  "ACH_DEPTH_01": {
+    "earned": true,
+    "earned_time": 1768145363
+  },
+  "ACH_DEPTH_02": {
+    "earned": true,
+    "earned_time": 1768147590
+  },
+  "ACH_DEPTH_03": {
+    "earned": true,
+    "earned_time": 1768150553
+  },
+  "ACH_DEPTH_04": {
+    "earned": true,
+    "earned_time": 1768237998
+  },
+  "ACH_WAVE": {
+    "earned": true,
+    "earned_time": 1768235089
+  },
+  "ACH_RAINBOW": {
+    "earned": true,
+    "earned_time": 1768238399
+  },
+  "ACH_SHELLS_01": {
+    "earned": true,
+    "earned_time": 1768150356
+  },
+  "ACH_SHELLS_02": {
+    "earned": true,
+    "earned_time": 1768236521
+  },
+  "ACH_SHELLS_03": {
+    "earned": true,
+    "earned_time": 1768307518
+  },
+  "ACH_SHELLS_04": {
+    "earned": true,
+    "earned_time": 1768315362
+  },
+  "ACH_ALL_ACHIEVEMENTS": {
+    "earned": true,
+    "earned_time": 1768316486
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "FIRST_SESSION": {
+    "earned": true,
+    "earned_time": 1752309472
+  },
+  "TOTAL_SESSIONS_50": {
+    "earned": true,
+    "earned_time": 1752317946
+  },
+  "MILESTONES": {
+    "earned": true,
+    "earned_time": 1752313158
+  },
+  "CRYPTO_MINE": {
+    "earned": true,
+    "earned_time": 1752317903
+  },
+  "THE_LAB": {
+    "earned": true,
+    "earned_time": 1752413257
+  },
+  "BITS_10K": {
+    "earned": true,
+    "earned_time": 1752312508
+  },
+  "BITS_100K": {
+    "earned": true,
+    "earned_time": 1752316643
+  },
+  "BITS_1M": {
+    "earned": true,
+    "earned_time": 1752325951
+  },
+  "BITS_10M": {
+    "earned": true,
+    "earned_time": 1752413430
+  },
+  "NODES_1K": {
+    "earned": true,
+    "earned_time": 1752316643
+  },
+  "NODES_10K": {
+    "earned": true,
+    "earned_time": 1752325538
+  },
+  "SP_25": {
+    "earned": true,
+    "earned_time": 1752411186
+  },
+  "DEPLOY_GODVIRUS": {
+    "earned": true,
+    "earned_time": 1752413999
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ACH_CLEAR_GAME": {
+    "earned": true,
+    "earned_time": 1784218277
+  },
+  "ACH_EARTH_DESTROYED": {
+    "earned": true,
+    "earned_time": 1784135342
+  },
+  "ACH_CLEAN_FIRST_CARPET": {
+    "earned": true,
+    "earned_time": 1784135342
+  },
+  "ACH_CLEAN_FIRST_UNKNOWN_CARPET": {
+    "earned": true,
+    "earned_time": 1784216143
+  },
+  "ACH_TOOL_LEVEL_10": {
+    "earned": true,
+    "earned_time": 1784216557
+  },
+  "ACH_ENTER_GAME_WITH_ROBOT": {
+    "earned": true,
+    "earned_time": 1784211868
+  },
+  "ACH_ENTER_GAME_WITH_FAN": {
+    "earned": true,
+    "earned_time": 1784211868
+  },
+  "ACH_CLEAN_10_CARPETS": {
+    "earned": true,
+    "earned_time": 1784134803
+  },
+  "ACH_FIRST_DARK_SHOP_PURCHASE": {
+    "earned": true,
+    "earned_time": 1784214811
+  },
+  "ACH_MONEY_1M": {
+    "earned": true,
+    "earned_time": 1784218609
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "FIRST_RELIC": {
+    "earned": true,
+    "earned_time": 1752149839
+  },
+  "FIRST_PRESTIGE": {
+    "earned": true,
+    "earned_time": 1752150956
+  },
+  "FIRST_DREAM_FRAG": {
+    "earned": true,
+    "earned_time": 1752150725
+  },
+  "1M_GOLD": {
+    "earned": true,
+    "earned_time": 1752150943
+  },
+  "1E27_GOLD": {
+    "earned": true,
+    "earned_time": 1752157704
+  },
+  "RELIC_LV_100": {
+    "earned": true,
+    "earned_time": 1752157462
+  },
+  "RELIC_LV_1000": {
+    "earned": true,
+    "earned_time": 1752157546
+  },
+  "BRINK_OF_REALITY": {
+    "earned": true,
+    "earned_time": 1752157930
+  },
+  "PRESTIGE_5_TIMES": {
+    "earned": true,
+    "earned_time": 1752156342
+  },
+  "THE_END": {
+    "earned": true,
+    "earned_time": 1752158073
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "automated_empire": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "automated_mining": {
+    "earned": true,
+    "earned_time": 1777217933
+  },
+  "billion_damage_club": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "blast_radius": {
+    "earned": true,
+    "earned_time": 1777220564
+  },
+  "bomb_squad": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "boost_brigade": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "carpet_bomber": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "chain_reaction": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "clay_monopoly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "clay_sculptor": {
+    "earned": true,
+    "earned_time": 1777220456
+  },
+  "click_frenzy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "click_marathon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "click_sprint": {
+    "earned": true,
+    "earned_time": 1777219067
+  },
+  "clicker": {
+    "earned": true,
+    "earned_time": 1777218025
+  },
+  "collection_force": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "committed_miner": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "core_collector": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "core_hoarder": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "critical_thinking": {
+    "earned": true,
+    "earned_time": 1777217833
+  },
+  "crystal_clear": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "damage_dealer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "dedicated_miner": {
+    "earned": true,
+    "earned_time": 1777221105
+  },
+  "demolition_expert": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "diamond_dreams": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "diamond_monopoly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "drone_commander": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "drone_efficiency": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "drone_overlord": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "drone_pilot": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "dust_bunny": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "dust_storm": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "dust_to_dust": {
+    "earned": true,
+    "earned_time": 1777217958
+  },
+  "dust_universe": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "experienced_miner": {
+    "earned": true,
+    "earned_time": 1777219067
+  },
+  "expert_miner": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "explosive_entry": {
+    "earned": true,
+    "earned_time": 1777218326
+  },
+  "first_strike": {
+    "earned": true,
+    "earned_time": 1777217511
+  },
+  "foremans_friend": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "fracture_master": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "fracture_veteran": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "geode_hunter": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "geological_anomaly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "gold_monopoly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "golden_touch": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "hammer_squadron": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "hammer_time": {
+    "earned": true,
+    "earned_time": 1777219384
+  },
+  "iron_monopoly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "iron_will": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "iron_will_tool": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "layer_cake": {
+    "earned": true,
+    "earned_time": 1777218245
+  },
+  "legendary_miner": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "lucky_strike": {
+    "earned": true,
+    "earned_time": 1777220575
+  },
+  "mallet_monarch": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "master_miner": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "maximum_charge": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "maximum_velocity": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "mega_critical": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "memory_master": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "mk_ii_master": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "never_miss": {
+    "earned": true,
+    "earned_time": 1777219298
+  },
+  "novice_miner": {
+    "earned": true,
+    "earned_time": 1777218194
+  },
+  "nuclear_option": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "pacifist_run": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "pick_professional": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "pierce_battalion": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "precision_striker": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "quadrillion_damage_club": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "quartz_monopoly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "quick_fracture": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "rapid_deployment": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "reality_bender": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "reality_manipulator": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "reality_master": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "rock_bottom": {
+    "earned": true,
+    "earned_time": 1777217518
+  },
+  "sand_castle": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "sandstone_monopoly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "sentry_network": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "shard_emperor": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "shard_seeker": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "shatter_storm": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "silver_lining": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "silver_monopoly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "sledge_sergeant": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "solid_steel": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "speed_demon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "stick_fighter": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "stone_age": {
+    "earned": true,
+    "earned_time": 1777219643
+  },
+  "stone_monopoly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "sudden_surprise": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "supervisor_council": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "time_flies": {
+    "earned": true,
+    "earned_time": 1777219305
+  },
+  "tool_time": {
+    "earned": true,
+    "earned_time": 1777218532
+  },
+  "trillion_damage_club": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "tungsten_titan": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "upgrade_addict": {
+    "earned": true,
+    "earned_time": 1777219270
+  },
+  "upgrade_master": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "upgrade_path": {
+    "earned": true,
+    "earned_time": 1777218057
+  },
+  "world_breaker": {
+    "earned": true,
+    "earned_time": 1777220954
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "CHARA_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COUNTRY_RANKING": {
+    "earned": true,
+    "earned_time": 1740567073
+  },
+  "DORAEMON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_GIVE_FOOD": {
+    "earned": true,
+    "earned_time": 1740244274
+  },
+  "FIRST_MAKE_FOOD": {
+    "earned": true,
+    "earned_time": 1740243870
+  },
+  "FOOD_ALL": {
+    "earned": true,
+    "earned_time": 1741882638
+  },
+  "GAMECLEAR": {
+    "earned": true,
+    "earned_time": 1741882872
+  },
+  "POPUP_STORE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PSUKE": {
+    "earned": true,
+    "earned_time": 1740501845
+  },
+  "RANK1": {
+    "earned": true,
+    "earned_time": 1740322360
+  },
+  "RANK10": {
+    "earned": true,
+    "earned_time": 1740659338
+  },
+  "RANK3": {
+    "earned": true,
+    "earned_time": 1740326774
+  },
+  "RANK5": {
+    "earned": true,
+    "earned_time": 1740484482
+  },
+  "RANK7": {
+    "earned": true,
+    "earned_time": 1740501478
+  },
+  "SECRET_TOOL_20": {
+    "earned": true,
+    "earned_time": 1740409409
+  },
+  "SECRET_TOOL_ALL": {
+    "earned": true,
+    "earned_time": 1740660397
+  },
+  "WORLD_RANKING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ZAMAMONO": {
+    "earned": true,
+    "earned_time": 1740321973
+  }
+}
