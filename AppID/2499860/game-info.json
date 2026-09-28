@@ -1,0 +1,559 @@
+{
+  "appid": "2499860",
+  "name": "DRAGON QUEST VII Reimagined",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/ea0c655407c078a8994b7e91256c79d90169133a/header.jpg?t=1785474787",
+  "achievements": {
+    "ACH_All": {
+      "name": "Legends of the Forgotten Past",
+      "description": "Awarded for earning all available achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/d4240cdef40c8a384ecdc7fe82863b895c79092e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/b3eb6aa038d400809e1a659dff327337512f556a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.9"
+    },
+    "ACH_01_MainStory": {
+      "name": "Into the Unknown",
+      "description": "Awarded for completing \"The Adventure Begins\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "93.3"
+    },
+    "ACH_02_MainStory": {
+      "name": "Anchors Aweigh!",
+      "description": "Awarded for completing \"The Heroes of Ballymolloy\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "89.5"
+    },
+    "ACH_03_MainStory": {
+      "name": "A Well-Earned Brew",
+      "description": "Awarded for completing \"An Enormous Eruption\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "85.5"
+    },
+    "ACH_04_MainStory": {
+      "name": "Sonnenschein nach dem Regen",
+      "description": "Awarded for completing \"Tears Fall on Regenstein\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "77.8"
+    },
+    "ACH_05_MainStory": {
+      "name": "Amici degli Animali",
+      "description": "Awarded for completing \"Ruff and Ready\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "82.2"
+    },
+    "ACH_06_MainStory": {
+      "name": "A Clockwork Soul",
+      "description": "Awarded for completing \"Automata Through the Ages\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "78.3"
+    },
+    "ACH_07_MainStory": {
+      "name": "Goodbye, Sweet Prince",
+      "description": "Awarded for completing \"Farewell to Kiefer.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "75.7"
+    },
+    "ACH_08_MainStory": {
+      "name": "A Profitable Trade",
+      "description": "Awarded for completing \"Restoring the Abbey!\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "73.5"
+    },
+    "ACH_09_MainStory": {
+      "name": "Saviours of the Sands",
+      "description": "Awarded for completing \"Darkness in the Desert\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "72.0"
+    },
+    "ACH_10_MainStory": {
+      "name": "Spirit and Image",
+      "description": "Awarded for completing \"An Encounter with Aishe\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "71.7"
+    },
+    "ACH_11_MainStory": {
+      "name": "Local Legends",
+      "description": "Awarded for completing \"An Island Underwater\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.3"
+    },
+    "ACH_12_MainStory": {
+      "name": "Everlastin' Love",
+      "description": "Awarded for completing \"The Look of Love\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.0"
+    },
+    "ACH_13_MainStory": {
+      "name": "Maid of Honoré",
+      "description": "Awarded for acquiring the magic carpet.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.8"
+    },
+    "ACH_14_MainStory": {
+      "name": "Dizzy New Heights",
+      "description": "Awarded for completing \"Meeting Sir Mervyn\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.1"
+    },
+    "ACH_15_MainStory": {
+      "name": "The Great Levellers",
+      "description": "Awarded for completing \"Magic and Mayhem\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "66.2"
+    },
+    "ACH_16_MainStory": {
+      "name": "An Unbreakable Bond",
+      "description": "Awarded for completing \"Making a Promise to Maribel\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.9"
+    },
+    "ACH_17_MainStory": {
+      "name": "Nyet Positive",
+      "description": "Awarded for seeing what becomes of Vogograd.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.3"
+    },
+    "ACH_18_MainStory": {
+      "name": "Whispers on the Wind",
+      "description": "Awarded for completing \"The Fate of the Cirrus\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "63.5"
+    },
+    "ACH_19_MainStory": {
+      "name": "Beacons of Hope",
+      "description": "Awarded for completing \"The Ultimate Curse\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.8"
+    },
+    "ACH_20_MainStory": {
+      "name": "Heavens Above",
+      "description": "Awarded for acquiring the Skystone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.0"
+    },
+    "ACH_21_MainStory": {
+      "name": "Darkest Before the Dawn",
+      "description": "Awarded for completing \"Defeating the Demon King\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.3"
+    },
+    "ACH_22_MainStory": {
+      "name": "Righting the Righteous",
+      "description": "Awarded for completing \"Awakening the Almighty\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.6"
+    },
+    "ACH_23_MainStory": {
+      "name": "Awakening the Flames",
+      "description": "Awarded for completing \"Reawakening the Fire Spirit\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "58.2"
+    },
+    "ACH_24_MainStory": {
+      "name": "Awakening the Earth",
+      "description": "Awarded for completing \"Restoring the Earth Spirit\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.4"
+    },
+    "ACH_25_MainStory": {
+      "name": "Awakening the Wind",
+      "description": "Awarded for completing \"Awakening the Wind Spirit\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.6"
+    },
+    "ACH_26_MainStory": {
+      "name": "Divine Revelation",
+      "description": "Awarded for completing \"Unmasking the Almighty\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.0"
+    },
+    "ACH_27_MainStory": {
+      "name": "Déjà Vous",
+      "description": "Awarded for experiencing an unexpected reunion.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "55.1"
+    },
+    "ACH_28_MainStory": {
+      "name": "Worst. Town. Ever.",
+      "description": "Awarded for seeing what becomes of Nottagen.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.0"
+    },
+    "ACH_29_MainStory": {
+      "name": "Grand Finale",
+      "description": "Awarded for completing \"A Showdown with the Demon King\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.8"
+    },
+    "ACH_30_MainStory": {
+      "name": "Saviours of the Forgotten Past",
+      "description": "Awarded for banishing the darkness and restoring the lost world.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/84e04de62894a223c3a4afdaca811360216137b5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/092d416cb1a95fd72e5851925710b2ec6d03f8e6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.5"
+    },
+    "ACH_31_MainStory": {
+      "name": "The Future is in Your Hands",
+      "description": "Awarded for completing \"Another World\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.4"
+    },
+    "ACH_32_MainStory": {
+      "name": "Crowning Glory",
+      "description": "Awarded for completing \"Yet Another World\".",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/bc161eb14368ae9ec23c2aa4c2a4d6148a714710.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.3"
+    },
+    "ACH_01_System": {
+      "name": "Massively Minted",
+      "description": "Awarded for acquiring 300,000 gold.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/1e01cbe42488cfef0865dcd0d8379d5675b88f27.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/e344fd54f796bd4d259f580baf3e58c12f3b5a1c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.5"
+    },
+    "ACH_02_System": {
+      "name": "Gold Medallist",
+      "description": "Awarded for discovering all mini medals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/4b7c51bfb447b50410ec9f91ab8608da2f4c523e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/70248a7fb623feef65cdc2172646d1fc70c84899.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.6"
+    },
+    "ACH_03_System": {
+      "name": "Heroic Hoarder",
+      "description": "Awarded for collecting all available items.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/a24d09113804784b6d7e71ebad8656c2f44748a7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/ed1ea10b23c9a96bfe78147d929f17203fba85fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "ACH_04_System": {
+      "name": "No Stone Left Unturned",
+      "description": "Awarded for completing all stone tablets.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/1d600f48df7c009b348b2220bc5d2a8083953399.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/b69de6de6cea6edc42203f0c715903771c160467.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.3"
+    },
+    "ACH_01_Battle": {
+      "name": "Field Day",
+      "description": "Awarded for performing 500 field attacks.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/a3e56641c4804e4b49b7f4282115e8d7267b8f34.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/ef49734fa589c56ca66dc1f9a169996fc6b68321.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.9"
+    },
+    "ACH_02_Battle": {
+      "name": "Straight to the Point",
+      "description": "Awarded for earning 100 quick wins.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/037c4e5d193f7e0c96207b80603b85b2c0f94a8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/521b972e0f1df70eabad2b6d09bebb4be187cf15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.8"
+    },
+    "ACH_03_Battle": {
+      "name": "Winning Machine",
+      "description": "Awarded for winning 1000 battles.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/eff144c12c82d9e28e72a30c107cdb7a0267c885.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/6366e513328059b6379efb25584c4dbcd75c1206.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.5"
+    },
+    "ACH_04_Battle": {
+      "name": "Loose Cannon",
+      "description": "Awarded for letting loose 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/f16795c7daa04772644750619b073f89251a88c4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/85f84a7440cf6d5f05e72a0b9b3a73b983f4fa1c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.9"
+    },
+    "ACH_05_Battle": {
+      "name": "Monster Masher",
+      "description": "Awarded for defeating 2000 monsters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/25335f3923b05a7ec76413cdf7c9ab7ce2b3eb43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/b2d76f74732ecd2af1757ff0e652707396063df0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.0"
+    },
+    "ACH_06_Battle": {
+      "name": "Take No Prisoners",
+      "description": "Awarded for defeating every monster on the monster list.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/11a0caf758c52defdf802aa94379c182318e738a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/b2b781061cbdd19a675063b6b5734221ecdcc0a9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "ACH_07_Battle": {
+      "name": "Vanquisher of the Vicious",
+      "description": "Awarded for defeating 10 vicious monsters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0e342e464efb0011de39b36ef33e1baec93eddc4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/6aa9fd577732bdafd007ea58a5674260cd061266.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.2"
+    },
+    "ACH_08_Battle": {
+      "name": "Metal Mangler",
+      "description": "Awarded for defeating 30 metal monsters.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/d249f985a15a1b1675ac70fd36f17654be91f03e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/b6ed4a3a584eaed8f5d91f0e98286555d52496bd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.3"
+    },
+    "ACH_01_MiniGame": {
+      "name": "Fledgling Fighter",
+      "description": "Awarded for winning the bronze cup in the battle arena.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/8d8da1a71486d2e41cf610d45afb528ae7d894dc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/b9867ec56583a8df81488302d81107a7e242c3aa.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.2"
+    },
+    "ACH_02_MiniGame": {
+      "name": "Worldly Warrior",
+      "description": "Awarded for winning the silver cup in the battle arena.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/612601a4d1bf1ecb5b9995dd290cf5bd212d6711.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/8634d2df111dc33b4b9c7743ffe1bac6ad81fcf2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.8"
+    },
+    "ACH_03_MiniGame": {
+      "name": "Grizzled Gladiator",
+      "description": "Awarded for winning the gold cup in the battle arena.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/f582b7c993be0cbfebfe0f8a614fe6c168b75b31.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/e7e0d0bace710388ea7c5130902945e9309cd576.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.0"
+    },
+    "ACH_04_MiniGame": {
+      "name": "Roiling Rampage",
+      "description": "Awarded for overcoming the \"Testy\" Rampage Road.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/beac020432e66dcebd5931b22c964141d340ae36.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/18ccff72e28bf9b469e23e8e140f14737d055b3c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.9"
+    },
+    "ACH_05_MiniGame": {
+      "name": "Ramp Up the Rampage",
+      "description": "Awarded for overcoming the \"Simmering\" Rampage Road.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/55eb9165fdcb1c7a3034acb78e3f39922f40f35c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/dac72adf2685e9f4c3450f6e553f0442de32a543.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.3"
+    },
+    "ACH_06_MiniGame": {
+      "name": "Rampage Revelry",
+      "description": "Awarded for overcoming the \"Fuming\" Rampage Road.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/e357619e4c8e12fbbc5c69425697f2a08e5194ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/47dae047c52d21b8e8d6049e6885fe76c6547305.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.0"
+    },
+    "ACH_07_MiniGame": {
+      "name": "Rampage Rapture",
+      "description": "Awarded for overcoming the \"Furious\" Rampage Road.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/2cba82ecdfecbcaaf3d2d6f1412cce633b63886d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/e744d920f2be40b63a54b6eeebcdd0ff42af5d8d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.5"
+    },
+    "ACH_08_MiniGame": {
+      "name": "Proficient Paneller",
+      "description": "Awarded for completing the spicy level of Lucky Panel.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/f5e854a20754e01d6488d790a583bec11e6ee707.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/87987b2ad7d5d695b52206f447ef8d522cbc87fb.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.1"
+    },
+    "ACH_09_MiniGame": {
+      "name": "Perfect Paneller",
+      "description": "Awarded for completing the hot level of Lucky Panel.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/45e43352bf23cfa38e247464499cf7947d8982f6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/7c4ef26344aad730fa00d7352298b1807eac78e4.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.1"
+    },
+    "ACH_10_MiniGame": {
+      "name": "Platinum Paneller",
+      "description": "Awarded for finding a metal slime panel in Lucky Panel. What a nice slurprise!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/d0c21c7aaa401adf09757a6845677cb6e73277b8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/679e6f39116aaff14fcacd7e88fd046e3f5fec3f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.4"
+    },
+    "ACH_01_Job": {
+      "name": "Fresh Start",
+      "description": "Awarded for changing vocation for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/50f079d723ba84f14fe45ee09d14ac7a71292af9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/49ef80ad0cb4a90043040e06d04acb7eac022658.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "74.1"
+    },
+    "ACH_02_Job": {
+      "name": "Jack of One Trade",
+      "description": "Awarded for mastering a beginner vocation for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/31bbb188e33d642984e9890cb7e1df98582f30a4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/97fdd15bd941cdcf82f724e656d69a91f189ac2b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "72.0"
+    },
+    "ACH_03_Job": {
+      "name": "Expert in the Field",
+      "description": "Awarded for mastering an intermediate vocation for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/95c5aed9c40660c32bec78d863108fc2d58841b4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/ede7887a3659f8fea0dae84e4f59c74be151ea91.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "67.1"
+    },
+    "ACH_04_Job": {
+      "name": "Top of the Class",
+      "description": "Awarded for mastering an advanced vocation for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/a27135b3eff5bf8b2c4cfb7cd318cdf83d8628ea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/3de04062aefa7822c45198b7fd48a3768732927f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.4"
+    },
+    "ACH_05_Job": {
+      "name": "Master of All",
+      "description": "Awarded for reaching maximum proficiency in all vocations.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/96bea0c828801385eb5929f7e6b5abe6194a4e58.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0a5382f55c9592e52943b2076832f0c57f4426a6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "46.6"
+    },
+    "ACH_06_Job": {
+      "name": "The Hustler Grindset",
+      "description": "Awarded for moonlighting for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/876270bb21e6f347a17217d0399b00c6dbfd3ae2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/8d9507674069271e19e21008812ab11b8968a593.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "71.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

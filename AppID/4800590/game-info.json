@@ -1,0 +1,361 @@
+{
+  "appid": "4800590",
+  "name": "Supermarket Chaos",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/12972366c9e8812cbd1ba7a3e367d7dfc100314a/header.jpg?t=1787575741",
+  "achievements": {
+    "ACH_FIRST_PRODUCT_PLACED": {
+      "name": "First Stocked",
+      "description": "Successfully place your first product on the correct shelf.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/f11837ea37c2e3b9e8ef9b6a6e219928a4783770.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.8"
+    },
+    "ACH_PLACE_100_PRODUCTS": {
+      "name": "100 Stocked",
+      "description": "Correctly place 100 products on shelves.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/60016bd1e553a2b7dbb6eedaa9b5297e5b6fada9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.4"
+    },
+    "ACH_PLACE_1000_PRODUCTS": {
+      "name": "1,000 Stocked",
+      "description": "Correctly place 1,000 products on shelves.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/d949eccf6b6d30650e82ece0dca186a0064453ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.3"
+    },
+    "ACH_PLACE_2000_PRODUCTS": {
+      "name": "2,000 Stocked",
+      "description": "Correctly place 2,000 products on shelves.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/4e3eaab2096bf5c214a87b45a9d64ab2a2608559.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.4"
+    },
+    "ACH_PLACE_3000_PRODUCTS": {
+      "name": "3,000 Stocked",
+      "description": "Correctly place 3,000 products on shelves.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/785a094b9362f2c3f6325e6974e84a0102fd7cec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.3"
+    },
+    "ACH_PLACE_4000_PRODUCTS": {
+      "name": "4,000 Stocked",
+      "description": "Correctly place 4,000 products on shelves.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/16ed338e910f2f1f6c14a97da8bbede00f064a85.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.5"
+    },
+    "ACH_PLACE_4667_PRODUCTS": {
+      "name": "One More!",
+      "description": "Place all products except one on the shelves.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/257661a6ae6c20d3b889886d0d46bc018a56fe0f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.9"
+    },
+    "ACH_PLACE_4668_PRODUCTS": {
+      "name": "Complete",
+      "description": "Place all products on the correct shelves.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/6242fbfed639995d30196e1c9fcb8c6e955ce990.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.8"
+    },
+    "ACH_CHANGE_MUSIC_ONCE": {
+      "name": "Music Duty",
+      "description": "Change the music once at the computer.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/cb8022507573de0f0c8b19d271edd722dae16c7c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.3"
+    },
+    "ACH_DONT_THROW_ITEMS": {
+      "name": "Do Not Throw",
+      "description": "Throw 5 or more products in a row with no more than 1 second between throws.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/63ad2852e45a7109cfeb250d7c76806dce41aadb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.8"
+    },
+    "ACH_TOO_HEAVY": {
+      "name": "Too Heavy",
+      "description": "Hold 10 or more products at once.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/f9865a549c79154e20b9192add48bba4af7fd016.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.0"
+    },
+    "ACH_PLACE_777_PRODUCTS": {
+      "name": "Lucky 777",
+      "description": "Correctly place 777 products on shelves.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/88243d92a96ec74f21bcdb2dbb5530ad515ac998.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.8"
+    },
+    "ACH_WALK_100_METERS": {
+      "name": "First Steps",
+      "description": "Travel a total of 100 m across all stages.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/be4fbcfe81626f48ed5a697a2b367fa6d0c2e43b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.8"
+    },
+    "ACH_WALK_1000_METERS": {
+      "name": "A Short Stroll",
+      "description": "Travel a total of 1 km across all stages.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/1599ece2cac34b4745a73239892b9013482b2ca7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.9"
+    },
+    "ACH_WALK_5000_METERS": {
+      "name": "Steady Steps",
+      "description": "Travel a total of 5 km across all stages.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/956e9aba551a67a7c61ca182c511b3cfb21ed377.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.2"
+    },
+    "ACH_WALK_10000_METERS": {
+      "name": "Strong Legs",
+      "description": "Travel a total of 10 km across all stages.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/2af4105dde589be5f288b8136c44cc120bf5743b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.2"
+    },
+    "ACH_WALK_20000_METERS": {
+      "name": "Long-Haul Shopper",
+      "description": "Travel a total of 20 km across all stages.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/e877bf7d4a6a88f9a7814d0d29182388b4d7d53a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.8"
+    },
+    "ACH_WALK_30000_METERS": {
+      "name": "Endless Steps",
+      "description": "Travel a total of 30 km across all stages.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/d4a4820c04f9c743a4fdfff59bc5b73132c0e84f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.1"
+    },
+    "ACH_WALK_40000_METERS": {
+      "name": "Almost a Marathon",
+      "description": "Travel a total of 40 km across all stages.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/9c161249e707d670fffebc1883fb1432f579b01e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.4"
+    },
+    "ACH_WALK_42195_METERS": {
+      "name": "Marathoner",
+      "description": "Travel a total of 42.195 km across all stages.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/498794d0c1f0ad994c2ee811e520dcc5cdf6b7a3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.3"
+    },
+    "ACH_S2_FIRST_PRODUCT_PLACED": {
+      "name": "Second Start",
+      "description": "Correctly place 1 product on shelves in Stage 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/520c31ccec67d314bfe2f2e39d84cb3624f58324.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.1"
+    },
+    "ACH_S2_PLACE_100_PRODUCTS": {
+      "name": "New Store Ready",
+      "description": "Correctly place 100 products on shelves in Stage 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/3c49ba385250822ed72e85a6452eea8f13deee43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.1"
+    },
+    "ACH_S2_PLACE_777_PRODUCTS": {
+      "name": "Lucky Twice",
+      "description": "Correctly place 777 products on shelves in Stage 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/2d184522c7f9f021836433dcdb921c759128afca.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.4"
+    },
+    "ACH_S2_PLACE_1000_PRODUCTS": {
+      "name": "Second Thousand",
+      "description": "Correctly place 1,000 products on shelves in Stage 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/574e79f005afbb240cc7544b0df0deec8e90437a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.0"
+    },
+    "ACH_S2_PLACE_2000_PRODUCTS": {
+      "name": "Stocking Expert",
+      "description": "Correctly place 2,000 products on shelves in Stage 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/18f9ae18eb91ac0c676b45f1321c7eb10b957e4c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.7"
+    },
+    "ACH_S2_PLACE_2627_PRODUCTS": {
+      "name": "Really One More",
+      "description": "Correctly place 2,627 products on shelves in Stage 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/6ffe93c6a39f3b8369ce79b76d67fb9866401efb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.1"
+    },
+    "ACH_S2_PLACE_2628_PRODUCTS": {
+      "name": "Second Store Complete",
+      "description": "Correctly place 2,628 products on shelves in Stage 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/12ced63e83e4a9f976edf00ebd229659369439e3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "ACH_S2_CHANGE_SKY_3_TIMES": {
+      "name": "My Own Sky",
+      "description": "Change the sky 3 times in Stage 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/605ff3c40dbebd3f1a6d0b7275cd169ef61e98cc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.4"
+    },
+    "ACH_S3_FIRST_PRODUCT_PLACED": {
+      "name": "Mega Stocking Begins",
+      "description": "Correctly place 1 product on shelves in Stage 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/a451d4371f7dd4cebb12086cc0f215a4d3cdee10.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.5"
+    },
+    "ACH_S3_PLACE_100_PRODUCTS": {
+      "name": "Just the Beginning",
+      "description": "Correctly place 100 products on shelves in Stage 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/3332dcb6bcb418e55260112fbd804c5af5398fde.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.7"
+    },
+    "ACH_S3_PLACE_777_PRODUCTS": {
+      "name": "Third Time Lucky",
+      "description": "Correctly place 777 products on shelves in Stage 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/20ba6bc25d9264b250264cb64366e1c518a713a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.1"
+    },
+    "ACH_S3_PLACE_1000_PRODUCTS": {
+      "name": "A Thousand Is a Warm-Up",
+      "description": "Correctly place 1,000 products on shelves in Stage 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/35daec592ff33dd72da8263e6fa7684882155e92.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.5"
+    },
+    "ACH_S3_PLACE_3000_PRODUCTS": {
+      "name": "Endless Stocking",
+      "description": "Correctly place 3,000 products on shelves in Stage 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/09bb7a97c54691c895b7c7d0e1dd74a9653119d4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.4"
+    },
+    "ACH_S3_PLACE_5000_PRODUCTS": {
+      "name": "Halfway Point",
+      "description": "Correctly place 5,000 products on shelves in Stage 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/681ac9ed6c058a218930f1ddadd1bbd7ebf1ebf2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.7"
+    },
+    "ACH_S3_PLACE_7777_PRODUCTS": {
+      "name": "Ultra Lucky",
+      "description": "Correctly place 7,777 products on shelves in Stage 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/6f355d6e4ea75b02a93164cad5cff94f9534da2b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.1"
+    },
+    "ACH_S3_PLACE_9000_PRODUCTS": {
+      "name": "Final Thousand",
+      "description": "Correctly place 9,000 products on shelves in Stage 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/483d5c9275d456801957568605c372e215ebbefb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.7"
+    },
+    "ACH_S3_PLACE_9998_PRODUCTS": {
+      "name": "One Last Item, Really",
+      "description": "Correctly place 9,998 products on shelves in Stage 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/bd3e81be807d8b38eceb52e1180681be73abc2c3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.4"
+    },
+    "ACH_S3_PLACE_9999_PRODUCTS": {
+      "name": "Mega Market Complete",
+      "description": "Correctly place 9,999 products on shelves in Stage 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/9c9bc3a508a3d49d4ce1ffc48fc1f767f3ee0127.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.3"
+    },
+    "ACH_S3_CARRY_20_ITEMS": {
+      "name": "Seriously Too Heavy",
+      "description": "Hold 20 items at once in Stage 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/56221ac98e5d34c1f4fc950cf29c011e38d7637d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

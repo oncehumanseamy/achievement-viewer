@@ -1,0 +1,172 @@
+{
+  "appid": "2934180",
+  "name": "Doraemon Dorayaki Shop Story",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934180/header.jpg?t=1741846040",
+  "achievements": {
+    "DORAEMON": {
+      "name": "Time to Show Off!",
+      "description": "Proof of Receiving a Doraemon Statue",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/44ebf6957b47d158b00b4d41849334a8f6d9a5cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/962a1901fc22c7fbcc0fdecf6a1fe03a33b59492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.9"
+    },
+    "GAMECLEAR": {
+      "name": "Thank You!",
+      "description": "Proof of Receiving a Doraemon Statue",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/44ebf6957b47d158b00b4d41849334a8f6d9a5cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/962a1901fc22c7fbcc0fdecf6a1fe03a33b59492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.2"
+    },
+    "RANK10": {
+      "name": "Welcome to Dorayaki Land!",
+      "description": "Proof of Reaching Rank 10",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/44ebf6957b47d158b00b4d41849334a8f6d9a5cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/962a1901fc22c7fbcc0fdecf6a1fe03a33b59492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.2"
+    },
+    "RANK7": {
+      "name": "Revolutionizing the Dorayaki Shop",
+      "description": "Proof of Reaching Rank 7",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/726f1e62330cea07eb2e1197d3f47b51a4963048.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/13d2c5cb368a5e827c5328c833b3bf1d60ba15b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.3"
+    },
+    "RANK5": {
+      "name": "Breaking Dorayaki Boundaries",
+      "description": "Proof of Reaching Rank 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/726f1e62330cea07eb2e1197d3f47b51a4963048.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/13d2c5cb368a5e827c5328c833b3bf1d60ba15b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.0"
+    },
+    "RANK3": {
+      "name": "Getting the Hang of the Dorayaki Shop",
+      "description": "Proof of Reaching Rank 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/726f1e62330cea07eb2e1197d3f47b51a4963048.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/13d2c5cb368a5e827c5328c833b3bf1d60ba15b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.4"
+    },
+    "RANK1": {
+      "name": "Born for Business",
+      "description": "Proof of First Rank Up",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/84248433b08c7e4a0de3cb525345cc1e053190ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/99557833a708800fbcb97e9013ace7bf5bc09c6c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.7"
+    },
+    "WORLD_RANKING": {
+      "name": "The One and Only Champion",
+      "description": "Proof of Achieving World Ranking #1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/44ebf6957b47d158b00b4d41849334a8f6d9a5cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/962a1901fc22c7fbcc0fdecf6a1fe03a33b59492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "COUNTRY_RANKING": {
+      "name": "Top 3!",
+      "description": "Proof of Achieving Top 3 in Sales Rankings",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/726f1e62330cea07eb2e1197d3f47b51a4963048.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/13d2c5cb368a5e827c5328c833b3bf1d60ba15b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.7"
+    },
+    "SECRET_TOOL_ALL": {
+      "name": "A True Collector",
+      "description": "Proof of Acquiring All Secret Gadgets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/44ebf6957b47d158b00b4d41849334a8f6d9a5cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/962a1901fc22c7fbcc0fdecf6a1fe03a33b59492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.8"
+    },
+    "SECRET_TOOL_20": {
+      "name": "How Many Gadgets Do You Know?",
+      "description": "Proof of Acquiring 20 Types of Secret Gadgets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/726f1e62330cea07eb2e1197d3f47b51a4963048.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/13d2c5cb368a5e827c5328c833b3bf1d60ba15b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.6"
+    },
+    "FOOD_ALL": {
+      "name": "Sweets Lover!",
+      "description": "Proof of Making All Sweets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/44ebf6957b47d158b00b4d41849334a8f6d9a5cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/962a1901fc22c7fbcc0fdecf6a1fe03a33b59492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.3"
+    },
+    "CHARA_ALL": {
+      "name": "Hehe, Caught You!",
+      "description": "Proof of All F Characters Becoming Customers",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/44ebf6957b47d158b00b4d41849334a8f6d9a5cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/962a1901fc22c7fbcc0fdecf6a1fe03a33b59492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.0"
+    },
+    "FIRST_GIVE_FOOD": {
+      "name": "How Did You Guess!?",
+      "description": "Proof of Serving a Customer's Desired Sweet",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/84248433b08c7e4a0de3cb525345cc1e053190ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/99557833a708800fbcb97e9013ace7bf5bc09c6c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.5"
+    },
+    "POPUP_STORE": {
+      "name": "Quite the Savvy Trader",
+      "description": "Proof of Conquering Business Trip Shops",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/44ebf6957b47d158b00b4d41849334a8f6d9a5cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/962a1901fc22c7fbcc0fdecf6a1fe03a33b59492.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.5"
+    },
+    "PSUKE": {
+      "name": "A Dinosaur Egg, Indeed!",
+      "description": "Proof of Pisuke's Birth",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/726f1e62330cea07eb2e1197d3f47b51a4963048.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/13d2c5cb368a5e827c5328c833b3bf1d60ba15b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.7"
+    },
+    "ZAMAMONO": {
+      "name": "Your Victory...",
+      "description": "Proof of Defeating the First Obstacle",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/84248433b08c7e4a0de3cb525345cc1e053190ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/99557833a708800fbcb97e9013ace7bf5bc09c6c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.7"
+    },
+    "FIRST_MAKE_FOOD": {
+      "name": "A Natural at Sweet Making",
+      "description": "Proof of Making Sweets for the First Time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/84248433b08c7e4a0de3cb525345cc1e053190ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2934180/99557833a708800fbcb97e9013ace7bf5bc09c6c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.8"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

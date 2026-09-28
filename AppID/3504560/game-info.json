@@ -1,0 +1,289 @@
+{
+  "appid": "3504560",
+  "name": "Tomba! 2: The Evil Swine Return Special Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3504560/25b7bfd1b67550cb79cc14802376d6473ecb13dc/header.jpg?t=1765811092",
+  "achievements": {
+    "ACH_1": {
+      "name": "Static Explosion!",
+      "description": "Capture all three Kujaras and bring it back to Pham.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/2367a62f4a0ded9da58e672c57951dbc8d41bf71.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/79a2fc6659280097a07cce741b0b69788f15698a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.0"
+    },
+    "ACH_2": {
+      "name": "Vital Victory",
+      "description": "Reach max health.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/0d86b24be9069f1d3dba0d7e0a77e1293361209e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/b531b19d55ebc16d972761f62675b1f7b2160500.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.5"
+    },
+    "ACH_3": {
+      "name": "More Shred Threads",
+      "description": "Obtain all types of pants.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/4c101d594d02b62a6681c83f6c9ae98993dbf553.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/8a288c46f521258c1a61ce5c81f1284062902b61.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.2"
+    },
+    "ACH_4": {
+      "name": "Ready for Anything",
+      "description": "Obtain all types of suits.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/c599a05973c0236cabd3e3aba83bcf289ceb2f7f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/f3e718f21d8b8a8414317c2039e73298cbbcee81.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.0"
+    },
+    "ACH_5": {
+      "name": "The Whole Arsenal",
+      "description": "Obtain all types of weapons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/1106340f43330012d56c6d36c0d98455f8c5d0bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/5fee86a84221c02642219dcdf4db89ebf3aa1503.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.1"
+    },
+    "ACH_6": {
+      "name": "Mythical Reveal",
+      "description": "Obtain all types of complete spells.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/e00998d7990a5b1de566c5e1212e5f5befd00b05.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/c51cc1df7eaf2506df34cc33c6f3bf73865a5c59.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.6"
+    },
+    "ACH_7": {
+      "name": "Full Keychain",
+      "description": "Obtain all types of keys.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/43d03a4d9285a988af55d315bf5707dc6deb6daf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/ca45bb7d88b9067d305aedc6e191be9ea9310c56.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.2"
+    },
+    "ACH_8": {
+      "name": "Meet & Greet",
+      "description": "Use the Pig Suit to talk to someone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/5acf16f2ed5fb2d5da6a5cb7acd1c338f6d71923.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/284d38ca415098b83eefd9e1d12601b3979c6a07.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.5"
+    },
+    "ACH_9": {
+      "name": "The Hidden Diary!",
+      "description": "Acquire the Traveler's Journal.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/a059ca9e7a5cc0a46afeeff37092428bc3b6e4a6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/0021a404c47a36bea5982534d6fad914f8cc717d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.1"
+    },
+    "ACH_10": {
+      "name": "Device Guards the Treasure!",
+      "description": "Open the path to the treasure!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/cf16de5faeb542a3be551d7989b28d3043cd3c26.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/8f3a70be5861aa634ce3486e301e5a14b915cd9c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.8"
+    },
+    "ACH_11": {
+      "name": "Pedal To The Metal",
+      "description": "Ride the trolley to the finish line under 1 minute and 10 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/81e2ce8f8a7011c6dc74a2201298d02197fbcb8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/84cb9ecc974b9ffa96eea6e4b5be34478c9ef65f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.1"
+    },
+    "ACH_12": {
+      "name": "Feather Fall",
+      "description": "Help the clown by putting the pillow beneath him while falling.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/7b87a8ef097b59d3e36de420da5e595e54e41599.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/040c466e8be1b58ca973cdb71bf5ef31dbf03dc9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.1"
+    },
+    "ACH_13": {
+      "name": "Music For My Ears",
+      "description": "Let the mermaid use the reassembled harp.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/3216dbb3d677a5cb8827061d7f328049a0263baf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/d299705d5bbf49d80aade1c3e3c7e12561678039.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.3"
+    },
+    "ACH_14": {
+      "name": "Golden Dreams",
+      "description": "Obtain the Golden Powder.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/f654cb4d18701f47fc5c38ee1e21082de1734967.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/b390ae73c8b838f765413aea19011dee689973a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.2"
+    },
+    "ACH_15": {
+      "name": "LAUGH! (Again)",
+      "description": "Enter the Laughing Door in the laughing state.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/989b594a2a97158ed92939d660f0eb03525a28ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/90524da17fb5485d5d8e5efbd8199d7e5cefe543.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.6"
+    },
+    "ACH_16": {
+      "name": "POUT! (Again)",
+      "description": "Enter the Crying Door in the crying state.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/c39f08f53980c5232f0401479636b64596c8c354.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/38fcb27172231d86ab5f2b4dbd21b6a58059ef82.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.8"
+    },
+    "ACH_17": {
+      "name": "Washing Machine",
+      "description": "Clear Level 10 of washing the Kujara.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/24483bc826f8e6147d357b6b3fe2cf9aec3cbc1d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/3e936527dd96e8f39bc75d7655949ec6b477cf7a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.4"
+    },
+    "ACH_18": {
+      "name": "Old Friends",
+      "description": "Use Holy Water on Baron.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/9d11cfff31fb7602e2ff7e9fea467fadca062392.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/833e26279b1da464e96168e37966537662880be1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.7"
+    },
+    "ACH_19": {
+      "name": "Tiny Cogs",
+      "description": "Make Tomba small with the Minitta Machine.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/a9af07f9bc8c9fa1ae1109f8819e7c0014387aec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/c4451cb35549aa78bb0550a5719e9a684424144e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.3"
+    },
+    "ACH_20": {
+      "name": "Water Splashes",
+      "description": "Defeat the Water Evil Pig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/cadb3f652125acfb826d05c4401af00a890cb354.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/d6d73183e457f64d492baf6cc42352b49d6b4db5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.7"
+    },
+    "ACH_21": {
+      "name": "Red Rumble",
+      "description": "Defeat the Fire Evil Pig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/af28c4331e4854d6b0cc067c09be21782eee7900.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/dbd521a8efba74ed5009738d7e83a3b2a6b0c8b1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.6"
+    },
+    "ACH_22": {
+      "name": "Dark Downfall",
+      "description": "Defeat the Earth Evil Pig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/b51052f1f31ef87eb522e8da0704a12bf6658a1c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/6c8420e4b2d2ab8b9624d6a97b42832bcdffcfff.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "ACH_23": {
+      "name": "Ghostbuster",
+      "description": "Defeat the Ghost Evil Pig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/fc388d858005331a9d3127c856817eec850cec44.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/37a999ecc5e89d729236e2ab1beef382e9beda73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.5"
+    },
+    "ACH_24": {
+      "name": "Frozen Fate",
+      "description": "Defeat the Ice Evil Pig.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/69dafaebdf63015296aa020796347db9398edd06.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/a207032394548e4af6b38de293100ba97c187654.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.8"
+    },
+    "ACH_25": {
+      "name": "The Final Pig",
+      "description": "Defeat the final Evil Pig and seal the last pig bag.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/03e65bc8be7f7408eecf63825d503830be1c43c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/64b70711287c443b6402f31869b5851d52cf61c3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.5"
+    },
+    "ACH_26": {
+      "name": "Where's Tabby?",
+      "description": "Resolve the mystery around Tabby's disappearance.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/fbfb6a1be8d6d2ab89be12c4d92b1f8442983f2d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/3a1e10b2cc1e513c81a8470bca0872289604a096.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.5"
+    },
+    "ACH_27": {
+      "name": "Event Horizon",
+      "description": "Complete all events in the game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/ce4a2ffcc3717f2b12da84a55e4db610c64d950e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/36840827d700bac798813fe420cb438253b18749.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.4"
+    },
+    "ACH_28": {
+      "name": "A Large Flower Seed",
+      "description": "Get a flower from Ranch Area seeds and bring it to the dwarfs.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/020e0ee86d95041ef4b4747e8fcd37baae173e8a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/6860b52914abe0168f40146d7a2c080e39aa52bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "ACH_29": {
+      "name": "Invisible Mirror",
+      "description": "Find and bring back the mirror to Mizuno.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/6ed621f69023954d2d6d51e7b98e0525782f6bf7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/d9df872d3b98c8a931887fac19dde0ab61c2a67f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.7"
+    },
+    "ACH_30": {
+      "name": "Yan of the Hidden Village",
+      "description": "Find Yan and talk to him.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/d5c7b4f3979a7d702f947b9e518f6685d2730d2f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/24873aed03c29f5862a5bba3bea50676d8cace30.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.6"
+    },
+    "ACH_31": {
+      "name": "100-Year-Old Man",
+      "description": "Find and bring back the lost amulet to the 100 Year Old Wise Man.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/afdeedf907cc30f2d7ae5c2e34ad28ea9385473d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/c32487b17733a772f18a50398eb9b938855f4058.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.8"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

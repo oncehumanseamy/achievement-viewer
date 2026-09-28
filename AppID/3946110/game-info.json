@@ -1,0 +1,892 @@
+{
+  "appid": "3946110",
+  "name": "Fracture Field",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946110/fdeb068e640262a1b04043212ccfc443ec6dcf37/header.jpg?t=1789991564",
+  "achievements": {
+    "first_strike": {
+      "name": "First Strike",
+      "description": "Deal your first damage to a rock",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/14c1b8abd6ee0e8665df5cfc05f3a8d3583e1eb3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "99.5"
+    },
+    "rock_bottom": {
+      "name": "Rock Bottom",
+      "description": "Destroy your first rock completely",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/fa310728022042ba09b2d66467d19f1d1d3132ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "99.4"
+    },
+    "tool_time": {
+      "name": "Tool Time",
+      "description": "Purchase your first tool upgrade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/532aa5348c7b497c66953a47a0e5cbd2fea70825.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "96.9"
+    },
+    "dust_to_dust": {
+      "name": "Dust to Dust",
+      "description": "Collect your first 100 Dust",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/30b3bc502c35b5ed7055a9d0ede5e83c51a180dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "99.0"
+    },
+    "critical_thinking": {
+      "name": "Critical Thinking",
+      "description": "Land your first critical hit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/28d29d45e893b94e160ff53445ceffb570e7eb2a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "99.0"
+    },
+    "automated_mining": {
+      "name": "Automated Mining",
+      "description": "Deploy your first drone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/fed677ceda3c729f161ab9156fcb50da41ad3863.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "98.9"
+    },
+    "explosive_entry": {
+      "name": "Explosive Entry",
+      "description": "Use your first bomb",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/06f4e789bcff55d48a669e7419777568d8fc2e26.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "97.8"
+    },
+    "layer_cake": {
+      "name": "Layer Cake",
+      "description": "Reach the Clay layer",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/c6c2253af64898ad84af8cd13613c54da872d602.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "98.3"
+    },
+    "upgrade_path": {
+      "name": "Upgrade Path",
+      "description": "Purchase 10 upgrades",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/00f30b159951078ec4c5cd5c56b84a1a713be262.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "98.8"
+    },
+    "time_flies": {
+      "name": "Time Flies",
+      "description": "Play for 30 minutes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/8bc2036b7d3229091ae95ae3b5cf6612bb50a91d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "94.9"
+    },
+    "novice_miner": {
+      "name": "Novice Miner",
+      "description": "Destroy 100 rocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/692796b9400c35c875d597280dbd0e1ba6bfdf4e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "98.6"
+    },
+    "experienced_miner": {
+      "name": "Experienced Miner",
+      "description": "Destroy 1000 rocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/65c083e7ab4f39c6d0fa4c9c990185514ac4e334.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "96.3"
+    },
+    "expert_miner": {
+      "name": "Expert Miner",
+      "description": "Destroy 10000 rocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/da9b346d44fa2cb755770ece2de3f2d3b168728c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.7"
+    },
+    "master_miner": {
+      "name": "Master Miner",
+      "description": "Destroy 100000 rocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/ea5921b43edb2c5932bb0858eecee74e23c6aa89.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.9"
+    },
+    "legendary_miner": {
+      "name": "Legendary Miner",
+      "description": "Destroy 1000000 rocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/9616876c094425a86f5264ea3f2078d825e70558.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.6"
+    },
+    "clicker": {
+      "name": "Clicker",
+      "description": "Perform 100 manual hits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/2b6ec088e83559cd724200c22734f43b931ebc6f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "98.9"
+    },
+    "click_sprint": {
+      "name": "Click Sprint",
+      "description": "Perform 1000 manual hits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/770b63380f207b2fa0907951be09e39f16a3121c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.6"
+    },
+    "click_marathon": {
+      "name": "Click Marathon",
+      "description": "Perform 10000 manual hits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/b66702ef55e95a3c59474b158786001e59614fe0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.8"
+    },
+    "precision_striker": {
+      "name": "Precision Striker",
+      "description": "Land 1000 critical hits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/48e43387404c7a1dbebd56a838d7f0fa813d5ad5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "89.1"
+    },
+    "mega_critical": {
+      "name": "Mega Critical",
+      "description": "Land 100 mega critical hits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/fa0153f105868fdef5075d805782403e4fa85fae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.6"
+    },
+    "never_miss": {
+      "name": "Never Miss",
+      "description": "Hit 100 rocks in a row without missing",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/82cef45e9572a67d51e5b5dfb5e9cce478377300.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.9"
+    },
+    "speed_demon": {
+      "name": "Speed Demon",
+      "description": "Achieve 0.1s hit speed",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/cbb4af712ecd6011b6cbee489456177af64c2e34.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.6"
+    },
+    "maximum_velocity": {
+      "name": "Maximum Velocity",
+      "description": "Achieve maximum hit speed (0.02s)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/36b7a1726efbc269c82d23a22c8d8af0d6be88a3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.0"
+    },
+    "damage_dealer": {
+      "name": "Damage Dealer",
+      "description": "Deal 1 million damage in a single hit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/b07789c860c1bdf0a7619dd76d699fa0ba0b5e2e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.9"
+    },
+    "billion_damage_club": {
+      "name": "Billion Damage Club",
+      "description": "Deal 1 billion total damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/5e8eb039f98e86e9afc4784a02b2c251dd951ab7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.9"
+    },
+    "trillion_damage_club": {
+      "name": "Trillion Damage Club",
+      "description": "Deal 1 trillion total damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/851c82f61c9b72ed799b20098ea163dd5603fd1d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.2"
+    },
+    "quadrillion_damage_club": {
+      "name": "Quadrillion Damage Club",
+      "description": "Deal 1 quadrillion total damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/df6b23d501ecb235c0a44b371720ce6007bc26b1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.0"
+    },
+    "stone_age": {
+      "name": "Stone Age",
+      "description": "Max the Stone capacity upgrade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/bbbeb33ba17f361916cb560be3f1b979897ded53.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.0"
+    },
+    "clay_sculptor": {
+      "name": "Clay Sculptor",
+      "description": "Max the Clay capacity upgrade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/febdd0b147822485caf0b67ffee9e91b5e2a8071.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "92.6"
+    },
+    "sand_castle": {
+      "name": "Sand Castle",
+      "description": "Max the Sandstone capacity upgrade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/2d10025259a6a6f96c8e55cf795b4e24e22a2420.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.6"
+    },
+    "crystal_clear": {
+      "name": "Crystal Clear",
+      "description": "Max the Quartz capacity upgrade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/97c90ab7f8727f9bd2c8ce4c89f29a80f0b0c965.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.6"
+    },
+    "iron_will": {
+      "name": "Iron Will",
+      "description": "Max the Iron capacity upgrade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/10de82e1f0b842005d49f808278b98cbd719b378.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.7"
+    },
+    "silver_lining": {
+      "name": "Silver Lining",
+      "description": "Max the Silver capacity upgrade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/c61a580fdb3a76404a8d1a74ed667bfd9815cd2f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.2"
+    },
+    "golden_touch": {
+      "name": "Golden Touch",
+      "description": "Max the Gold capacity upgrade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/fde8b953b44b68c6590fe7e30d7118e2d660d0d5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.4"
+    },
+    "diamond_dreams": {
+      "name": "Diamond Dreams",
+      "description": "Max the Diamond capacity upgrade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/f17afd6201744e1b75077b17bc62fd57df22f2f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.5"
+    },
+    "stick_fighter": {
+      "name": "Stick Fighter",
+      "description": "Master the Pointed Stick (1000 hits)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/8b1f6657b19cf341b9dc54fd7242e3647f3eebaa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.8"
+    },
+    "hammer_time": {
+      "name": "Hammer Time",
+      "description": "Perfect the Makeshift Hammer technique (1000 hits)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/13ba7d8c02b4d3d540382d38711c9e3222864439.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "93.3"
+    },
+    "pick_professional": {
+      "name": "Pick Professional",
+      "description": "Excel with the Flint Pickaxe (1000 hits)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/a5f3de47bf57a9bded238440332bb748fb07055f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.4"
+    },
+    "sledge_sergeant": {
+      "name": "Sledge Sergeant",
+      "description": "Command the Stone Sledgehammer (1000 hits)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/d3f9d6b7b9127d08d61c3b1a73b65329cc1f9a79.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.5"
+    },
+    "iron_will_tool": {
+      "name": "Iron Will",
+      "description": "Iron Will",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/1ede73e956c60c66007019dec97c13b724e603d6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.9"
+    },
+    "mallet_monarch": {
+      "name": "Mallet Monarch",
+      "description": "Mallet Monarch",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/3f670cb5a0a4da1ec60b9cd76cb8c6cbbf2e2d98.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.5"
+    },
+    "solid_steel": {
+      "name": "Solid Steel",
+      "description": "Solid Steel",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/cc4706c789f2cb6ad0f097c96b1d976c9d75a034.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.6"
+    },
+    "tungsten_titan": {
+      "name": "Tungsten Titan",
+      "description": "Tungsten Titan",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/41e0c94cc3bff1b6b01b9ef5b119295bc3ada084.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.0"
+    },
+    "drone_pilot": {
+      "name": "Drone Pilot",
+      "description": "Drone Pilot",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/72d039889ac74cf41994ffd44fdb1c7ad94a8d5c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.5"
+    },
+    "drone_commander": {
+      "name": "Drone Commander",
+      "description": "Drone Commander",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/aab156ac73890f78d5f66ce889463e72aed098f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.6"
+    },
+    "drone_overlord": {
+      "name": "Drone Overlord",
+      "description": "Drone Overlord",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/eb2f0a3918bcb0f1c8c5da51a8299a304e9420d8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.6"
+    },
+    "hammer_squadron": {
+      "name": "Hammer Squadron",
+      "description": "Hammer Squadron",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/39d967deb1b9b928a944cedbc543fcd6bd935aa6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.3"
+    },
+    "sentry_network": {
+      "name": "Sentry Network",
+      "description": "Sentry Network",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6aaadaca0d100f1c04c33f128f07d3c4f5b81f52.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.0"
+    },
+    "collection_force": {
+      "name": "Collection Force",
+      "description": "Collection Force",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/3bb30246d2d71a551b180b7fd5b56fea538341eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.6"
+    },
+    "pierce_battalion": {
+      "name": "Pierce Battalion",
+      "description": "Deploy 5 Pierce Drones",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/ab08419f4b9d3b773bf703ede538d3619f868d91.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.8"
+    },
+    "supervisor_council": {
+      "name": "Supervisor Council",
+      "description": "Deploy 2 Supervisor Drones",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/c15b723064a01ca3e3080947652b1056a0edbfa0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.7"
+    },
+    "shatter_storm": {
+      "name": "Shatter Storm",
+      "description": "Deploy 4 Shatter Drones",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/f6764a13e6f837a5913373c9daf21da31619ac5e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.1"
+    },
+    "boost_brigade": {
+      "name": "Boost Brigade",
+      "description": "Deploy 2 Boost Drones",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/443c59db6d9e7677474964e8494405ec64ce33f0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.2"
+    },
+    "automated_empire": {
+      "name": "Automated Empire",
+      "description": "Have drones deal 1 billion damage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/adbcbf4f790f6fdd33512f7f574b93232e319315.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.5"
+    },
+    "drone_efficiency": {
+      "name": "Drone Efficiency",
+      "description": "Drones hit 100000 rocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/86dacb4c04b8ac8db772c5a93f2399e37acf884a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.5"
+    },
+    "bomb_squad": {
+      "name": "Bomb Squad",
+      "description": "Use 100 bombs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/71526a9b92b8807f00bd812c9e843c99a1786e67.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.4"
+    },
+    "demolition_expert": {
+      "name": "Demolition Expert",
+      "description": "Use 1000 bombs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/7dde6fd99764841074c221ff924acd3ca2f1be01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.0"
+    },
+    "chain_reaction": {
+      "name": "Chain Reaction",
+      "description": "Destroy 3 rocks with one bomb",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/5c2ca909d60fd1a3b91eb647a7b897c7a40372c4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.0"
+    },
+    "carpet_bomber": {
+      "name": "Carpet Bomber",
+      "description": "Destroy 10 rocks with one bomb",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/a88cff700b7b3ecb97baac109d685c3d9b005b88.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.9"
+    },
+    "maximum_charge": {
+      "name": "Maximum Charge",
+      "description": "Have 10 bomb charges ready",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/1c7acbe93b355e0340b5b4f1e4def36281a16f6a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.7"
+    },
+    "rapid_deployment": {
+      "name": "Rapid Deployment",
+      "description": "Use 10 bombs in 5 seconds",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/e72ddd14e725df6bce7ec06dac9d1e1aa5742a5f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.9"
+    },
+    "blast_radius": {
+      "name": "Blast Radius",
+      "description": "Achieve maximum bomb radius",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/7320cf908b6decff5470c49fc691ff1c920e523e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.3"
+    },
+    "nuclear_option": {
+      "name": "Nuclear Option",
+      "description": "Deal 1 billion damage with bombs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/a668bf70b7ba404497c731937f6702a692859477.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.2"
+    },
+    "world_breaker": {
+      "name": "World Breaker",
+      "description": "Perform your first World Fracture",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/9d02a5e6099cdbcee009813fd8074d81a1e1c042.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.3"
+    },
+    "fracture_veteran": {
+      "name": "Fracture Veteran",
+      "description": "Perform 10 World Fractures",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/d6248d24f393158aeeb0ee9a31721474e1f4319e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.2"
+    },
+    "fracture_master": {
+      "name": "Fracture Master",
+      "description": "Perform 100 World Fractures",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/58f589e56b88ce1c34e8f912f971cb042489fed1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.7"
+    },
+    "core_collector": {
+      "name": "Core Collector",
+      "description": "Earn 1000 Core Fragments",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/607696bc1a690b1c17253779b9c38d18b5bbbcf0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.9"
+    },
+    "core_hoarder": {
+      "name": "Core Hoarder",
+      "description": "Earn 1 million Core Fragments",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/7b73c2c92b5cc225f4d3bc4a0458bf818348214d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.7"
+    },
+    "iron_monopoly": {
+      "name": "Iron Monopoly",
+      "description": "Collect 1000000 Iron Ore",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/9e7b7c43f0c31682347fca625bc2f8334d720553.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.6"
+    },
+    "reality_bender": {
+      "name": "Reality Bender",
+      "description": "Perform your first Reality Shatter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/2b339cdc49470b75d9a79c9e4072e415c710debc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.3"
+    },
+    "silver_monopoly": {
+      "name": "Silver Monopoly",
+      "description": "Collect 1000000 Silver Nuggets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/89aabcd0f3510c6d6b73ac08a71b5639de4d9feb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.5"
+    },
+    "reality_manipulator": {
+      "name": "Reality Manipulator",
+      "description": "Perform 10 Reality Shatters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/69b04c9bd70a7d78a5352d338a2454054e897e01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.9"
+    },
+    "reality_master": {
+      "name": "Reality Master",
+      "description": "Perform 100 Reality Shatters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/9cddc142d86eb5a97aac25e1af268b76917a481a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.8"
+    },
+    "shard_seeker": {
+      "name": "Shard Seeker",
+      "description": "Earn 1000 Reality Shards",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/ed8a1e3f632cfb4a6fd6ef3ccf570963367e5acd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.6"
+    },
+    "shard_emperor": {
+      "name": "Shard Emperor",
+      "description": "Earn 1 million Reality Shards",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/92bc42daa7ed9648e1a9ca831fe53753b4f07ba4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.8"
+    },
+    "dust_bunny": {
+      "name": "Dust Bunny",
+      "description": "Accumulate 1 million Dust",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/268ef7795c068a37702eed1cb65502dea14e1add.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.3"
+    },
+    "dust_storm": {
+      "name": "Dust Storm",
+      "description": "Accumulate 1 billion Dust",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/1583568fdf609317ba96c6cb1c1cc10a853544cf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.5"
+    },
+    "dust_universe": {
+      "name": "Dust Universe",
+      "description": "Accumulate 1 trillion Dust",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/c20b0810ff33129fb3bf83643ff784ab137e21d8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.4"
+    },
+    "stone_monopoly": {
+      "name": "Stone Monopoly",
+      "description": "Collect 1000000 Stone Fragments",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/d7c0a045d7f3b535f80474e79140905ee55b0c25.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.5"
+    },
+    "clay_monopoly": {
+      "name": "Clay Monopoly",
+      "description": "Collect 1000000 Clay Tablets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/51417563e7ecaa4aec1119fa6c2199b77c8d33dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.2"
+    },
+    "sandstone_monopoly": {
+      "name": "Sandstone Monopoly",
+      "description": "Collect 1000000 Sandstone Shards",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/57a7b821c2166a5b240561bb5d042148db85c316.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.8"
+    },
+    "quartz_monopoly": {
+      "name": "Quartz Monopoly",
+      "description": "Collect 1000000 Quart Crystals",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/df281e510ddcefed38075ffce5d6aec96dba34e2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.0"
+    },
+    "gold_monopoly": {
+      "name": "Gold Monopoly",
+      "description": "Collect 1000000 Gold Nuggets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/45b7de419b6de5163411c72ba3c3c8c9b007c912.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.9"
+    },
+    "diamond_monopoly": {
+      "name": "Diamond Monopoly",
+      "description": "Collect 1000000 Diamond Crystals",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/f7bf5301b06243087e51f6cd3ba751d11c7b8da3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.6"
+    },
+    "upgrade_addict": {
+      "name": "Upgrade Addict",
+      "description": "Purchase 100 upgrades",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/c1f81151133473e94fc47a61a5b37b5c063c770f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.3"
+    },
+    "upgrade_master": {
+      "name": "Upgrade Master",
+      "description": "Purchase 1000 upgrades",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/f485250b4a7e43544a863676b44df9847746d5b3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.7"
+    },
+    "foremans_friend": {
+      "name": "Foreman's Friend",
+      "description": "Have Quarry Foreman purchase 100 upgrades",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/3e9fa1dbd6e73f0792a9fb5807048872c645edf9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.3"
+    },
+    "dedicated_miner": {
+      "name": "Dedicated Miner",
+      "description": "Play for 1 hour",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/493deaa741c5bcd909f4dbd3ca454f9eaedd1291.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.3"
+    },
+    "committed_miner": {
+      "name": "Committed Miner",
+      "description": "Play for 10 hours",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/5a234681f592fdd33a76234467060fc45bdff0f9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.3"
+    },
+    "lucky_strike": {
+      "name": "Lucky Strike",
+      "description": "Get 3 critical hits in a row",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/5a2ec0a0bc9715bae143ba3c796dd44133db3072.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "92.3"
+    },
+    "quick_fracture": {
+      "name": "Quick Fracture",
+      "description": "Fracture the World within 60 seconds",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/53a72fc774de804063617200d21acbf9ad2ae018.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.5"
+    },
+    "pacifist_run": {
+      "name": "Pacifist Run",
+      "description": "Go 10 minutes without clicking",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/2b669ac0f634ca0117677b340b3a5fdacc9a2ca3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.8"
+    },
+    "click_frenzy": {
+      "name": "Click Frenzy",
+      "description": "Click 50 times in 10 seconds",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/e78d6567a0aea5f9e2bd4e1b77fee07b13fcc9b5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.3"
+    },
+    "geological_anomaly": {
+      "name": "Geological Anomaly",
+      "description": "Transition through all rock layers at once",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/a9e58ad399ce939ec78ab6708987f19fd08b26c4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.7"
+    },
+    "memory_master": {
+      "name": "Memory Master",
+      "description": "Own all memory upgrades",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/779c94a0bb8628f118c9b90edfb7b13858aa54cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.3"
+    },
+    "sudden_surprise": {
+      "name": "Sudden Surprise",
+      "description": "Trigger 100 Sudden Appearances",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/8677a4f53c62703663ad3c3e14247aba01c92e08.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.9"
+    },
+    "geode_hunter": {
+      "name": "Geode Hunter",
+      "description": "Find 100 Geode Clusters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/9cfe3be8e2abf2b4e0b0aa28eac27cae1601a49a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.0"
+    },
+    "mk_ii_master": {
+      "name": "Mk II Master",
+      "description": "Unlock all Mk II upgrades",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/a68f1c38da4365c54f5e36911e756b245d201c13.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3946110/6124e66596c08008e115169f2993872d770356f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
