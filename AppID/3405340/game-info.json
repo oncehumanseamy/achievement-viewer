@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/f4597556aff71c7fd63100e3f6289af1067b99e4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.1"
+      "percent": "60.0"
     },
     "a_anvil": {
       "name": "Anvil",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/5077069d8dac9abf522a7470e4e7a1a9a4925c76.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.1"
     },
     "a_ghost": {
       "name": "Ghost",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/f9aab199558186924766e0661cfd868e512c2690.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.4"
+      "percent": "65.3"
     },
     "a_eagleClaw": {
       "name": "Eagle Claw",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/f4d707b8eeb401e83e48b49786f50096505058bc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.3"
+      "percent": "31.2"
     },
     "a_bloodyCleaver": {
       "name": "Bloody Cleaver",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/bea3043902eb49574d523be894604b9fbd2fbad4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.2"
+      "percent": "78.1"
     },
     "a_energyCore": {
       "name": "Energy Core",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/33dbde210500e4cb8328359b9f4e90b0414147cf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "22.1"
     },
     "a_joesDagger": {
       "name": "Joe's Dagger",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/528bf74acd9b82072ad13487c2448d60ef04715d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "90.2"
+      "percent": "90.1"
     },
     "a_chadwell": {
       "name": "Sir Chadwell",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/4cf60045a5a3978286cffdb2f734b01f1fd66156.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.0"
+      "percent": "80.9"
     },
     "a_monke": {
       "name": "Monke",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/41e84af4744d2a9e3c9eb0b0accf8cd94fbdbb3a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.3"
+      "percent": "64.2"
     },
     "a_noelle": {
       "name": "Noelle",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/3fc667ff9e738fcd7cbb4c3f60759f5d2de85a50.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.3"
+      "percent": "45.2"
     },
     "a_vlad": {
       "name": "Vlad",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/6a0a60bbf8659cbace3956efb5945c3c971feba5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "40.5"
+      "percent": "40.4"
     },
     "a_armorTome": {
       "name": "Armor Tome",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/2c82977f96005bfdf23775955a14bee7a3b10f9f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.6"
+      "percent": "14.5"
     },
     "a_cursedTome": {
       "name": "Cursed Tome",
@@ -685,7 +685,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/13cba03c84fa1d8ea6bdf8ca8ec7e32cb82cf2b9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.3"
+      "percent": "39.2"
     },
     "a_corruptedSword": {
       "name": "Corrupted Sword",
@@ -883,7 +883,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/e795da5c27191f4a5cc30eee41129ebfc5a8931c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.2"
+      "percent": "56.1"
     },
     "a_tomeSlots": {
       "name": "Tome Slots",
@@ -982,7 +982,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/0bc4c909f3870f7fdfb96e9c7f1609a32680e768.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.5"
+      "percent": "22.6"
     },
     "a_scythe": {
       "name": "Scythe",
@@ -991,7 +991,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/59affccc13d4aad09c34647c6cf72a7f7c81f240.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "a_roberto": {
       "name": "Roberto",
@@ -1063,7 +1063,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/1e6e2e911e76a5cdb18d722cb7b099f516f271da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.3"
     },
     "a_hatCheese": {
       "name": "Cheesy Hat",
@@ -1099,7 +1099,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/712354ce4d59cdf803c94995bcf67fb20c016bd9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.8"
+      "percent": "22.9"
     },
     "a_hatFrog2": {
       "name": "Blue Frog",
@@ -1108,7 +1108,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/9f1829dc603b9a6e04f21552979d903323ada72e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.3"
     },
     "a_hatFrog3": {
       "name": "Red Frog",
@@ -1117,7 +1117,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/a994a689eb12b6b8b3f862d5d78c0329443e1ce4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "a_hatHeadset": {
       "name": "Headset",
