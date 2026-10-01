@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/0b6b4bf4f9d602343ca56675d27c0ed8b1a18505.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.5"
+      "percent": "86.4"
     },
     "a_bossBuster": {
       "name": "Boss Buster",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/68bf96a306e9a4c2499c41f9fb53470b3200e860.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.7"
+      "percent": "44.6"
     },
     "a_tacticalGlasses": {
       "name": "Tactical Glasses",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/ecdbd90817b8ca18ea1e590221cceb8c8eb41739.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.0"
+      "percent": "63.9"
     },
     "a_soulHarvester": {
       "name": "Soul Harvester",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/a778144a8b54cf05787271bc81cc4dde90545560.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.1"
+      "percent": "66.0"
     },
     "a_athena": {
       "name": "Athena",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/ccdd1509281ac80349e166ba4a843c750c1ed0e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.0"
+      "percent": "56.9"
     },
     "a_birdo": {
       "name": "Birdo",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/41d874554ec8b0d44f5a2ad0c608736d2bd8af0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.2"
+      "percent": "83.1"
     },
     "a_ninja": {
       "name": "Ninja",
@@ -892,7 +892,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/c9112ab3769835809ae6a336df7098fa562e8a7c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.7"
+      "percent": "76.6"
     },
     "a_weaponSlots": {
       "name": "Weapon Slots",
@@ -973,7 +973,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/36d03d8684525301084f5a3af27aa7b2ceba57a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "a_graveyard": {
       "name": "Graveyard",
@@ -1063,7 +1063,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/1e6e2e911e76a5cdb18d722cb7b099f516f271da.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.4"
     },
     "a_hatCheese": {
       "name": "Cheesy Hat",
@@ -1099,7 +1099,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/712354ce4d59cdf803c94995bcf67fb20c016bd9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "a_hatFrog2": {
       "name": "Blue Frog",
@@ -1171,7 +1171,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/ece0bf1dae12b72d149fd2b2684de0f351fc5f47.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "a_hatPot": {
       "name": "Head Pot",
@@ -1189,7 +1189,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/8e570c660c0ba30e02306ea7e0e14692e305952c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.3"
     },
     "a_hatShadyBlue": {
       "name": "Shady Hat (blue)",

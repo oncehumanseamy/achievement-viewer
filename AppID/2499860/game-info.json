@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "93.3"
+      "percent": "93.2"
     },
     "ACH_02_MainStory": {
       "name": "Anchors Aweigh!",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "89.5"
+      "percent": "89.4"
     },
     "ACH_03_MainStory": {
       "name": "A Well-Earned Brew",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/70248a7fb623feef65cdc2172646d1fc70c84899.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "ACH_03_System": {
       "name": "Heroic Hoarder",

@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/5fee86a84221c02642219dcdf4db89ebf3aa1503.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.1"
+      "percent": "33.2"
     },
     "ACH_6": {
       "name": "Mythical Reveal",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/c51cc1df7eaf2506df34cc33c6f3bf73865a5c59.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.6"
+      "percent": "36.7"
     },
     "ACH_7": {
       "name": "Full Keychain",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/0021a404c47a36bea5982534d6fad914f8cc717d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "61.0"
+      "percent": "61.1"
     },
     "ACH_10": {
       "name": "Device Guards the Treasure!",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/d299705d5bbf49d80aade1c3e3c7e12561678039.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.3"
+      "percent": "44.4"
     },
     "ACH_14": {
       "name": "Golden Dreams",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/b390ae73c8b838f765413aea19011dee689973a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.2"
+      "percent": "30.3"
     },
     "ACH_15": {
       "name": "LAUGH! (Again)",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/833e26279b1da464e96168e37966537662880be1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.7"
+      "percent": "43.8"
     },
     "ACH_19": {
       "name": "Tiny Cogs",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/d6d73183e457f64d492baf6cc42352b49d6b4db5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.7"
+      "percent": "41.8"
     },
     "ACH_21": {
       "name": "Red Rumble",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/dbd521a8efba74ed5009738d7e83a3b2a6b0c8b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.6"
+      "percent": "44.7"
     },
     "ACH_22": {
       "name": "Dark Downfall",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/6c8420e4b2d2ab8b9624d6a97b42832bcdffcfff.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "45.1"
     },
     "ACH_23": {
       "name": "Ghostbuster",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/37a999ecc5e89d729236e2ab1beef382e9beda73.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "46.6"
     },
     "ACH_24": {
       "name": "Frozen Fate",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/a207032394548e4af6b38de293100ba97c187654.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.8"
+      "percent": "46.9"
     },
     "ACH_25": {
       "name": "The Final Pig",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/64b70711287c443b6402f31869b5851d52cf61c3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "ACH_26": {
       "name": "Where's Tabby?",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/3a1e10b2cc1e513c81a8470bca0872289604a096.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.5"
+      "percent": "34.6"
     },
     "ACH_27": {
       "name": "Event Horizon",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3504560/6860b52914abe0168f40146d7a2c080e39aa52bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.9"
+      "percent": "32.0"
     },
     "ACH_29": {
       "name": "Invisible Mirror",

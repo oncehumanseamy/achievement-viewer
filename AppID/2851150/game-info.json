@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/448da30b9135e29054bd228e09fed37ff4687b25.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "ACH_SHRED_THREADS": {
       "name": "Shred Threads",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/66f7cd8d2d90a0f57b81450e3427e7a2fa4eb558.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "ACH_CAPTURE_MOUSE_PIG": {
       "name": "Capture the Mouse Pig",
