@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/358d06f55700b5b98cdd19aea34f6be23fff1510.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "54.9"
     },
     "a_goldenSneakers": {
       "name": "Golden Sneakers",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/41d874554ec8b0d44f5a2ad0c608736d2bd8af0d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "83.1"
+      "percent": "83.2"
     },
     "a_ninja": {
       "name": "Ninja",
@@ -1099,7 +1099,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/712354ce4d59cdf803c94995bcf67fb20c016bd9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "23.1"
     },
     "a_hatFrog2": {
       "name": "Blue Frog",
@@ -1108,7 +1108,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/9f1829dc603b9a6e04f21552979d903323ada72e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.4"
     },
     "a_hatFrog3": {
       "name": "Red Frog",

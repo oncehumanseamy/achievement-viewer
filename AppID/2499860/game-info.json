@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.0"
+      "percent": "71.9"
     },
     "ACH_10_MainStory": {
       "name": "Spirit and Image",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.7"
+      "percent": "71.6"
     },
     "ACH_11_MainStory": {
       "name": "Local Legends",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.0"
+      "percent": "60.9"
     },
     "ACH_13_MainStory": {
       "name": "Maid of Honoré",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.1"
+      "percent": "69.0"
     },
     "ACH_15_MainStory": {
       "name": "The Great Levellers",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.3"
+      "percent": "52.2"
     },
     "ACH_18_MainStory": {
       "name": "Whispers on the Wind",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.6"
+      "percent": "59.5"
     },
     "ACH_23_MainStory": {
       "name": "Awakening the Flames",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.2"
+      "percent": "58.1"
     },
     "ACH_24_MainStory": {
       "name": "Awakening the Earth",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/85f84a7440cf6d5f05e72a0b9b3a73b983f4fa1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "64.8"
     },
     "ACH_05_Battle": {
       "name": "Monster Masher",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/6aa9fd577732bdafd007ea58a5674260cd061266.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.1"
     },
     "ACH_08_Battle": {
       "name": "Metal Mangler",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/b6ed4a3a584eaed8f5d91f0e98286555d52496bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.3"
+      "percent": "35.2"
     },
     "ACH_01_MiniGame": {
       "name": "Fledgling Fighter",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/3de04062aefa7822c45198b7fd48a3768732927f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.4"
+      "percent": "60.3"
     },
     "ACH_05_Job": {
       "name": "Master of All",

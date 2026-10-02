@@ -1,7 +1,7 @@
 {
   "appid": "3862670",
   "name": "Shelldiver",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862670/e967f8f5201f55f7b098bf3b9a54c8c8f38012b3/header.jpg?t=1788634820",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3862670/e967f8f5201f55f7b098bf3b9a54c8c8f38012b3/header.jpg?t=1790864377",
   "achievements": {
     "ACH_ALL_SKILLS": {
       "name": "Built to Dive",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/f7bddb988ead44fc03c7cf60d33f362a2ac5a513.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.0"
+      "percent": "71.9"
     },
     "ACH_SHELLS_01": {
       "name": "First 1M",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/79490df38f87d9b175b426ec79c154a11a2094e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.2"
+      "percent": "71.1"
     },
     "ACH_ALL_ACHIEVEMENTS": {
       "name": "Cleared Island",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/c153c3f7d8ace5eda282dccfdb355b5b34a5b34d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.4"
+      "percent": "68.3"
     }
   },
   "platform": null,

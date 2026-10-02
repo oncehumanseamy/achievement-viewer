@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/9f5eb6c4efa79dda63a8c42dfb0f575ccbe2ad76.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "1.1"
+      "percent": "1.2"
     },
     "SUZUNA_CLEAR": {
       "name": "Quiet Days Ahead",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/a0a1b5b97f41533c6db216523d5ef1c6fc7feb0d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "DEFEAT_ONATSU": {
       "name": "Silver Ravens: Onatsu",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/0476093acae8ad3411412a9493ecaab5ad25f6d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "DEFEAT_OKASHIRA": {
       "name": "Chief Amatsu",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/421311b079f4f06a688fe69b2a61ce1ef64cb9af.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "ENCOUNT_GOEMON": {
       "name": "The Legendary Thief",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/b5aa2bb6fe6829a3da07bdb21096bac9dbbb635d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.3"
+      "percent": "29.2"
     },
     "LEARN_STEAL_ALL": {
       "name": "Master of Theft",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/95504d4187a9921d4b56c4732be31ec315e50556.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "GET_TOWEL_8": {
       "name": "Bandana Hunter",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/1e1917bb833e0ebe0bc784241c5e664509067878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.6"
+      "percent": "2.7"
     },
     "NETA_FIRST": {
       "name": "Rookie Thief",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/cc59f0d6fe63781a5c805fc8e1d60a0fb18b1055.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.6"
+      "percent": "33.5"
     },
     "NETA_30": {
       "name": "Veteran Thief",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/c53a360af6d074b99240491ec562530c05c5685e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.7"
+      "percent": "21.8"
     },
     "MOTOJIME_800": {
       "name": "Pay Your Respects",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/cfe990a4ccdddc7ac7fef3f4be4a5da19b66cb31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.2"
+      "percent": "42.1"
     },
     "UNLOCKING_NUSUTTO": {
       "name": "Coppy Hands",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/f5d22b262dabb2f738f73520b5c899235caa2878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.2"
+      "percent": "15.1"
     },
     "UNLOCKING_OODOROBO": {
       "name": "Golden Hands",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/9ac3c633f1f5f9626839ed42a9ee584f205e7551.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.3"
+      "percent": "17.4"
     },
     "GET_DAITANFUTEKI_LICENSE": {
       "name": "Courageous Thief",

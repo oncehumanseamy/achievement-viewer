@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "FirstDeath": {
       "name": "The First of Many",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "12.2"
+      "percent": "12.3"
     },
     "Boss1Eikthyr": {
       "name": "Eikthyr",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "Boss2Elder": {
       "name": "The Elder",
@@ -82,20 +82,20 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/8ac8b88dcd286595b72aa0c28546d74fcbb79516.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.7"
+      "percent": "5.8"
     },
     "Boss3Bonemass": {
       "name": "Bonemass",
-      "description": "",
+      "description": "Defeat the Writhing Dead.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/31b3b3e61e213de6416b931544da4f14f3293323.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/8e46b6e1784e128370410d2bb920acba490bbeb5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.5"
+      "percent": "3.6"
     },
     "Boss4Moder": {
       "name": "Moder",
-      "description": "",
+      "description": "Defeat the Dragon Mother.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/b9e103c6f8a09b2fdb8ab53f706d94bc7ca7e5e3.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/3b29618734b98a22c962b85fd4b81b7743296eb3.jpg",
       "hidden": true,
@@ -104,7 +104,7 @@
     },
     "Boss5Yagluth": {
       "name": "Yagluth",
-      "description": "",
+      "description": "Defeat the Twisted Soul.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/d201109e8ef7c602d5dc936450ea4d44f86f8c07.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/8f746951410b3a2cfeec5e7b2f119dffb59715e9.jpg",
       "hidden": true,
@@ -113,7 +113,7 @@
     },
     "Boss6Queen": {
       "name": "The Seeker Queen",
-      "description": "",
+      "description": "Defeat the Crawling Matriarch.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/0b336642eccde21d742ead58b6eb247d2d68e62e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/1cf07ea6c7fbf6b20b178a2ee5b6332c14a4c2b4.jpg",
       "hidden": true,
@@ -122,7 +122,7 @@
     },
     "Boss7Fader": {
       "name": "Fader",
-      "description": "",
+      "description": "Defeat the Emerald Flame.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/b8181d590f8b3d1da0272970a19d665119ee3973.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/f7e675a9150b884ac85687f6d83eb70fce4ac415.jpg",
       "hidden": true,
@@ -131,7 +131,7 @@
     },
     "Boss8FrozenKing": {
       "name": "Kall Fimbulbringer",
-      "description": "",
+      "description": "Defeat the Shackled One.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/859c585b71eee0129b048b7353af58bb52860332.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/60371fbb4fd8e0b0f7938d6a63717a87c9ecac95.jpg",
       "hidden": true,
@@ -140,7 +140,7 @@
     },
     "DeathByObliterator": {
       "name": "Obliterated",
-      "description": "",
+      "description": "You stood a bit too close.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/4a94d21386836a552646d1335263fb328549f8a6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/8e46b6e1784e128370410d2bb920acba490bbeb5.jpg",
       "hidden": true,
@@ -154,11 +154,11 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "DeathByTreeAll": {
       "name": "That Can't Be an Accident",
-      "description": "",
+      "description": "Get killed by every kind of tree.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/3f2e42c825489bb7f13226e5f3a30a692ac6b511.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/f7e675a9150b884ac85687f6d83eb70fce4ac415.jpg",
       "hidden": true,
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.3"
+      "percent": "1.4"
     },
     "KillAllCreatures": {
       "name": "The Hunter",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.9"
+      "percent": "10.0"
     },
     "BuildVillage": {
       "name": "The Architect",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.5"
+      "percent": "1.6"
     },
     "GrindComfort": {
       "name": "Comfort is King",
@@ -302,7 +302,7 @@
     },
     "SailEdge": {
       "name": "The Legends Are True",
-      "description": "",
+      "description": "Sail over the edge of the world.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/f451691aca010fff0ca5f60d01438793f2e0e085.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": true,
@@ -311,7 +311,7 @@
     },
     "GrindTreasure": {
       "name": "The Treasure Hunter",
-      "description": "",
+      "description": "Discover 10 buried treasure chests.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/ba35ab17366761e2a2a5e3d79474b6ca2d3ee53b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/8ac8b88dcd286595b72aa0c28546d74fcbb79516.jpg",
       "hidden": true,
@@ -320,7 +320,7 @@
     },
     "GrindLeviathan": {
       "name": "No Time For Snoozing",
-      "description": "",
+      "description": "Awaken a sea creature.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/00eda85c2ba32ffb3cf455b8c107144d4ee8c591.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/8ac8b88dcd286595b72aa0c28546d74fcbb79516.jpg",
       "hidden": true,
@@ -356,7 +356,7 @@
     },
     "BuildDyrnwyn": {
       "name": "The Chosen One",
-      "description": "",
+      "description": "Assemble Dyrnwyn.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/2a1286c658aa8bb8f34c0c2f1f4e30a4688ad496.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/f7e675a9150b884ac85687f6d83eb70fce4ac415.jpg",
       "hidden": true,
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "SoloBoss": {
       "name": "Lone Wolf",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "GrindSail": {
       "name": "The Sailor",
