@@ -1,0 +1,317 @@
+[
+  {
+    "apiname": "YAZAWA_PLATINUM",
+    "achieved": 1,
+    "unlocktime": 1685031124
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_1",
+    "achieved": 1,
+    "unlocktime": 1681902327
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_2",
+    "achieved": 1,
+    "unlocktime": 1682036157
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_3",
+    "achieved": 1,
+    "unlocktime": 1682353586
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_4",
+    "achieved": 1,
+    "unlocktime": 1682694297
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_5",
+    "achieved": 1,
+    "unlocktime": 1683642924
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_6",
+    "achieved": 1,
+    "unlocktime": 1683646737
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_7",
+    "achieved": 1,
+    "unlocktime": 1683816297
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_8",
+    "achieved": 1,
+    "unlocktime": 1683817823
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_9",
+    "achieved": 1,
+    "unlocktime": 1684156855
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_10",
+    "achieved": 1,
+    "unlocktime": 1684220238
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_11",
+    "achieved": 1,
+    "unlocktime": 1684331656
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_12",
+    "achieved": 1,
+    "unlocktime": 1684666861
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_13",
+    "achieved": 1,
+    "unlocktime": 1684683958
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_14",
+    "achieved": 1,
+    "unlocktime": 1684752874
+  },
+  {
+    "apiname": "YAZAWA_MAIN_STORY_CLEAR",
+    "achieved": 1,
+    "unlocktime": 1684943393
+  },
+  {
+    "apiname": "YAZAWA_SUBSTORY_A",
+    "achieved": 1,
+    "unlocktime": 1682694297
+  },
+  {
+    "apiname": "YAZAWA_SUBSTORY_B",
+    "achieved": 1,
+    "unlocktime": 1683729880
+  },
+  {
+    "apiname": "YAZAWA_SUBSTORY_C",
+    "achieved": 1,
+    "unlocktime": 1684163852
+  },
+  {
+    "apiname": "YAZAWA_KIZUNA_NANBA",
+    "achieved": 1,
+    "unlocktime": 1684175593
+  },
+  {
+    "apiname": "YAZAWA_KIZUNA_ADACHI",
+    "achieved": 1,
+    "unlocktime": 1683198483
+  },
+  {
+    "apiname": "YAZAWA_KIZUNA_SAEKO",
+    "achieved": 1,
+    "unlocktime": 1683343679
+  },
+  {
+    "apiname": "YAZAWA_KIZUNA_HAN",
+    "achieved": 1,
+    "unlocktime": 1684174791
+  },
+  {
+    "apiname": "YAZAWA_KIZUNA_CHO",
+    "achieved": 1,
+    "unlocktime": 1684242215
+  },
+  {
+    "apiname": "YAZAWA_KIZUNA_ERI",
+    "achieved": 1,
+    "unlocktime": 1683566933
+  },
+  {
+    "apiname": "YAZAWA_PARTY_TALK_A",
+    "achieved": 1,
+    "unlocktime": 1684947785
+  },
+  {
+    "apiname": "YAZAWA_PART_TIME_RANK_A",
+    "achieved": 1,
+    "unlocktime": 1683028188
+  },
+  {
+    "apiname": "YAZAWA_PART_TIME_RANK_B",
+    "achieved": 1,
+    "unlocktime": 1684339785
+  },
+  {
+    "apiname": "YAZAWA_KASUGA_LEVEL_A",
+    "achieved": 1,
+    "unlocktime": 1682183350
+  },
+  {
+    "apiname": "YAZAWA_KASUGA_LEVEL_B",
+    "achieved": 1,
+    "unlocktime": 1683642830
+  },
+  {
+    "apiname": "YAZAWA_KASUGA_LEVEL_C",
+    "achieved": 1,
+    "unlocktime": 1684166651
+  },
+  {
+    "apiname": "YAZAWA_KASUGA_LEVEL_D",
+    "achieved": 1,
+    "unlocktime": 1684174752
+  },
+  {
+    "apiname": "YAZAWA_KASUGA_NINGENRYOKU_MAX",
+    "achieved": 1,
+    "unlocktime": 1682184936
+  },
+  {
+    "apiname": "YAZAWA_KASUGA_NINGENRYOKU_ALL_MAX",
+    "achieved": 1,
+    "unlocktime": 1682868548
+  },
+  {
+    "apiname": "YAZAWA_JOB_CHANGE_A",
+    "achieved": 1,
+    "unlocktime": 1683812660
+  },
+  {
+    "apiname": "YAZAWA_JOB_CHANGE_B",
+    "achieved": 1,
+    "unlocktime": 1684666861
+  },
+  {
+    "apiname": "YAZAWA_JOB_CHANGE_C",
+    "achieved": 1,
+    "unlocktime": 1684168248
+  },
+  {
+    "apiname": "YAZAWA_JOB_MASTER_A",
+    "achieved": 1,
+    "unlocktime": 1684166964
+  },
+  {
+    "apiname": "YAZAWA_JOB_MASTER_B",
+    "achieved": 1,
+    "unlocktime": 1684166965
+  },
+  {
+    "apiname": "YAZAWA_JOB_MASTER_C",
+    "achieved": 1,
+    "unlocktime": 1684171759
+  },
+  {
+    "apiname": "YAZAWA_BUKI_C",
+    "achieved": 1,
+    "unlocktime": 1682751626
+  },
+  {
+    "apiname": "YAZAWA_BUKI_ROMAN_SEISAKUJO",
+    "achieved": 1,
+    "unlocktime": 1683641970
+  },
+  {
+    "apiname": "YAZAWA_BUKI_COLLECTOR_A",
+    "achieved": 1,
+    "unlocktime": 1683028188
+  },
+  {
+    "apiname": "YAZAWA_BUKI_COLLECTOR_B",
+    "achieved": 1,
+    "unlocktime": 1683562410
+  },
+  {
+    "apiname": "YAZAWA_SUJIMON_A",
+    "achieved": 1,
+    "unlocktime": 1683198483
+  },
+  {
+    "apiname": "YAZAWA_SUJIMON_B",
+    "achieved": 1,
+    "unlocktime": 1684415590
+  },
+  {
+    "apiname": "YAZAWA_DELIHELP_A",
+    "achieved": 1,
+    "unlocktime": 1683818594
+  },
+  {
+    "apiname": "YAZAWA_DUNGEON_ALL_CLEAR",
+    "achieved": 1,
+    "unlocktime": 1684415590
+  },
+  {
+    "apiname": "YAZAWA_DUNGEON_FINAL_MILLENNIUM",
+    "achieved": 1,
+    "unlocktime": 1685021368
+  },
+  {
+    "apiname": "YAZAWA_JUNTAKUNA_SHIKIN",
+    "achieved": 1,
+    "unlocktime": 1683641172
+  },
+  {
+    "apiname": "YAZAWA_OWN_BUILDING",
+    "achieved": 1,
+    "unlocktime": 1683557621
+  },
+  {
+    "apiname": "YAZAWA_MANAGEMENT_STORY_ALL_CLEAR",
+    "achieved": 1,
+    "unlocktime": 1683566928
+  },
+  {
+    "apiname": "YAZAWA_M_AND_A",
+    "achieved": 1,
+    "unlocktime": 1683521901
+  },
+  {
+    "apiname": "YAZAWA_PLAY_ALL_SPOT",
+    "achieved": 1,
+    "unlocktime": 1684946568
+  },
+  {
+    "apiname": "YAZAWA_QUALIFICATION_A",
+    "achieved": 1,
+    "unlocktime": 1683732457
+  },
+  {
+    "apiname": "YAZAWA_DRAGON_CART_ALL_CLAER",
+    "achieved": 1,
+    "unlocktime": 1684944982
+  },
+  {
+    "apiname": "YAZAWA_HOMELESS_ALL_CLAER",
+    "achieved": 1,
+    "unlocktime": 1682184226
+  },
+  {
+    "apiname": "YAZAWA_MEIGAZA_ALL_CLEAR",
+    "achieved": 1,
+    "unlocktime": 1684925919
+  },
+  {
+    "apiname": "YAZAWA_SPRING_NA_HOUGEKI",
+    "achieved": 1,
+    "unlocktime": 1683642215
+  },
+  {
+    "apiname": "YAZAWA_NIGINIGI_COMPLETE",
+    "achieved": 1,
+    "unlocktime": 1684925919
+  },
+  {
+    "apiname": "YAZAWA_UNKNOWN_A",
+    "achieved": 1,
+    "unlocktime": 1682694297
+  },
+  {
+    "apiname": "YAZAWA_UNKNOWN_B",
+    "achieved": 1,
+    "unlocktime": 1683644989
+  },
+  {
+    "apiname": "YAZAWA_EX_DENSETSU_HA_KURIKESU",
+    "achieved": 1,
+    "unlocktime": 1685031124
+  }
+]

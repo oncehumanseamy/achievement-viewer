@@ -1,0 +1,82 @@
+[
+  {
+    "apiname": "GIRLA_LEWD_LV5",
+    "achieved": 1,
+    "unlocktime": 1679832519
+  },
+  {
+    "apiname": "GIRLB_LEWD_LV5",
+    "achieved": 1,
+    "unlocktime": 1679836387
+  },
+  {
+    "apiname": "GIRLC_LEWD_LV5",
+    "achieved": 1,
+    "unlocktime": 1679836245
+  },
+  {
+    "apiname": "GIRLA_FALLEN",
+    "achieved": 1,
+    "unlocktime": 1679838575
+  },
+  {
+    "apiname": "GIRLB_FALLEN",
+    "achieved": 1,
+    "unlocktime": 1679836682
+  },
+  {
+    "apiname": "GIRLC_FALLEN",
+    "achieved": 1,
+    "unlocktime": 1679838776
+  },
+  {
+    "apiname": "SNS_UNLOCKED",
+    "achieved": 1,
+    "unlocktime": 1679831685
+  },
+  {
+    "apiname": "CAMERA_SET",
+    "achieved": 1,
+    "unlocktime": 1679832723
+  },
+  {
+    "apiname": "STAND_GET",
+    "achieved": 1,
+    "unlocktime": 1679835173
+  },
+  {
+    "apiname": "STORE_BUY_ALL",
+    "achieved": 1,
+    "unlocktime": 1679833536
+  },
+  {
+    "apiname": "SECRET_STORE_BUY_ALL",
+    "achieved": 1,
+    "unlocktime": 1679837470
+  },
+  {
+    "apiname": "WOMAN_ENCOUNTER",
+    "achieved": 1,
+    "unlocktime": 1679581593
+  },
+  {
+    "apiname": "NO_HORNY",
+    "achieved": 1,
+    "unlocktime": 1679834428
+  },
+  {
+    "apiname": "GET_OUT_BAR",
+    "achieved": 1,
+    "unlocktime": 1679581937
+  },
+  {
+    "apiname": "DRINK_WINE_10",
+    "achieved": 1,
+    "unlocktime": 1679838332
+  },
+  {
+    "apiname": "GAME_OVER",
+    "achieved": 1,
+    "unlocktime": 1679581003
+  }
+]

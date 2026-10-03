@@ -1,0 +1,442 @@
+[
+  {
+    "apiname": "ZOMBIE_KILLER_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651841468
+  },
+  {
+    "apiname": "ZOMBIE_BUTCHER_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651847858
+  },
+  {
+    "apiname": "ZOMBIE_SLAYER_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651938259
+  },
+  {
+    "apiname": "MASTER_OF_MASSACRE_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652287383
+  },
+  {
+    "apiname": "GENIUS_OF_ZOMBIE_SLAYING_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652449453
+  },
+  {
+    "apiname": "LEFT_100004_DEAD_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652496661
+  },
+  {
+    "apiname": "CHAPTER_0_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651848985
+  },
+  {
+    "apiname": "CHAPTER_1_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651850171
+  },
+  {
+    "apiname": "CHAPTER_2_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651856323
+  },
+  {
+    "apiname": "CHAPTER_3_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651943663
+  },
+  {
+    "apiname": "CHAPTER_4_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651995130
+  },
+  {
+    "apiname": "CHAPTER_5_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652024098
+  },
+  {
+    "apiname": "CHAPTER_6_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652027251
+  },
+  {
+    "apiname": "CHAPTER_THE_FACTS_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652110900
+  },
+  {
+    "apiname": "CHAPTER_OVERTIME_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652112579
+  },
+  {
+    "apiname": "LUSTY_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "GREEDY_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651922466
+  },
+  {
+    "apiname": "SLOTHFUL_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652001135
+  },
+  {
+    "apiname": "PRIDEFUL_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651997775
+  },
+  {
+    "apiname": "GLUTTONOUS_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651943288
+  },
+  {
+    "apiname": "WRATHFUL_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651847858
+  },
+  {
+    "apiname": "ENVIOUS_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652109399
+  },
+  {
+    "apiname": "LEVEL_5_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651843343
+  },
+  {
+    "apiname": "LEVEL_25_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651899873
+  },
+  {
+    "apiname": "LEVEL_50_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652023347
+  },
+  {
+    "apiname": "BLUEPRINT_5_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651842981
+  },
+  {
+    "apiname": "BLUEPRINT_25_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651850771
+  },
+  {
+    "apiname": "BLUEPRINT_50_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651900999
+  },
+  {
+    "apiname": "BLUEPRINT_100_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652027251
+  },
+  {
+    "apiname": "MAX_SINGLE_ATTRIBUTE_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652023498
+  },
+  {
+    "apiname": "FULL_POSSE_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652457399
+  },
+  {
+    "apiname": "JOIN_COOP_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652274926
+  },
+  {
+    "apiname": "COMBO_WEAPONS_50_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651853847
+  },
+  {
+    "apiname": "ALL_COMBO_WEAPONS_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652190511
+  },
+  {
+    "apiname": "COMBO_VEHICLES_5_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651917812
+  },
+  {
+    "apiname": "ALL_COMBO_VEHICLES_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652194334
+  },
+  {
+    "apiname": "ATTRIBUTES_1_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651841613
+  },
+  {
+    "apiname": "ATTRIBUTES_10_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651847858
+  },
+  {
+    "apiname": "COMPLETE_NM_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652522895
+  },
+  {
+    "apiname": "PPTRIALS_10_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651901074
+  },
+  {
+    "apiname": "PPTRIALS_25_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652022597
+  },
+  {
+    "apiname": "ALL_PPTRIALS_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1653061151
+  },
+  {
+    "apiname": "BRONZE_CHALLENGES_25_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652453430
+  },
+  {
+    "apiname": "SILVER_CHALLENGES_25_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652453430
+  },
+  {
+    "apiname": "GOLD_CHALLENGES_25_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652453430
+  },
+  {
+    "apiname": "SIDE_MISSIONS_20_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651997007
+  },
+  {
+    "apiname": "STRANDED_SURVIVORS_1_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651841613
+  },
+  {
+    "apiname": "STRANDED_SURVIVORS_15_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651920664
+  },
+  {
+    "apiname": "SURVIVORS_TO_BOARD_5_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651938934
+  },
+  {
+    "apiname": "WEAPONS_TO_LOCKER_250_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652190581
+  },
+  {
+    "apiname": "VEHICLES_TO_LOCKER_20_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651943438
+  },
+  {
+    "apiname": "CLOTHING_TO_LOCKER_100_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1651921115
+  },
+  {
+    "apiname": "EP1_EYES_IN_THE_SKY_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652684944
+  },
+  {
+    "apiname": "EP1_COUNTER_TERRORIST_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652684794
+  },
+  {
+    "apiname": "EP1_LIVE_TO_FIGHT_AGAIN_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652684644
+  },
+  {
+    "apiname": "EP1_REST_IN_PEACE_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652686520
+  },
+  {
+    "apiname": "EP1_COVERING_THE_TRACES_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652679840
+  },
+  {
+    "apiname": "EP1_CLEANING_HOUSE_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652680290
+  },
+  {
+    "apiname": "EP1_DELIVERY_MAN_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652681491
+  },
+  {
+    "apiname": "EP1_EAGLE_HAS_LANDED_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652686295
+  },
+  {
+    "apiname": "EP1_DUTY_OR_DEATH_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652687371
+  },
+  {
+    "apiname": "EP2_NO_PEEKING_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652714133
+  },
+  {
+    "apiname": "EP2_BURN_BABY_BURN_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652714058
+  },
+  {
+    "apiname": "EP2_GUARDIAN_ANGEL_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652715409
+  },
+  {
+    "apiname": "EP2_MED_TECH_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652714433
+  },
+  {
+    "apiname": "EP2_TALK_IT_OUT_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652692775
+  },
+  {
+    "apiname": "EP2_HALL_MONITOR_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652712106
+  },
+  {
+    "apiname": "EP2_WELL_STOCKED_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652714593
+  },
+  {
+    "apiname": "EP2_SHAKEDOWN_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652715634
+  },
+  {
+    "apiname": "EP2_ANGEL_GETS_HER_WINGS_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652715934
+  },
+  {
+    "apiname": "EP3_STICK_IT_TO_THE_MAN_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652803715
+  },
+  {
+    "apiname": "EP3_THE_FINER_THINGS_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652884586
+  },
+  {
+    "apiname": "EP3_ADD_TO_THE_COLLECTION_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652802064
+  },
+  {
+    "apiname": "EP3_FLY_THE_COOP_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652716739
+  },
+  {
+    "apiname": "EP3_THROWING_DOWN_THE_GAUNTLET_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652718466
+  },
+  {
+    "apiname": "EP3_BUILDERS_APPRENTICE_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652883386
+  },
+  {
+    "apiname": "EP3_HUNTER_AND_THE_HUNTED_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652884061
+  },
+  {
+    "apiname": "EP3_HAWG_HEAVEN_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652884586
+  },
+  {
+    "apiname": "EP3_FIT_TO_LEAD_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652884737
+  },
+  {
+    "apiname": "EP4_BAG_OF_CHIPS_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652888786
+  },
+  {
+    "apiname": "EP4_BOOTLEG_OPERATOR_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652982317
+  },
+  {
+    "apiname": "EP4_SWORN_TO_PROTECT_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652889611
+  },
+  {
+    "apiname": "EP4_ASHES_TO_ASHES_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652982877
+  },
+  {
+    "apiname": "EP4_OUT_WITH_THE_BAD_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652889161
+  },
+  {
+    "apiname": "EP4_HACKING_THE_HACKER_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652890345
+  },
+  {
+    "apiname": "EP4_SOURCED_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652983852
+  },
+  {
+    "apiname": "EP4_KANES_LAST_WORDS_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652984452
+  },
+  {
+    "apiname": "EP4_AGENT_OF_JUSTICE_ACHIEVEMENT",
+    "achieved": 1,
+    "unlocktime": 1652985203
+  }
+]
