@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1817190/d3542324d05186ecaa2401180a4de64ff163b772.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.4"
+      "percent": "48.3"
     },
     "dodginglight": {
       "name": "Dodging Light",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1817190/f773344dea523071a64870816eadfa22278f3f7f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "44.8"
+      "percent": "44.7"
     },
     "spidertraining:complete": {
       "name": "Spider-Training: Complete",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1817190/40d8613028b78759e629fd40ea6ef6efba95dfe8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "invisiblespider": {
       "name": "Invisible Spider",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1817190/5e8c1c142329f9385f500380d863d596bde094b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.9"
+      "percent": "41.8"
     },
     "likearhinoinachinashop": {
       "name": "Like a Rhino in a China Shop",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1817190/cd99c545197ec17d5136863335f88ccaf9d439b4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.9"
+      "percent": "36.8"
     },
     "modthatsuit": {
       "name": "Mod that Suit",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1817190/2d06ba12a4caff0a3ce83d4b05c6dc0290d718a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.1"
     },
     "agiftfrompete": {
       "name": "A Gift From Pete",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1817190/476896835a50f02b70adc23631e4d0e7485590b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "nowheretohide": {
       "name": "Nowhere to Hide",
