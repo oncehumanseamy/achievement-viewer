@@ -41,23 +41,23 @@
   },
   {
     "apiname": "AC09",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1790956897
   },
   {
     "apiname": "AC10",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1790957523
   },
   {
     "apiname": "AC11",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1790960870
   },
   {
     "apiname": "AC12",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1790957604
   },
   {
     "apiname": "AC13",
@@ -66,18 +66,18 @@
   },
   {
     "apiname": "AC14",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1790956525
   },
   {
     "apiname": "AC15",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1790960504
   },
   {
     "apiname": "AC16",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1790956525
   },
   {
     "apiname": "AC17",
@@ -86,8 +86,8 @@
   },
   {
     "apiname": "AC18",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1790960505
   },
   {
     "apiname": "AC19",
@@ -96,13 +96,13 @@
   },
   {
     "apiname": "AC20",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1790958557
   },
   {
     "apiname": "AC21",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1790956924
   },
   {
     "apiname": "AC22",
@@ -196,8 +196,8 @@
   },
   {
     "apiname": "AC40",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1790944274
   },
   {
     "apiname": "AC41",
@@ -206,22 +206,22 @@
   },
   {
     "apiname": "AC42",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1791018543
   },
   {
     "apiname": "AC43",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1790957512
   },
   {
     "apiname": "AC44",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1791015953
   },
   {
     "apiname": "AC46",
-    "achieved": 0,
-    "unlocktime": 0
+    "achieved": 1,
+    "unlocktime": 1790962811
   }
 ]
