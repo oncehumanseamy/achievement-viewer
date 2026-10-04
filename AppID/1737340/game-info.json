@@ -1,0 +1,1126 @@
+{
+  "appid": "1737340",
+  "name": "Noobs Want to Live",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1737340/header.jpg?t=1737527172",
+  "achievements": {
+    "ACH1": {
+      "name": "Entering Peachville",
+      "description": "Clear Difficulty I 1 time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/9f066edbf73424b1f82d923f90f72c4da39416a9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/2d63273102b0ba9ccd396fa074863b67c4c68ce9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.3"
+    },
+    "ACH2": {
+      "name": "Exploring Peachville",
+      "description": "Clear Difficulty II 1 time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f9de09cb4be8d4b1b07aa02ec06a51ea795503ea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/7ca17a2b6564d70c418a7b5b3a1046bd21c5a4ee.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.5"
+    },
+    "ACH3": {
+      "name": "Roaming Peachville",
+      "description": "Clear Difficulty III 1 time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/745d88fa09d6e3547793c87634fce005d56d0022.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/de3be137b324437559bfab600e3e7c5625005902.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.8"
+    },
+    "ACH4": {
+      "name": "Peachville Maestro",
+      "description": "Clear the Ancient Fields 1 time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/52a7e8accf11aace6d95077a04566ffb064843b0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/faf9b818575e3c4cf27ffbf6a7b27dc054db3202.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.5"
+    },
+    "ACH5": {
+      "name": "Silverring Exterminator 1",
+      "description": "Silverrings to exterminate: 50",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/994856627f911f7df4c9f01b01e41618e64cd368.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/1a83a6c0bd16fa3492a47ccbbd5af2cbc19687d3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "93.8"
+    },
+    "ACH6": {
+      "name": "Silverring Exterminator 2",
+      "description": "Silverrings to exterminate: 200",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/a6fe64d0416b61c4904c1737e8e14ca91cc9bb63.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/493f7d0cd60ea3a204f773e29d1dcd87704419a7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.8"
+    },
+    "ACH7": {
+      "name": "Silverring Exterminator 3",
+      "description": "Silverrings to exterminate: 500",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e6adf6159e08a281ac29f2a52fc80774fcf5aa95.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/493f7d0cd60ea3a204f773e29d1dcd87704419a7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "83.0"
+    },
+    "ACH8": {
+      "name": "Silverring Exterminator 4",
+      "description": "Silverrings to exterminate: 1000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/9502ef50b5f899fb064038f5e88b3da1dfcfab52.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/fc593e525ca384f00ac4dde52e7ed72853865a79.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.4"
+    },
+    "ACH9": {
+      "name": "Silverring Exterminator 5",
+      "description": "Silverrings to exterminate: 3000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f9f72c99ea48cbf7fc84d991e7254b0be94e2a2c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/493f7d0cd60ea3a204f773e29d1dcd87704419a7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.3"
+    },
+    "ACH10": {
+      "name": "Purring Exterminator 1",
+      "description": "Purrings to exterminate: 500",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/77b4456ee132583070871166dd083659fb39e9c3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/ed9d8eb98fc4a890676b4efa1a7cfc28998c0655.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "87.2"
+    },
+    "ACH11": {
+      "name": "Purring Exterminator 2",
+      "description": "Purrings to exterminate: 1000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/31692198d340e9abf9ca740ded3ca37dae4a43f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/68360393768441d96256c8d6d4fbf972ace5c0c4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.5"
+    },
+    "ACH12": {
+      "name": "Purring Exterminator 3",
+      "description": "Purrings to exterminate: 3000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/5cf71e0d60c8b57b73d62506434f55578679d1a9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/68360393768441d96256c8d6d4fbf972ace5c0c4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.0"
+    },
+    "ACH13": {
+      "name": "Purring Exterminator 4",
+      "description": "Purrings to exterminate: 5000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/dbad069719e11ac20be5fea8c4dce6d6155edf01.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/7158ea641111f6b0790112db0134e051d755d82e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.1"
+    },
+    "ACH14": {
+      "name": "Purring Exterminator 5",
+      "description": "Purrings to exterminate: 10000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/69b7eaf403a628786c7901acf4eb5e90cef8f314.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/68360393768441d96256c8d6d4fbf972ace5c0c4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.4"
+    },
+    "ACH15": {
+      "name": "Rocky Exterminator 1",
+      "description": "Rockies to exterminate: 100",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/376f451ac98c1c12d4954cc300c3415378f30cf3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/957786cae672864d1d6d66c41917a2110e81bdcd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.1"
+    },
+    "ACH16": {
+      "name": "Rocky Exterminator 2",
+      "description": "Rockies to exterminate: 200",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/4761fdfffc844159eaca136ea3879e1b60f1ee50.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/532a8c8e38772e1b37693319c60b64bc8db5dadd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.7"
+    },
+    "ACH17": {
+      "name": "Rocky Exterminator 3",
+      "description": "Rockies to exterminate: 1000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/c13a60159a2f0b3a4e934fd19f1dda62197db369.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/532a8c8e38772e1b37693319c60b64bc8db5dadd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.9"
+    },
+    "ACH18": {
+      "name": "Rocky Exterminator 4",
+      "description": "Rockies to exterminate: 3000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/09b4ebda6eb1c3cf53b1c10d1bbd234f369e76c7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e76e0b3febe343be6e186c646641a76e577b5235.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.9"
+    },
+    "ACH19": {
+      "name": "Rocky Exterminator 5",
+      "description": "Rockies to exterminate: 5000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/abfb63fc5c4f5ca49b70105167496324b3782f05.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/532a8c8e38772e1b37693319c60b64bc8db5dadd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.7"
+    },
+    "ACH20": {
+      "name": "Angerring/Devirring Exterminator 1",
+      "description": "Angerrings/Devirrings to exterminate: 200",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/864445cc81ba9e7c7f67a2484bd260a5c0348093.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/785b231faa4b79c1e4723d4bd1c902a88747d25f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.1"
+    },
+    "ACH21": {
+      "name": "Angerring/Devirring Exterminator 2",
+      "description": "Angerrings/Devirrings to exterminate: 500 ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/0f84c274629e5dd9124b514f268e72507c294434.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/805d5cc9e540f725c3a748aa39e86d6356b7faca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.5"
+    },
+    "ACH22": {
+      "name": "Angerring/Devirring Exterminator 3",
+      "description": "Angerrings/Devirrings to exterminate: 1000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/cd24e9be4982da1941d42536a93b7dd9ce5f09da.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/805d5cc9e540f725c3a748aa39e86d6356b7faca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.7"
+    },
+    "ACH23": {
+      "name": "Angerring/Devirring Exterminator 4",
+      "description": "Angerrings/Devirrings to exterminate: 3000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/3dfec0b1a08043dc5d9b4aaeebf95de34b8c4eab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/805d5cc9e540f725c3a748aa39e86d6356b7faca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.3"
+    },
+    "ACH24": {
+      "name": "Angerring/Devirring Exterminator 5",
+      "description": "Angerrings/Devirrings to exterminate: 10000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/bdd8aae917761bd1a1189ee12f9e34fd0bc8aeed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/805d5cc9e540f725c3a748aa39e86d6356b7faca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.1"
+    },
+    "ACH25": {
+      "name": "Purrurring Exterminator 1",
+      "description": "Purrurrings to exterminate: 200",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/59dcb16b6f575514a082a801cc156710e018a231.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/7efba4966d909b0cddd63fc19fe10cb399bfc711.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.1"
+    },
+    "ACH26": {
+      "name": "Purrurring Exterminator 2",
+      "description": "Purrurrings to exterminate: 500",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/8d7821d08aac659c9b92ae1c89056486a4b75890.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f47c23ba8a85d39b1ab03146836353b85a95dea0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.3"
+    },
+    "ACH27": {
+      "name": "Purrurring Exterminator 3",
+      "description": "Purrurrings to exterminate: 1000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f419e7e1f29e8bc45923f94e2f86d4d9a3dd298b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f47c23ba8a85d39b1ab03146836353b85a95dea0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.4"
+    },
+    "ACH28": {
+      "name": "Purrurring Exterminator 4",
+      "description": "Purrurrings to exterminate: 3000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/24b85a1987877d38cabf56b3a020b6de18c97ae4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/4c12f50bc07690ed419e2bdc719ab3406049af39.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.3"
+    },
+    "ACH29": {
+      "name": "Purrurring Exterminator 5",
+      "description": "Purrurrings to exterminate: 10000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/7260bba8f49158810e150620e808fb0c7ef91bec.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f47c23ba8a85d39b1ab03146836353b85a95dea0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.4"
+    },
+    "ACH30": {
+      "name": "Purrate Exterminator 1",
+      "description": "Purrates to exterminate: 20",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/536a2a393f4c40babae4476a9d72f243c7e8c18d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/39135bcc4979aff5f6f01d92640dc1b336c293fe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.8"
+    },
+    "ACH31": {
+      "name": "Purrate Exterminator 2",
+      "description": "Purrates to exterminate: 50",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/8b7d81041b0f961c081cff40852307e87f0fe8cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/20816c231ecc8f52bcb045eb9c16d568e680aeb8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.6"
+    },
+    "ACH32": {
+      "name": "Purrate Exterminator 3",
+      "description": "Purrates to exterminate: 100",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/6755eef8f6c7aad1baae94cee8c965f95c0a6d47.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/20816c231ecc8f52bcb045eb9c16d568e680aeb8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.4"
+    },
+    "ACH33": {
+      "name": "Purrate Exterminator 4",
+      "description": "Purrates to exterminate: 500",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/a3e9acfd9ed278ef12a0bb8f976b3b6459b51cff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/5cb7de669d765d5d19feace1e4b0d6477526c4ae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.2"
+    },
+    "ACH34": {
+      "name": "Purrate Exterminator 5",
+      "description": "Purrates to exterminate: 2000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/38a3355da090b1fc04e6d0367ef144fdc229440a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/20816c231ecc8f52bcb045eb9c16d568e680aeb8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.4"
+    },
+    "ACH35": {
+      "name": "Toxicat Exterminator 1",
+      "description": "Toxicats to exterminate: 200",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/bf56cd5e459e0b19113d02d42ef90c562386a226.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/938a9e5c97ac46664d9dcc60f2cd3d6e28446242.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.6"
+    },
+    "ACH36": {
+      "name": "Toxicat Exterminator 2",
+      "description": "Toxicats to exterminate: 500",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/cae6989c39985518cdfc078599f98fd3d1fc2654.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/c2a5f230df56fd25ea56b51be70b7f55d4190b4c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.9"
+    },
+    "ACH37": {
+      "name": "Toxicat Exterminator 3",
+      "description": "Toxicats to exterminate: 1000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/a5a3696efe0abb629a5a3779ecbda879c849cd7d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/c2a5f230df56fd25ea56b51be70b7f55d4190b4c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.2"
+    },
+    "ACH38": {
+      "name": "Toxicat Exterminator 4",
+      "description": "Toxicats to exterminate: 3000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/8b99e2af2f94834e270edde59a804727bc282431.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/15c9f137900ca034b03ed5df6c52622cdacc59f7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.3"
+    },
+    "ACH39": {
+      "name": "Toxicat Exterminator 5",
+      "description": "Toxicats to exterminate: 10000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/52e90135878ee4da9698c92461e533c2544bb7c4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/c2a5f230df56fd25ea56b51be70b7f55d4190b4c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.4"
+    },
+    "ACH40": {
+      "name": "Nappy Tomcat Exterminator 1",
+      "description": "Nappy Tomcats to exterminate: 200",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/79941e1c2ca4b4bfd449d2373f8c20211ba7c592.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/ab073ff6146b002c668fe0e5a979515b066f1f74.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.3"
+    },
+    "ACH41": {
+      "name": "Nappy Tomcat Exterminator 2",
+      "description": "Nappy Tomcats to exterminate: 500",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/41cb53664b6e6a9b231e5516275878d75c6938e7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/d72d39ebad91f7c1a1a95c39e8724ff651094663.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.5"
+    },
+    "ACH42": {
+      "name": "Nappy Tomcat Exterminator 3",
+      "description": "Nappy Tomcats to exterminate: 1000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/db59cebc8d9314295a8bcef3f6e2ec92ebb8bfdd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/d72d39ebad91f7c1a1a95c39e8724ff651094663.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.2"
+    },
+    "ACH43": {
+      "name": "Nappy Tomcat Exterminator 4",
+      "description": "Nappy Tomcats to exterminate: 3000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/47bb77fc9668e01c81b7b5736c08352d5e5a8f52.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/2a87b92e3961d105286033089fadebc093d208cc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.1"
+    },
+    "ACH44": {
+      "name": "Nappy Tomcat Exterminator 5",
+      "description": "Nappy Tomcats to exterminate: 10000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f38d597b71f3a9a8a033fcc07a29d258fe61e802.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/d72d39ebad91f7c1a1a95c39e8724ff651094663.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.7"
+    },
+    "ACH45": {
+      "name": "Devil Rocky Exterminator 1",
+      "description": "Devil Rockies to exterminate: 1000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/d83197e453928f77f6d94e455a09b6c96e0683d5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/d4379187fd727287efae19bcb0fc847985955258.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.0"
+    },
+    "ACH46": {
+      "name": "Devil Rocky Exterminator 2",
+      "description": "Devil Rockies to exterminate: 3000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/387de92185aff9af30fd4f076bdc948b44078a79.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/6770df8591ebed42f6d1a224cd45338830830ed3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.7"
+    },
+    "ACH47": {
+      "name": "Devil Rocky Exterminator 3",
+      "description": "Devil Rockies to exterminate: 8000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/b7b64dabd99db817be8aaf51ef36ceb52b4ed82b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/6770df8591ebed42f6d1a224cd45338830830ed3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "40.7"
+    },
+    "ACH48": {
+      "name": "Devil Rocky Exterminator 4",
+      "description": "Devil Rockies to exterminate: 20000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/df167c9f523c18c889a4d340ca6dec5e4bfb9ce1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/d994e547771e338a08b4dc686a7bc464b1674c54.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "ACH49": {
+      "name": "Mammon Exterminator 1",
+      "description": "Mammons to exterminate: 10",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/48860e2dbae5a8230cf109edd3576524eec69cc4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/dc35d3f3db5740a6788f4f052f04359c76c7e4a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.1"
+    },
+    "ACH50": {
+      "name": "Mammon Exterminator 2",
+      "description": "Mammons to exterminate: 30",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/fa6c8d73a7c9cd91548a807b942b45680dc295ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/010bb08604e0b53b7cf074a23131775736d83291.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.8"
+    },
+    "ACH51": {
+      "name": "Mammon Exterminator 3",
+      "description": "Mammons to exterminate: 50",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/7db6b777622aa3547f52188eb31d827aafcdf99c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/010bb08604e0b53b7cf074a23131775736d83291.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.1"
+    },
+    "ACH52": {
+      "name": "Mammon Exterminator 4",
+      "description": "Mammons to exterminate: 100",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e11703e859b94be642f0355ed7ce407ddda4a18d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/8a7bf286c0221fa56870c354b6a3e36d5f8f0b41.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.2"
+    },
+    "ACH53": {
+      "name": "Bombermeow Exterminator 1",
+      "description": "Bombermeows to exterminate: 20",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/5696e8c2a2219bbf3e768ea669d94e085b56c3a6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/c74ae1af211645e6eff6d5381982d122057a68d1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.1"
+    },
+    "ACH54": {
+      "name": "Bombermeow Exterminator 2",
+      "description": "Bombermeows to exterminate: 50",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/4e7c75a0c820733c2f8bf50990584b2408c187f1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/dac47f4200cc1b65cedc1af97b8946b71af9f158.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.0"
+    },
+    "ACH55": {
+      "name": "Bombermeow Exterminator 3",
+      "description": "Bombermeows to exterminate: 100",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/edc8e07c6d27c6c13e2f95c02c798912622e87ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/dac47f4200cc1b65cedc1af97b8946b71af9f158.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.0"
+    },
+    "ACH56": {
+      "name": "Bombermeow Exterminator 4",
+      "description": "Bombermeows to exterminate: 500",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/6d066dcd263d9f6d2f79c61500b41d32ba0aef07.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e4b2b64fb413072c1218b42da2d4d1e86c51c4f0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.9"
+    },
+    "ACH57": {
+      "name": "Meeting Your Father",
+      "description": "Darth Meowers to exterminate: 1 (Appears In Difficulty III, the Ancient Fields)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/82881fbf400f8362ec250bfb26d8d4f0259847fb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/1a4a037714a848ea7d5cffe88cac04a774293438.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.2"
+    },
+    "ACH58": {
+      "name": "Darkness Expelled",
+      "description": "Darth Meowers to exterminate: 3 (Appears In Difficulty III, the Ancient Fields) ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/a65788cab9db4acbd63bec96750287f1a9fa1de9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/571b64a444487163640df949c1ee0f09a9516435.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.3"
+    },
+    "ACH59": {
+      "name": "Big Purrings 1",
+      "description": "Big Purrings to exterminate: 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/cec9b4377bd22b9045354e45a41ce425facd4f6a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/a387db637a3ec1649328b7b2fab810f4f58486cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "93.7"
+    },
+    "ACH60": {
+      "name": "Big Purrings 2",
+      "description": "Big Purrings to exterminate: 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/c77e92b1393af191a88220398e50c75747110e74.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e15b995ed069c04236f83463cf30dcb7b96a2b58.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.1"
+    },
+    "ACH61": {
+      "name": "Big Purrings 3",
+      "description": "Big Purrings to exterminate: 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f940b8d37cfd3cf56a7da97a03af2f0e6c469287.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e15b995ed069c04236f83463cf30dcb7b96a2b58.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.9"
+    },
+    "ACH62": {
+      "name": "Big Nappy Tomcats 1",
+      "description": "Big Nappy Tomcats to exterminate: 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/13cd7a38767f18077b8e585f5c45ef3a8eb4350b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/c3b9a081fb5cff64bb042b53c474208bd5bfbee4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.6"
+    },
+    "ACH63": {
+      "name": "Big Nappy Tomcats 2",
+      "description": "Big Nappy Tomcats to exterminate: 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/d4c3ce7108b7371f9e9493ee554aaa23566014cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/57a96992d8d6c1acac702d5e48c8c86ce88ec698.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.7"
+    },
+    "ACH64": {
+      "name": "Big Nappy Tomcats 3",
+      "description": "Big Nappy Tomcats to exterminate: 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/2b5bec2a89e0de28a2ce6b77f7f746d093c3d133.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/57a96992d8d6c1acac702d5e48c8c86ce88ec698.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.0"
+    },
+    "ACH65": {
+      "name": "Big Purrurrings 1",
+      "description": "Big Purrurrings to exterminate: 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/430834ca214ca0028e275bbef3576d859e8d995e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/2e99dc15d3f547c2bb35b4ffcf5a925072b5ee3e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.0"
+    },
+    "ACH66": {
+      "name": "Big Purrurrings 2",
+      "description": "Big Purrurrings to exterminate: 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/42b50a4428cfbb1d8345809da64f7ea2dce6e71f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/4a7f90474dc0c99195d205042ef87e0e431dddc6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.2"
+    },
+    "ACH67": {
+      "name": "Big Purrurrings 3",
+      "description": "Big Purrurrings to exterminate: 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e70fe7ac8319688795297459ece50ddeabcce904.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/4a7f90474dc0c99195d205042ef87e0e431dddc6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.7"
+    },
+    "ACH68": {
+      "name": "Big Toxicats 1",
+      "description": "Big Toxicats to exterminate: 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/925b64b1134d26639e86de20590107184a7e26e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/703e500ca4ddc322205ef41b70cbd8cb67a52105.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.5"
+    },
+    "ACH69": {
+      "name": "Big Toxicats 2",
+      "description": "Big Toxicats to exterminate: 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/5dbaf8dc054e5a3091f118466ac4eaa2b260e241.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/9c1e6cbfa3f8237cbe9a62389f9c3e2fd567c31e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.8"
+    },
+    "ACH70": {
+      "name": "Big Toxicats 3",
+      "description": "Big Toxicats to exterminate: 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/5452e7c40135ff95d8225c9f2219e5a3bbc0a375.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/9c1e6cbfa3f8237cbe9a62389f9c3e2fd567c31e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.0"
+    },
+    "ACH71": {
+      "name": "Big Angerrings/Devirrings 1",
+      "description": "Big Angerrings/Devirrings to exterminate: 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/1a503e4e11f1d1cd035219d624b9b1369ec05c52.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/b06ac74d21a1b1a9206cad9ebcf936bca55edac6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "85.3"
+    },
+    "ACH72": {
+      "name": "Big Angerrings/Devirrings 2",
+      "description": "Big Angerrings/Devirrings to exterminate: 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f5befe1adc82696784cb8417a16722261dff3452.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/bef644a7658591bbde6632b2bc20774c0c384982.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.6"
+    },
+    "ACH73": {
+      "name": "Big Angerrings/Devirrings 3",
+      "description": "Big Angerrings/Devirrings to exterminate: 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/0fe51255d86cedaca1389ec1e5ce79ab814b4ad1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/bef644a7658591bbde6632b2bc20774c0c384982.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.3"
+    },
+    "ACH74": {
+      "name": "Big Rockies 1",
+      "description": "Big Rockies to exterminate:1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/48d3f7b87d32eb0f1ac872e9abf85b9a856d69cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/b73c56c90c107671b9d1f52abc0dd966593013d5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.0"
+    },
+    "ACH75": {
+      "name": "Big Rockies 2",
+      "description": "Big Rockies to exterminate:3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/61bc339c915d35e941c8b3a353e3355f30661341.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f0743857a4a6eccd8af2dfa278fd8b69663e0d89.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.8"
+    },
+    "ACH76": {
+      "name": "Big Rockies 3",
+      "description": "Big Rockies to exterminate:5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/a4e1d4e881fd85a75727b58fe233f8c4a32f89b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f0743857a4a6eccd8af2dfa278fd8b69663e0d89.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.2"
+    },
+    "ACH77": {
+      "name": "Big Purrates 1",
+      "description": "Big Purrates to exterminate: 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/1b2ad7659da6bc43d22a7ef844ee669346125f30.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/7e5f1b696658b8463956f27cd5c29132dbbe74b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.5"
+    },
+    "ACH78": {
+      "name": "Big Purrates 2",
+      "description": "Big Purrates to exterminate: 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/a1d18cc97f51deaf68d117a16bb7269fef1e93ea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/71ef3be85ba0212f8e8ba0faa77b06c4a3b6cfa0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.9"
+    },
+    "ACH79": {
+      "name": "Big Purrates 3",
+      "description": "Big Purrates to exterminate: 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e320af7d6c35e8bf934fc7d7ca6e94fe7b008766.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/71ef3be85ba0212f8e8ba0faa77b06c4a3b6cfa0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.0"
+    },
+    "ACH80": {
+      "name": "Nameless Hero of the Future",
+      "description": "Nameless Hero (Time Traveler) to vanquish: 1 (Appears In Difficulty I, II, III)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/1e80880b0e3dccd38a3931f7b41f7b03903f7057.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/cede0ef228354d61c884e537e20b904be8b2d51c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.6"
+    },
+    "ACH81": {
+      "name": "Doggo of the Future",
+      "description": "Doggo (Time Traveler) to vanquish: 1 (Appears In Difficulty II, III)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/4e71d52a3c8a4b81db78705dd00423ecb0c85831.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/7f5ab938b102ea086c903346058a3953a9b4fc62.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.0"
+    },
+    "ACH82": {
+      "name": "Great Beauty of the Future",
+      "description": "Great Beauty (Time Traveler) to vanquish: 1 (Appears In Difficulty II, III)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/6a7289fbb1bfad5e14f876bb33696eb745f01a7d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/043ce41e1390a2bcd99912dd2c5772daec2635f3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.7"
+    },
+    "ACH83": {
+      "name": "T-Swift of the Future",
+      "description": "T-Swift (Time Traveler) to vanquish: 1 (Appears In Difficulty II, III)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/cedc767b5a42f8f6ecdaa0479a0134257583877c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e2b5fe9afbc4f00253e36e811c6c05e5092b0972.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.3"
+    },
+    "ACH84": {
+      "name": "Porky of the Future",
+      "description": "Porky (Time Traveler) to vanquish: 1 (Appears In Difficulty III, the Ancient Fields)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/6101e5aaca3417658b7c53f50b53c88108966575.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/6376ebf444700d781db379817e51940e5d9898cd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.9"
+    },
+    "ACH85": {
+      "name": "Mr. Tea of the Future",
+      "description": "Mr. Tea (Time Traveler) to vanquish: 1 (Appears In Difficulty III, the Ancient Fields)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/9727053d7a9deee8afb5a6ff81d0f31b25c3942a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f9e44c8f6ab84237ae7234d4a8c542982d0107ea.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.9"
+    },
+    "ACH86": {
+      "name": "Agent Dee of the Future",
+      "description": "Agent Dee (Time Traveler) to vanquish: 1 (Appears In Difficulty III, the Ancient Fields)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/1352ec88bac6efc9c0ea0e0af47e0bc1ceb5cb11.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/c3af107ee3f74882d077e6481fb438223ac65383.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.9"
+    },
+    "ACH87": {
+      "name": "Miss Shirker of the Future",
+      "description": "Miss Shirker (Time Traveler) to vanquish: 1 (Appears In the Ancient Fields)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/30a84e769aab4bfc4369e18430ee330aaa05a1d8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e0d0ba7d0e4ea86e1eb1107bd6fe14bc01cee431.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.9"
+    },
+    "ACH88": {
+      "name": "Death's Cold Embrace 1",
+      "description": "Times to kick the bucket: 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/fb05e70f7f4ae32355850ba2095000e099c18fe3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/1d1f87e43c479fabf7bba3eab3bbad853829940c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.5"
+    },
+    "ACH89": {
+      "name": "Death's Cold Embrace 2",
+      "description": "Times to kick the bucket: 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/a5dfd8d38265356a30930b463d421f4b4d6ca65d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/7a18230fa90f7bdbf9e83f33291a9bf4b8e52c06.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.4"
+    },
+    "ACH90": {
+      "name": "Death's Cold Embrace 3",
+      "description": "Times to kick the bucket: 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/de0dfa524dc2247698542eab286f50eba503dec7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/b4e25a58fbd27337206b5c03d74bc189b4bccc5c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.4"
+    },
+    "ACH91": {
+      "name": "Death's Cold Embrace 4",
+      "description": "Times to kick the bucket: 7",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/193f754ba18a286b6f4eb00615d6a59780d6757e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/c6924caa936fef8b2e48df63e7ce88b75c951a7b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.0"
+    },
+    "ACH92": {
+      "name": "Death's Cold Embrace 5",
+      "description": "Times to kick the bucket: 10",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/8221df9a99baa688fb7acfeb012f66459029f461.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e057b446e598f9cbaf68810505e2362ee8a90e87.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.5"
+    },
+    "ACH93": {
+      "name": "Death's Cold Embrace 6",
+      "description": "Times to kick the bucket: 20",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/53030b8ab6b10bd9a5ced58c37918fea9e6e9222.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/0efe0405c8bd930bd6347aefd10892260ca5cb29.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.6"
+    },
+    "ACH94": {
+      "name": "The Grim Reaper",
+      "description": "Exterminate 5,000 foes in a single game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/fb45605a723a7c993b8c46ae371c1d5c4de3872b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/9e88b9220bf36a8dd55363953a25dd118ea38891.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.7"
+    },
+    "ACH95": {
+      "name": "Gaidin Warder",
+      "description": "Have a shield of 500",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/24f2a20a379abdde4e91e7ce1f9c68eb2c110d88.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e07ec7f80246c69eac46f4b4b67ff06945e00678.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.8"
+    },
+    "ACH96": {
+      "name": "Health Junky",
+      "description": "Have a max HP of 1,000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/2d984ceef65823e0538ee2a15cd232d97f3de30b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/bcda0f20f9726405be8641897a672e6f389f2063.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.1"
+    },
+    "ACH97": {
+      "name": "Let's Synergize Baby",
+      "description": "Synergies to unlock: 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/53734912be66810dfc2fb8e692b05cc4cef51c3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/c35fb4f79b156ffb77dcf197d646ac6a1a07f1c0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.7"
+    },
+    "ACH98": {
+      "name": "More Synergizing",
+      "description": "Synergies to unlock: 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/9d615bf089c69eff9f01ecb253657a197dd634c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f918ce97feb3b206d06d405c8d5f28c372a09719.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.6"
+    },
+    "ACH99": {
+      "name": "The Great Synergizer",
+      "description": "Synergies to unlock: 10",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/ad2000e1605bb9f70ef09d180c616f0e079372d8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f918ce97feb3b206d06d405c8d5f28c372a09719.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.6"
+    },
+    "ACH100": {
+      "name": "Synergy Overload",
+      "description": "Synergies to unlock: 30",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/10cdf59ef33883c3da3774e81ecfceda78e4e4ef.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/ae9925696149b6d1bf468d4aea9a6b13bdd09795.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.5"
+    },
+    "ACH101": {
+      "name": "Neo's Synergy Matrix",
+      "description": "Synergies to unlock: 54",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/bfb64bc134847012bac75ab3666d094048e730b5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f918ce97feb3b206d06d405c8d5f28c372a09719.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "ACH102": {
+      "name": "Nameless Hero's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Nameless Hero",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f28b676f65995c89c63ae602bf43c454ff35a729.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/b22a6dd604995ea05575c3173e53c4f80c24ebcb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.8"
+    },
+    "ACH103": {
+      "name": "Great Beauty's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Great Beauty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e1fcb8f05bb67b366742b46a199bccbb35045f0d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/9c2bc586ca192487c70dc3e7ce81e7e8764985a1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.4"
+    },
+    "ACH104": {
+      "name": "T-Swift's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as T-Swift",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/0ea8bc23e7029e6fe81028a6b811f8884303b4a3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/20c1b8e6a309fa323d1432ebcc1bec85f6d108be.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.0"
+    },
+    "ACH105": {
+      "name": "Doggo's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Doggo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/8025e45ea04c30b79f5776b8cc52938c1849e46c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/810f72bee5d4c7b2c7a7ba4733adf2fc20ac15f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "ACH106": {
+      "name": "Porky's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Porky",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/d2b85c62a5e470b0304d8e293475ac69648fb61c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/df9dd3ef47047ee853e49fc4a1a54d686e460836.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "ACH107": {
+      "name": "Darth Meower's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Darth Meower",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/7a44463ba7b2959abd28b0dca9a45b6b20d29e8a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/47fb643bb05604534d55a1f887b7d1d9d1c0dbf1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.2"
+    },
+    "ACH108": {
+      "name": "Mr. Tea's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Mr. Tea",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f33b86aedfd6518733b098a9daa7fdbb9fc1eab5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/bb4dc45e696329b152a340152bf973377f995591.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.9"
+    },
+    "ACH109": {
+      "name": "Agent Dee's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Agent Dee",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/742f1a26242ecb963ca2b50f8bc5754bdb5e9fc8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/83d393ad68dfd5b8cf9613ebf4242abca12bdba0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.5"
+    },
+    "ACH110": {
+      "name": "Miss Shirker's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Miss Shirker",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/fe0f924f7af5dd20033083714b4f66909fe00cde.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/0dea90ad783f3a8196da34e45e74e68c8f9e3c37.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.7"
+    },
+    "ACH111": {
+      "name": "Peachville Champion",
+      "description": "Acquire all skins",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/446be199840efb34656282da8a8116b6d21a1fe0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/981396eae148f657b3d10e538e110a45374305e2.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.8"
+    },
+    "ACH112": {
+      "name": "A Man's Best Friend (?)",
+      "description": "Link with the Nameless Hero and get killed by his own dog.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/70c9efbee006d8e5175b521d80ed84d360a0dd26.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/03da3488b1dc5b9bbe11d5a9ae7ae51dc4aa43da.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "ACH113": {
+      "name": "Play Hard to Get",
+      "description": "Link with the Great Beauty and do not get caught up by any pursuers within a single skill use.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/9c347e617199c8703a09837796be8edeffa14750.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/320bcb3746fb6b1402ffdc4a933228d04252d33a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.4"
+    },
+    "ACH114": {
+      "name": "Penta Hat Trick",
+      "description": "Link with T-Swift and kick 15 monsters in a single attempt.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/4f540e64fecdbccd09895f28fcfa34c924412560.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f6f6660c07f2ae0ad248b8a37bc43fd2dc64c5f2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ACH115": {
+      "name": "Poop Your Poop and Eat It Too",
+      "description": "Link with Doggo and eat 20 red turds in a single round.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/a5c3695a8042c87c5fc5f85f82d52c5beb4ea6bf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/55da8eccd0b3c0bd0578f3ced96c0d24fb36e54f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "ACH116": {
+      "name": "Anal Evacuation",
+      "description": "Link with Porky and fart for 1 consecutive minute.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/21a0f2915f3297911df5dfc88e5b7a69b5c1e104.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/6545aeb00f2586ae7963f3a465cd7142f42a6394.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.4"
+    },
+    "ACH117": {
+      "name": "Late to the Party",
+      "description": "Link with Darth Meower and die during the skill's duration.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/7c3ac53388d713f4fd97d151da5543a4bd5e131b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/0b4248acb5cc7a55044bbfcb06374e78f41f296a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "ACH118": {
+      "name": "It's Just Business",
+      "description": "Link with Agent Dee and accumulate 300 Gold with your skills in a single round.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/d75e6eb919a90c1b75b4d1237c7156ec6f970942.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/2de72d941dd35d31de1d09705c5cf4b8a4623af9.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "ACH119": {
+      "name": "Gotta Save Em All",
+      "description": "Link with Mr. Tea and save everyone with a single skill.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/252cd8b3d03bda465ade76e4c3dafe36509635cd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/90c562170a30848139e79b698a493b0821cfbb0e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.6"
+    },
+    "ACH120": {
+      "name": "Enter Through the Exit",
+      "description": "Link with Miss Shirker and maintain a skill until its cooldown ends.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/a5db0f6e829cbaa40524f9ae2a8305e0bfd4bead.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e6acebddfb793e78077c1b2c799113422e1b247d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.0"
+    },
+    "ACH121": {
+      "name": "Giant Loli",
+      "description": "Snappy Bobcat Casting a skill reverts you back to your original appearance.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/4bd38841211d96458c3fc3c50bfe9c79820c3a64.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/0dc7a5220497c78b2bfa66ce5b0b547d0fe65f62.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.4"
+    },
+    "ACH122": {
+      "name": "Money Wave",
+      "description": "Have a mouse with a Synergy pick up 233 coins. Greed is good.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/36aecb491640cf509077c6c1e88762b7956d5a4b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/40bd28199047f91343ceba68f0036062e6c3a099.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.7"
+    },
+    "ACH123": {
+      "name": "Snappy Bobcat's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Snappy Bobcat.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/14f23618eb9891dbb308b0398036cdde6d0ca1f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f836d1e1a2f4c05c969ea90e55642108c22a02ac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.4"
+    },
+    "ACH124": {
+      "name": "Foxy Lady's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Foxy Lady.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/6df80a188746863bb95d89caf143b94171f74050.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/4a8f5bb818af3c5d4d42c215aa6b41e39e3a70c9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}

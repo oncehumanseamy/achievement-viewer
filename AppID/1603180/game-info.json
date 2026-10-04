@@ -1,0 +1,694 @@
+{
+  "appid": "1603180",
+  "name": "Mining Mechs",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1603180/header.jpg?t=1785589391",
+  "achievements": {
+    "ACH_TUTORIAL": {
+      "name": "Tutorial Completed!",
+      "description": "Complete the Tutorial",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/b47029a27b02104a5e5c0f7c9deb3b9be357421e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/0142bd12a1bf5a11ad7c99f689b78ae36cd90d2e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "97.5"
+    },
+    "ACH_EXPLOSIVE": {
+      "name": "Kaboom!",
+      "description": "Use an explosive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/799acaafcbdf064aac150326e24617d64789d986.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/5d69fb8f6cd143df8fc33d18d8a11581324c7f46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.4"
+    },
+    "ACH_BOOSTER": {
+      "name": "Drill go brrrrrrrr!",
+      "description": "Use a booster",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/806deceda07542650dba2fd3749eea9e1f728d51.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/39b52570ff46d9982a071bdd55e197796851b248.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.2"
+    },
+    "ACH_TELEPORTER": {
+      "name": "Weeeee",
+      "description": "Use a teleporter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/75c5c1d735d9df4ddb02b9c6ab4bd879c37859b6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/0591caf1ba2df646bee1bc8da49717e4b9af7deb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.0"
+    },
+    "ACH_CONFETTI": {
+      "name": "Party time!",
+      "description": "Use confetti",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/910befa4cd50741d9ac09c69082cfb6159b4fca3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/3258486a149aacca98858443f0d6a26e94906f7f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.3"
+    },
+    "ACH_LEVEL_3": {
+      "name": "Level 3",
+      "description": "Reach mech level 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/66dd3fbf10b21fbba7482a0161973082c7fd6fe4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/d3a068715cd58d1302fe809d18be1ff4d1398b6b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.0"
+    },
+    "ACH_MAXED_OUT": {
+      "name": "Maxed out!",
+      "description": "Get a mech to max level",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/09a0f1eb02c85bb0d260ce89aa5f446c51781005.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/72d73605560922dcbf7e4fc7a0dd35df9f7bb29b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.6"
+    },
+    "ACH_PAYDAY": {
+      "name": "Payday!",
+      "description": "Sell $10k worth of ore at once",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/e44751d20cfa8e8629646466ca19442483edc0fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/5b3d04b9a2b8c393f85e0e3a3fd93cecb6cf3369.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.6"
+    },
+    "ACH_100K": {
+      "name": "Ballin'",
+      "description": "Have $100k cash",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/6df99f4d7917e6959f4f89b2c4477197ba53ed9d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/67002f62b39279cf68ba5ff08fadc2da53938962.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.6"
+    },
+    "ACH_1M": {
+      "name": "Millionaire",
+      "description": "Have $1.000.000",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/9be3d97f3578d083052610b31b35d0efb9d78fb3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/39838a0b5558f5dd20d1f586c3f989345c077047.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.4"
+    },
+    "ACH_FIRST_MINE": {
+      "name": "Passive income",
+      "description": "Connect your first mine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/60831df04de5a228c8f72b28b5fe796eaf2b01c2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/4a88f87278642545c5556cf3e96da2d7da51fba7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "93.6"
+    },
+    "ACH_PASSIVE_INCOME": {
+      "name": "Mine mogul",
+      "description": "Reach a passive income of $100",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/f32494b95b4370a5d5b6bf14c745e177887208f9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/0ac030698034c6b40bacb015e9eda4f5ea2da07e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.0"
+    },
+    "ACH_L33T": {
+      "name": "L33t master",
+      "description": "Sell for a total value of $1337",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/6239e914af2f5e2c4786202dff257b98cd9e7334.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/f9310fe27e8a6bd2951e88f20747a35f94e2e08c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "ACH_DIRT": {
+      "name": "Dirty Dirt Ditcher",
+      "description": "Deliver 1000 dirt",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/287705e7d0d01689d9f529738e5eaedeb854d681.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/bfd66a51ed5539632bfbb765ba72ad41b510dd39.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.9"
+    },
+    "ACH_FLY": {
+      "name": "Look mommy, I can fly!",
+      "description": "Find out how high you can fly",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/b9e16dff5b45b613602055fcda60b05abd0db8f9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/8a72d7c895e54af4d743105853e5ecb24e9249e4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "ACH_CHEESE": {
+      "name": "Is that... cheese..?",
+      "description": "Find cheese",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/09394c0af49bbe6fa9139135d4e642660087b90b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/23ffd5ba227bbb8f7f9de0ff012146c79a67c252.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.7"
+    },
+    "ACH_DIGGER_I": {
+      "name": "Digging Professional",
+      "description": "Dig 1000 blocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/1fb7d6670e85f501ba337380f54d32ebb4b3bc6c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/513eaaa3730adc6388fd45a57c7cd48b9801ecc6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.0"
+    },
+    "ACH_DIGGER_II": {
+      "name": "Digging Expert",
+      "description": "Dig 2.000 blocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/f16cf13dedfb5d808f612869ed27b3939fb41042.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/b922a8cb8ed362d0b8d373ac2d1ef36c20b77511.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.3"
+    },
+    "ACH_DIGGER_III": {
+      "name": "Digging Legend",
+      "description": "Dig 5.000 blocks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/e24dc58824ddf138884d888641ab15819904a457.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/d3ef673dff3f295edc0a37de479c3018bb10367f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.8"
+    },
+    "ACH_BOUNCE": {
+      "name": "Bouncy Castle",
+      "description": "Bounce barefoot on top of the airship",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/369bf928d08302103812aafc673c52e9a03fbbd5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/1bc8e9797014a7b10a93a134c068e179444a9b5f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "ACH_TIN": {
+      "name": "It's basically black gold, right?",
+      "description": "Collect tin ore",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/772a45eaed12677602868a3629c8714061b2aad1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/c378feb0e9644af18a197a39eb2331fe57699706.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.3"
+    },
+    "ACH_COPPER": {
+      "name": "Copper collector",
+      "description": "Collect copper ore",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/611b9bf7f327f3672dd0217851609c9e1ef930fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/aa0139bcd428d55e066a1b585b4062b9cf5fd1ca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.1"
+    },
+    "ACH_SILVER": {
+      "name": "Silver seeker",
+      "description": "Collect silver ore",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/098c5ecc3f19aaec9a627f68cd0e1324b424a800.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/ddf19e42df47d68b8084859e6d0b83608a559f51.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "95.6"
+    },
+    "ACH_COBALT": {
+      "name": "Cobalt miner",
+      "description": "Collect cobalt ore",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/60d547d942b7c29c5ccb57ff28d4989d76da0eb0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/c7a87424851e7fbef0a30af36e259212e650d950.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.7"
+    },
+    "ACH_REALGAR": {
+      "name": "Keeping it real",
+      "description": "Collect realgar ore",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/40cafec4d8016151152ae083b508604991f4a13a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/a7b2eefce1588736389ba15c61d26b8033cb4914.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.0"
+    },
+    "ACH_AZURITE": {
+      "name": "Azurite accumulator",
+      "description": "Collect azurite ore",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/7fa562e961c372e3802f0261f09af5c15ca8c04c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/94f5eed31463ea63af3cfdf7cf43c4cba1b38c8c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.7"
+    },
+    "ACH_GOLD": {
+      "name": "Golddigger",
+      "description": "Collect gold ore",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/67673e306e1107be99030b8b5e6f001f30420352.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/422a8a7e7f7438b23d138e93575b95ab27ec997d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.6"
+    },
+    "ACH_AMETHYST": {
+      "name": "Amethyst amasser",
+      "description": "Collect amethyst ore",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/c033763f31e03ba83f72581c1ee1faae58a1367e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/5fe2ff3e1edd622090fbfa5aede6b5046bf319bf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.7"
+    },
+    "ACH_URANIUM": {
+      "name": "Uranium? More like uramizing amirite?",
+      "description": "Collect uranium ore",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/8eb4f5bba92b7761a08e1c1f6ae190f6ec16a125.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/1a2dafcf54ab8c686e6f84f59dc4add1844e52d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.5"
+    },
+    "ACH_DIAMOND": {
+      "name": "Diamond digger",
+      "description": "Collect diamond ore",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/132ae637f7bd6273d9531f965881da734c4c46ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/89be81ad7482f49214cc0364cc5f9968ff7163e3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "ACH_SAPPHIRE": {
+      "name": "Sapphire specialist",
+      "description": "Collect a sapphire gem",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/94b07c93758f8e1255ae9662b6bf142b53723037.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/b251aa1979f261e2eec50998a581e226427ad525.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.6"
+    },
+    "ACH_EMERALD": {
+      "name": "Emeral expert",
+      "description": "Collect an emerald gem",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/42c1d048e7a668dd56ca41f7df39d9bb3378c5f7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/78e3f9c452513546a8258f41af5e459f72442326.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.8"
+    },
+    "ACH_RUBY": {
+      "name": "Ruby royalty",
+      "description": "Collect a ruby gem",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/e0c92cf76c753bf08a03b9c3691f05db5677ca31.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/51ad91c822c34c42c3f0c27143556a764a7996f7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.9"
+    },
+    "ACH_TRASH": {
+      "name": "Environmentally concious",
+      "description": "Collect trash",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/1cac598b8e2d3f26801942b317597ffbb1af0879.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/eb6b85799afa691a3a267011c5a1860b6a06f05a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.8"
+    },
+    "ACH_JEWELRY": {
+      "name": "My precious!",
+      "description": "Collect jewelry",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/fb0080126a4ab36626c57757e78ee8e1d86577fe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/6f1f70abbea7ed7dc0c99fa37103b69aded8f17b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "90.5"
+    },
+    "ACH_TREASURE": {
+      "name": "Hit the motherload!",
+      "description": "Find a treasure chest",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/9d35706afe9be3d41b2a2bff765ec7e940ac9304.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/93fed4df04079c207e403eda78aace18f7cfff33.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.4"
+    },
+    "ACH_TIN_COLLECTOR": {
+      "name": "Professional tin collector",
+      "description": "Collect 100 tin",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/e71651c0283a306daefdf2ae0debb85b1f50ad0a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/5eac99e015655e08941ab5110c7949d485277684.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.1"
+    },
+    "ACH_COPPER_COLLECTOR": {
+      "name": "Professional copper collector",
+      "description": "Collect 100 copper",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/89117a526beb9c3316bc489fcb86692eecab9cf0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/bb63aaeea720564982cda49b92c7c5dbf757a523.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.6"
+    },
+    "ACH_SILVER_COLLECTOR": {
+      "name": "Professional silver collector",
+      "description": "Collect 100 silver",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/dc4f967ed962b9873d1cdffb09ed05718329d350.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/7a53f3f740eb3a7cff37bc3b3594e6832a3a19bc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.3"
+    },
+    "ACH_COBALT_COLLECTOR": {
+      "name": "Professional cobalt collector",
+      "description": "Collect 100 cobalt",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/c08c63bc09ec5b0b487ff6d510ce83fdb247491f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/f623501e18d0636539b595356f660a961885ee61.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.9"
+    },
+    "ACH_REALGAR_COLLECTOR": {
+      "name": "Professional realgar collector",
+      "description": "Collect 100 realgar",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/2e25650df4bf6364b8ed19456a5a7c8683d902bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/c5d92effaa4c5d8e63b7ee1828e3ba4c22c9160f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.3"
+    },
+    "ACH_AZURITE_COLLECTOR": {
+      "name": "Professional azurite collector",
+      "description": "Collect 100 azurite",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/d9430e1215afff3257ca4911d89b16381a138a2c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/576d459e343e210ed06cda7bfda38c0dce598cfb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.0"
+    },
+    "ACH_GOLD_COLLECTOR": {
+      "name": "Professional gold collector",
+      "description": "Collect 100 gold",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/2f2302570f52ddf520c8f95af56de3d95c49f5ee.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/cae887cd932b016701a3943394841e503c0530f9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.4"
+    },
+    "ACH_AMETHYST_COLLECTOR": {
+      "name": "Professional amethyst collector",
+      "description": "Collect 100 amethyst",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/a47c5c199b70d0bb2183591186096cfa6e676045.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/153ac4d696e63af820428727619d9d6bf0ebf8cf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.7"
+    },
+    "ACH_URANIUM_COLLECTOR": {
+      "name": "Professional uranium collector",
+      "description": "Collect 100 uranium",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/c720fdb728ceaaf1853642d36b56b61e7ead5a02.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/a4f4df03cbc5936937b522144d6e86fbb6f095d4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.0"
+    },
+    "ACH_DIAMOND_COLLECTOR": {
+      "name": "Professional diamond collector",
+      "description": "Collect 100 diamond",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/9c53f9ee15980968092ee17bed1d0060d8dde97e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/6c5ec969e7568a8496b82a92392e780f2bc363e9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.0"
+    },
+    "ACH_SAPPHIRE_COLLECTOR": {
+      "name": "Professional sapphire collector",
+      "description": "Collect 30 sapphire",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/716f7a4e0b9245d4aa6554801125eeca54a37883.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/34d6345b95cc134b2a9f0c0bed843508e0cf1e59.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "ACH_EMERALD_COLLECTOR": {
+      "name": "Professional emerald collector",
+      "description": "Collect 20 emerald",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/2a40f42388da7409584ae13045ded6fa0fa1f519.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/729070a48d61ad71c35ffcf0ccb84e4b65889b45.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "ACH_RUBY_COLLECTOR": {
+      "name": "Professional ruby collector",
+      "description": "Collect 10 ruby",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/a624288e33f039b7cc80d6166c374467bb54299c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/2a7f3493ca0efb2547d3ba755b90f3cb0377b239.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.3"
+    },
+    "ACH_TRASH_COLLECTOR": {
+      "name": "Professional trash collector",
+      "description": "Collect 100 trash",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/8c1f71248ed9c583bc398e6a1148f2cbc1e4d866.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/fad0d3bdf88c14243610e5c2bdabb785d556da66.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "ACH_JEWELRY_COLLECTOR": {
+      "name": "Professional jewelry collector",
+      "description": "Collect 100 jewelry",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/73e176996792408742958b4357aaedce6fb26316.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/d2664c87cbb95ee61220c3f81295993c563839ab.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.0"
+    },
+    "ACH_TREASURE_COLLECTOR": {
+      "name": "Professional treasure collector",
+      "description": "Collect 10 treasures",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/d0ad7badecbebd63753eaecc4dcc48adc9e2af2d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/e09b390adbe8f701d9459112a7f44c2d77717fcc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.0"
+    },
+    "ACH_EXPLORER_100": {
+      "name": "Explorer I",
+      "description": "Reach a depth of 100m",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/93a776006ec4c6b3f96380eb0c0fafd56bee46ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/22ff3c775837a67da3aff2dbbd33bbc493cc7961.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.5"
+    },
+    "ACH_EXPLORER_200": {
+      "name": "Explorer II",
+      "description": "Reach a depth of 200m",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/1a7fe75f1b02a7fc467efbb724bab55d2dccacd7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/6e48736d8c8ff38a339e9fe71bb818739fc6dc40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.7"
+    },
+    "ACH_EXPLORER_300": {
+      "name": "Explorer III",
+      "description": "Reach a depth of 300m",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/f6723548a45fb17d7f99f6e9e6ca5dd05b315186.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/7fd56880bad6505ac16af46c44da5bf730e7de24.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.0"
+    },
+    "ACH_EXPLORER_400": {
+      "name": "Explorer IV",
+      "description": "Reach a depth of 400m",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/ca1027153bf148e7cfd4be859ef12fc547a85ac5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/d88cd29c5aecab8e359ac3d4505cb0c053cbe121.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.4"
+    },
+    "ACH_EXPLORER_500": {
+      "name": "Explorer V",
+      "description": "Reach a depth of 500m",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/fc96d42eaa65afb9b45ee1516f81f0f6e6121fde.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/515c33260e497b746870b154165e4e6cce9f3790.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.3"
+    },
+    "ACH_EXPLORER_600": {
+      "name": "Explorer VI",
+      "description": "Reach a depth of 600m",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/5c12a2c6f70444c525f3ad7dcb8b309e22a0a403.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/e25a72e4b7994ba5238e588f1dfc882f3144256e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.6"
+    },
+    "ACH_EXPLORER_700": {
+      "name": "Explorer VII",
+      "description": "Reach a depth of 700m",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/737ca59f4e62754b34825c61968f94db8e900f31.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/f70eda78113caefe2fe5ba69482a954db1234052.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.9"
+    },
+    "ACH_EXPLORER_800": {
+      "name": "Explorer VIII",
+      "description": "Reach a depth of 800m",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/6fa2d9dbec12ac89c3e0f16078caa52a236d105e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/e25a72e4b7994ba5238e588f1dfc882f3144256e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.5"
+    },
+    "ACH_EXPLORER_900": {
+      "name": "Explorer IX",
+      "description": "Reach a depth of 900m",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/ef678fe06ac67ee50343ff7e214f96dfc83a4a15.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/515c33260e497b746870b154165e4e6cce9f3790.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.2"
+    },
+    "ACH_EXPLORER_1000": {
+      "name": "Explorer X",
+      "description": "Reach a depth of 1000m",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/394b79c5a99ad7c9e93f866a4ad9b20c92ffc25c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/710efbd6c31a08fcbb0f4eb64785ae3c191e7199.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.1"
+    },
+    "ACH_HELLSTONE": {
+      "name": "Hellstone",
+      "description": "Find a Hellstone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/f5d751fc1026ea4d20bdf16e85dbc5a6956633d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/6b8840e0809a4fe0de266999ee754bd1adbd12cf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.7"
+    },
+    "ACH_ENDING_A": {
+      "name": "Devils Fate: Taxes",
+      "description": "Make a deal with the devil",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/017bf0c414508411d4199ea80614cfdefa1ff0be.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/6cee3e9ae2129bec94a07d2c66a2628d7924b62f.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.3"
+    },
+    "ACH_ENDING_B": {
+      "name": "Devils Fate: Shopkeeper",
+      "description": "Make a deal with the devil",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/816b6287509cbdcbdf178a9b6f53127c6feb1ff8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/e1bf091324ff56a152bb6c2ecb2f2707f1fb27cf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.5"
+    },
+    "ACH_BARRIER_1": {
+      "name": "Outpost Operator",
+      "description": "Pass the outpost gate",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/41fe41372a85ed8b8ccc247faf70066ba19ff493.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/bbd7e6de30b4c4fed5ce78364cfc134b7e324c38.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "52.8"
+    },
+    "ACH_BARRIER_2": {
+      "name": "Barrier Breaker",
+      "description": "Pass the plated stone barrier",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/fee2b80ba3f7702a5505afa229dc95634dd21b2d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/2eab9e2460733926fb889b5284a120948924e1e2.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.2"
+    },
+    "ACH_BARRIER_3": {
+      "name": "Airlock Assembler",
+      "description": "Pass the airlock",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/c2964c319aac857318d50b3641f69879386c8f98.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/668789aa7b76619522e8cc87d90cb913a7394e00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.8"
+    },
+    "ACH_WORM": {
+      "name": "Worm",
+      "description": "Unlock the worm mech",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/745dfd417d154bd13b89650cdbc6df3562b0d65e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/69e38f12efa6e9ecd25c7039687fdd00fa3c61a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.8"
+    },
+    "ACH_SNAKE": {
+      "name": "Snake",
+      "description": "Unlock the snake mech",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/c9910842e7b1fea7ac3b2f26e1f686a3e8fe60bd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/5835dd7b7dac57da7d955e3b639d28db5767b958.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.8"
+    },
+    "ACH_BEETLE": {
+      "name": "Beetle",
+      "description": "Unlock the beetle mech",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/ca2ed646a6724792eb7cbe822864b07ec19b3e74.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/b9e6b86357a87167c51ee28d2f6dad77555676a5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.2"
+    },
+    "ACH_SCORPION": {
+      "name": "Scorpion",
+      "description": "Unlock the scorpion mech",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/a593b9496c0b58201c343553e0129c74ddd5c519.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/0ad78c538d7c00a019d3245e8ceec810117873e5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.7"
+    },
+    "ACH_TURTLE": {
+      "name": "Turtle",
+      "description": "Unlock the turtle mech",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/9dc25df67885e3abd830311676fd2c19b5548cc6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/503b9d4649614059badb2ec9c59f1a65cdd4e40f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.3"
+    },
+    "ACH_KANGAROO": {
+      "name": "Kangaroo",
+      "description": "Unlock the kangaroo mech",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/8deeb5dc61ff98b25434d26cff7617dfe0f7a8fe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/ec9be5bd81805cb31a31ae4d159d30c120994a26.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.3"
+    },
+    "ACH_RHINO": {
+      "name": "Rhino",
+      "description": "Unlock the rhino mech",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/562604ee1759201f4f15d8ea37e47245d5711a2d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/46015909944cd18cb935586c6e2bb2952a1ba7f8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.2"
+    },
+    "ACH_CRANE": {
+      "name": "Crane",
+      "description": "Unlock the crane mech",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/4c6fe1617594eebf5b7ce263e4a279cab4c32e93.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/1e0d4dfb05276c7448419fea26986767ff09ea87.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}

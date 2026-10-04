@@ -1,0 +1,118 @@
+{
+  "appid": "2322440",
+  "name": "METAL SLUG ATTACK RELOADED",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322440/header.jpg?t=1733217858",
+  "achievements": {
+    "ACHIEVMENT_LOG_000": {
+      "name": "Ultimate Weapon",
+      "description": "Cleared “ULTIMATE MISSION” HELL stage at S Rank for all affiliations",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/39fd149bdc83be6b622328bee7e0789a206ff46b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.6"
+    },
+    "ACHIEVMENT_LOG_001": {
+      "name": "Legendary Soldier",
+      "description": "Enhanced any unit to MAX",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d4db0fd64b5dcad605b5bda7ac39d1ae64e3f698.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.9"
+    },
+    "ACHIEVMENT_LOG_002": {
+      "name": "Gathering the Troops",
+      "description": "Recruited soldiers with CALL TO ARMS",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/dbfe1406ee59eb0959727e67563b8cba02976747.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.1"
+    },
+    "ACHIEVMENT_LOG_003": {
+      "name": "Amphibious Battleship",
+      "description": "Defeated Big Shiee in WORLD MAP STANDARD 2 through 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/dbfe1406ee59eb0959727e67563b8cba02976747.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.8"
+    },
+    "ACHIEVMENT_LOG_004": {
+      "name": "Giant Bomber",
+      "description": "Defeated Shoe in WORLD MAP STANDARD 4 through 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/dbfe1406ee59eb0959727e67563b8cba02976747.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "70.9"
+    },
+    "ACHIEVMENT_LOG_005": {
+      "name": "Heavy Tank",
+      "description": "Defeated Iron Nokana in WORLD MAP STANDARD 6 through 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/dbfe1406ee59eb0959727e67563b8cba02976747.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "63.4"
+    },
+    "ACHIEVMENT_LOG_006": {
+      "name": "Defender of the Ruins",
+      "description": "Defeated Sol Dae Rokker Wrath in WORLD MAP STANDARD 8 through 6",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/dbfe1406ee59eb0959727e67563b8cba02976747.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.9"
+    },
+    "ACHIEVMENT_LOG_007": {
+      "name": "Guardian Megabot",
+      "description": "Defeated Jupiter King in WORLD MAP STANDARD 10 through 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/dbfe1406ee59eb0959727e67563b8cba02976747.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.6"
+    },
+    "ACHIEVMENT_LOG_008": {
+      "name": "Giant Automaton",
+      "description": "Defeated Big John in WORLD MAP STANDARD 12 through 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/dbfe1406ee59eb0959727e67563b8cba02976747.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.7"
+    },
+    "ACHIEVMENT_LOG_009": {
+      "name": "Airborne Supertank",
+      "description": "Defeated Metal Rear in WORLD MAP STANDARD 14 through 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/dbfe1406ee59eb0959727e67563b8cba02976747.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.1"
+    },
+    "ACHIEVMENT_LOG_010": {
+      "name": "Karmic Mercy",
+      "description": "Defeated Rootmars in WORLD MAP STANDARD 16 through 4",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d4db0fd64b5dcad605b5bda7ac39d1ae64e3f698.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.7"
+    },
+    "ACHIEVMENT_LOG_011": {
+      "name": "Legendary Storyteller",
+      "description": "Cleared the final chapter of ANOTHER STORY for all affiliations",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d4db0fd64b5dcad605b5bda7ac39d1ae64e3f698.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}

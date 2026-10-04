@@ -1,0 +1,352 @@
+{
+  "appid": "1369630",
+  "name": "ENDER LILIES: Quietus of the Knights",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369630/header.jpg?t=1788931074",
+  "achievements": {
+    "ACH_SPIRIT_GET_S5010": {
+      "name": "Purification",
+      "description": "Purify Guardian Siegrid",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/35d2ee7bd52ff060cc883534bd3fae81fd479be8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.1"
+    },
+    "ACH_SPIRIT_GET_S5020": {
+      "name": "Tenacity",
+      "description": "Purify Guardian Silva",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/b3154461dcfe74bacfb3733b412250b549bd3d02.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.9"
+    },
+    "ACH_SPIRIT_GET_S5030": {
+      "name": "Blight Throne",
+      "description": "Purify Knight Captain Julius",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/4b2abaaf86b78ac843903af03281118ad1facbc3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "36.0"
+    },
+    "ACH_SPIRIT_GET_S5040": {
+      "name": "Lamentation",
+      "description": "Purify Dark Witch Eleine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/32830e675969af147115e3334b78c0913ac97a2d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.1"
+    },
+    "ACH_SPIRIT_GET_S5050": {
+      "name": "Fury",
+      "description": "Purify Gerrod the Elder Warrior ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/ed623639f8d1d3a57cdbad76963ecf18e56854d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.8"
+    },
+    "ACH_SPIRIT_GET_S5060": {
+      "name": "Resolve",
+      "description": "Purify Hoenir Keeper of the Abyss",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/dbd9218161a36f2050fe8187ad827de44d894986.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.5"
+    },
+    "ACH_SPIRIT_GET_S5070": {
+      "name": "Heroic Death",
+      "description": "Purify Ulv the Mad Knight",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/144d24c54629a528df828802324bbbd1571e2b7a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.5"
+    },
+    "ACH_SPIRIT_GET_S5080": {
+      "name": "Separation",
+      "description": "Purify Faden the Heretic",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/c6c6b21e1b20a4c70a25638b8c791fa8505e2909.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.1"
+    },
+    "ACH_SPIRIT_GET_COUNT_5": {
+      "name": "Purging Glow",
+      "description": "Obtain 5 Blighted Spirits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/0e8ada288312007cca91c1bbe2a54704f33ca9f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.1"
+    },
+    "ACH_SPIRIT_GET_COUNT_10": {
+      "name": "Light",
+      "description": "Obtain 10 Blighted Spirits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/667b151e0665f4616681e06cc2d85e0151cad41f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "47.0"
+    },
+    "ACH_SPIRIT_GET_COUNT_15": {
+      "name": "Liberator",
+      "description": "Obtain 15 Blighted Spirits",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/255e82676d469b32e1971a30a62556d910fa6a5f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.6"
+    },
+    "ACH_SPIRIT_GET_COUNT_ALL": {
+      "name": "Savior",
+      "description": "Obtain every Blighted Spirit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/945ec56ac16a3b04ab6ae6471d291f3db6dfb3dc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/ec5d8cf20e51f381ca8bea06b16c3f7a51a647cf.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.4"
+    },
+    "ACH_PASSIVE_GET_COUNT_1": {
+      "name": "Left Behind",
+      "description": "Obtain a relic",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/a01854a29ea7fdd30eca2be210c59f8a3dfc1d8b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/ec5d8cf20e51f381ca8bea06b16c3f7a51a647cf.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "86.3"
+    },
+    "ACH_PASSIVE_GET_COUNT_10": {
+      "name": "Relic Hunter",
+      "description": "Obtain 10 relics",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/800ad834268103da8a2b793d7812d965a4f3015d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.6"
+    },
+    "ACH_PASSIVE_GET_COUNT_ALL": {
+      "name": "Collector",
+      "description": "Obtain all relics",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/0abc2954ffb3a4d61af96a914b2221b36558b0b2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.6"
+    },
+    "ACH_PLAYER_LEVEL_10": {
+      "name": "Lurking Filth",
+      "description": "Reach level 10",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/4d0e4de51aa38c2ed1af5dbd40e252cff68c3302.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.5"
+    },
+    "ACH_PLAYER_LEVEL_50": {
+      "name": "Blighted One",
+      "description": "Reach level 50",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/b56c0edda9174f95fe08f652e1f1d81c15e7459b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.5"
+    },
+    "ACH_PLAYER_LEVEL_100": {
+      "name": "Ruined One",
+      "description": "Reach level 100",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/bb21f83a29f5ca2d04df3d19dfa5da53e9b694b8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.4"
+    },
+    "ACH_SPIRIT_GET_BOSSES": {
+      "name": "Truth",
+      "description": "Purify every Blighted hero",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/4230060a3a4a5e0bebf9bc87df02c308683ea56f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.0"
+    },
+    "ACH_SPIRIT_LEVEL_MAX_COUNT_1": {
+      "name": "Taboo Blight",
+      "description": "Fully enhance a Blighted Spirit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/0e5b0f27e3df16254d8abe96051eac72547c9bdc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.0"
+    },
+    "ACH_SPIRIT_LEVEL_MAX_COUNT_5": {
+      "name": "The Abyss",
+      "description": "Fully enhance 5 Blighted Spirit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/2892b25f6ebc75a91411f53079fc24af06d6f990.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.9"
+    },
+    "ACH_SPIRIT_LEVEL_MAX_S5000": {
+      "name": "Secret",
+      "description": "Fully enhance the Umbral Knight",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/242241ccecf9b1e535ab51709a6eb782ff159097.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.5"
+    },
+    "ACH_ITEMS_GET_ALL_HPMAX": {
+      "name": "Refurbishment",
+      "description": "Attain maximum HP",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/a7cc73d61276b6c6356bd1630749d6001df3ebda.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.4"
+    },
+    "ACH_ITEMS_GET_ALL_HEALPOWER": {
+      "name": "Convergence",
+      "description": "Attain maximum Prayer Potency",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/7ba90c72761694c2f71a2758ae2d6f2be73ac33e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.1"
+    },
+    "ACH_TIPS_GET_024-028": {
+      "name": "Fretia's Will",
+      "description": "Obtain Findings 24-28",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/1c68f516dcc83e8b2c44db48a685d6f4124ad182.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.9"
+    },
+    "ACH_TIPS_GET_045": {
+      "name": "Newly Anointed",
+      "description": "Obtain Finding 45",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/37adccf77c3dfe2538ffdfd8db6186a230fc9053.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.8"
+    },
+    "ACH_TIPS_GET_ALL": {
+      "name": "Exposé",
+      "description": "Obtain all Findings",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/8772cb8bbce5530df412f0b84f2cb7cf92220227.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.1"
+    },
+    "ACH_RESTPOINT_COUNT_10": {
+      "name": "Outset",
+      "description": "Reach 10 Respites",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/741acb66f5f34199d672182ce1e36dd5ba270150.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.1"
+    },
+    "ACH_RESTPOINT_COUNT_ALL": {
+      "name": "Memorial",
+      "description": "Reach every Respite",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/d65ed0ef65b4f52a671515a1ffb4e24332bcf41e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "ACH_OPEN_ALL_MAPS": {
+      "name": "Visitant",
+      "description": "Journey to all maps",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/9c2d6eb65fa85337d11f5f7bfeef8883b2459e20.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.3"
+    },
+    "ACH_ENDING_A": {
+      "name": "Benevolence",
+      "description": "Witness Ending A",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/c71ec33f56a18bad0377c4561e4c15a4d8ed6cd5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.2"
+    },
+    "ACH_ENDING_B": {
+      "name": "Journey's End",
+      "description": "Witness Ending B",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/25179fcf505f657a8d95ea9c03b5b1bbc0ac1267.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.6"
+    },
+    "ACH_ENDING_C": {
+      "name": "Dawn Prayer",
+      "description": "Witness Ending C",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/ab4034be994d7d99d29733f5bf5f6aa9e69ea9c2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.6"
+    },
+    "ACH_ACTION_DASH_LVL3": {
+      "name": "Impaling Lily",
+      "description": "Unleash the Spectral Lance's full power",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/1f2084320edacecb8b337001672de7cf10571184.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.6"
+    },
+    "ACH_ACTION_PILE_LVL3": {
+      "name": "Falling Lily",
+      "description": "Unleash the Giant's Hammer's full power",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/393046a3aab38857ab9d382c1ce5112ca9ace7cf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "60.4"
+    },
+    "ACH_ITEMS_GET_ALL_PASSIVESLOT": {
+      "name": "Carried Over",
+      "description": "Obtain all Chains of Sorcery",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/f1084e28572d462d51dd561aa53ea957c099a25c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.5"
+    },
+    "ACH_STRENGTHEN_FIRST_USE": {
+      "name": "Latent Power",
+      "description": "Enhance a Spirit for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/f0ce28cd6bfbfda296777e7bacc637f8e69cf53c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.3"
+    },
+    "ACH_PASSIVE_GET_FINAL": {
+      "name": "Rebirth",
+      "description": "Restore power to the lost amulet",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/9892a28c45c25c687b8093d4256fadceb6eb2c11.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1369630/da387813d0497161c62d129ff1e165a997e86b15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}

@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "87.7"
+      "percent": "87.8"
     },
     "ACH_PLACE_100_PRODUCTS": {
       "name": "100 Stocked",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.2"
+      "percent": "81.4"
     },
     "ACH_PLACE_1000_PRODUCTS": {
       "name": "1,000 Stocked",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.2"
+      "percent": "70.3"
     },
     "ACH_PLACE_2000_PRODUCTS": {
       "name": "2,000 Stocked",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.4"
+      "percent": "65.5"
     },
     "ACH_PLACE_3000_PRODUCTS": {
       "name": "3,000 Stocked",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.3"
+      "percent": "60.4"
     },
     "ACH_PLACE_4000_PRODUCTS": {
       "name": "4,000 Stocked",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.2"
+      "percent": "78.1"
     },
     "ACH_PLACE_777_PRODUCTS": {
       "name": "Lucky 777",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/33e0f4d575247e14c86e2ab6b27a36a32e613859.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.7"
+      "percent": "71.8"
     },
     "ACH_WALK_100_METERS": {
       "name": "First Steps",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "56.3"
     },
     "ACH_WALK_1000_METERS": {
       "name": "A Short Stroll",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.2"
+      "percent": "54.3"
     },
     "ACH_WALK_5000_METERS": {
       "name": "Steady Steps",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.4"
+      "percent": "49.7"
     },
     "ACH_WALK_10000_METERS": {
       "name": "Strong Legs",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "45.2"
+      "percent": "44.6"
     },
     "ACH_WALK_20000_METERS": {
       "name": "Long-Haul Shopper",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.6"
+      "percent": "37.1"
     },
     "ACH_WALK_30000_METERS": {
       "name": "Endless Steps",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.8"
+      "percent": "30.4"
     },
     "ACH_WALK_40000_METERS": {
       "name": "Almost a Marathon",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.0"
+      "percent": "24.6"
     },
     "ACH_WALK_42195_METERS": {
       "name": "Marathoner",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.9"
+      "percent": "23.6"
     },
     "ACH_S2_FIRST_PRODUCT_PLACED": {
       "name": "Second Start",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "32.5"
     },
     "ACH_S2_PLACE_100_PRODUCTS": {
       "name": "New Store Ready",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "30.4"
     },
     "ACH_S2_PLACE_777_PRODUCTS": {
       "name": "Lucky Twice",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "27.8"
     },
     "ACH_S2_PLACE_1000_PRODUCTS": {
       "name": "Second Thousand",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "27.3"
     },
     "ACH_S2_PLACE_2000_PRODUCTS": {
       "name": "Stocking Expert",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.6"
+      "percent": "26.1"
     },
     "ACH_S2_PLACE_2627_PRODUCTS": {
       "name": "Really One More",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.0"
+      "percent": "25.4"
     },
     "ACH_S2_PLACE_2628_PRODUCTS": {
       "name": "Second Store Complete",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.8"
+      "percent": "25.3"
     },
     "ACH_S2_CHANGE_SKY_3_TIMES": {
       "name": "My Own Sky",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.2"
+      "percent": "21.7"
     },
     "ACH_S3_FIRST_PRODUCT_PLACED": {
       "name": "Mega Stocking Begins",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.4"
+      "percent": "32.9"
     },
     "ACH_S3_PLACE_100_PRODUCTS": {
       "name": "Just the Beginning",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "30.5"
+      "percent": "30.1"
     },
     "ACH_S3_PLACE_777_PRODUCTS": {
       "name": "Third Time Lucky",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.8"
+      "percent": "27.4"
     },
     "ACH_S3_PLACE_1000_PRODUCTS": {
       "name": "A Thousand Is a Warm-Up",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.3"
+      "percent": "26.8"
     },
     "ACH_S3_PLACE_3000_PRODUCTS": {
       "name": "Endless Stocking",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "23.7"
     },
     "ACH_S3_PLACE_5000_PRODUCTS": {
       "name": "Halfway Point",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.0"
     },
     "ACH_S3_PLACE_7777_PRODUCTS": {
       "name": "Ultra Lucky",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.4"
     },
     "ACH_S3_PLACE_9000_PRODUCTS": {
       "name": "Final Thousand",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.3"
+      "percent": "20.0"
     },
     "ACH_S3_PLACE_9998_PRODUCTS": {
       "name": "One Last Item, Really",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "20.0"
+      "percent": "19.6"
     },
     "ACH_S3_PLACE_9999_PRODUCTS": {
       "name": "Mega Market Complete",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.9"
+      "percent": "19.6"
     },
     "ACH_S3_CARRY_20_ITEMS": {
       "name": "Seriously Too Heavy",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4800590/831acbca022888ea829b4595b7076522abd60e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.9"
+      "percent": "21.5"
     }
   },
   "platform": null,

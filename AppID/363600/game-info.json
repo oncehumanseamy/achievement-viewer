@@ -1,0 +1,460 @@
+{
+  "appid": "363600",
+  "name": "Holy Potatoes! A Weapon Shop?!",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363600/header.jpg?t=1789475246",
+  "achievements": {
+    "ACH_DAGGER_25": {
+      "name": "Et Tu, Brute?",
+      "description": "Forge 25 Daggers",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/be4f8df5221c7382ec30b4760dcefcf241fa96d5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.1"
+    },
+    "ACH_BOW_25": {
+      "name": "You Have My Bow",
+      "description": "Forge 25 Bows",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/98de83bf81e9e1f8be3b6febfb6c0a3e0bbe5e55.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.4"
+    },
+    "ACH_AXE_25": {
+      "name": "And My Axe!",
+      "description": "Forge 25 Axes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/ac96424ccd4c86bf1b8c188124923909cc1c9331.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.4"
+    },
+    "ACH_WAND_25": {
+      "name": "Pew Pew Pew",
+      "description": "Forge 25 Wands",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/a416f9f9c4f65e7c2d7b57332b542c9e149a2cfd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.5"
+    },
+    "ACH_SWORD_25": {
+      "name": "Crush Your Enemies!",
+      "description": "Forge 25 Swords",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/76dc616f9ff407f0e3946b00196965d07853897e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "ACH_PISTOL_25": {
+      "name": "Gunslinger",
+      "description": "Forge 25 Pistols",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/94eddffaae39d68d322e09c9088d182d0d68c9bf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ACH_SPEAR_25": {
+      "name": "Olympian!",
+      "description": "Forge 25 Spears",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/83545098aaacef5b2adebe36b1633ce6abd589af.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "ACH_STAFF_25": {
+      "name": "A Wizard's Best Assistant",
+      "description": "Forge 25 Staffs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/38dfd6acb9b53918e8efa17d9a5b380ba3d1d3e0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "ACH_THROWING_25": {
+      "name": "Home Run Hitter",
+      "description": "Forge 25 Throwing Weapons",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/771386f46521b6c09e6b51b415e9a41575f7be3b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACH_RIFLE_25": {
+      "name": "My Rifles, My Buddy, And Me",
+      "description": "Forge 25 Rifles",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/94ee89fc8a37ecd58b19e700f42939fb56ee3080.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "ACH_CANNON_25": {
+      "name": "Cannons, Away!",
+      "description": "Forge 25 Cannons",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/275a55bf757a1d035904aba7a8b52268ca5e6942.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACH_KATANA_25": {
+      "name": "Not For Killin' ",
+      "description": "Forge 25 Katanas",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/03911041ee2f2e135630731091f383eb359856df.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ACH_DAGGER_50": {
+      "name": "They See Me Stabbin', They Hatin'",
+      "description": "Forge 50 Daggers",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/777b2b0eda74c0181651a81dec6486419cf6b5ca.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "ACH_BOW_50": {
+      "name": "I'm On Seventeen!",
+      "description": "Forge 50 Bows",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/23e3a6689cd4c588c51127b76f31ac4b13784d59.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "ACH_AXE_50": {
+      "name": "Sitting Pretty On Forty-Three",
+      "description": "Forge 50 Axes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/b4cad08105dc1ca441fab609c030389b59242516.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "ACH_WAND_50": {
+      "name": "Wanderful",
+      "description": "Forge 50 Wands",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/73f906a9e8126cf8a6d913d4381bb42f78290e66.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "ACH_SWORD_50": {
+      "name": "Hack And Slash",
+      "description": "Forge 50 Swords",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/4a4b216320bba1ea791da98a4254ba9260a57f99.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACH_PISTOL_50": {
+      "name": "One Shot, One Kill",
+      "description": "Forge 50 Pistols",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/58a7eb3c273738071430ed5a6997cc8711b11a7f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ACH_SPEAR_50": {
+      "name": "Spearrific!",
+      "description": "Forge 50 Spears",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/4473d858a18558ff05b53bf74b4064b6aa7910e9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ACH_STAFF_50": {
+      "name": "Superb Staffcarver",
+      "description": "Forge 50 Staffs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/ae96bef8e219fce992a263ad0cf9d849f0503082.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACH_THROW_50": {
+      "name": "World Series Whacker",
+      "description": "Forge 50 Throwing Weapons",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/cd36fa3a3c2f4cf91bf282600827aa9f47e59d98.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ACH_RIFLE_50": {
+      "name": "Because We Love Our Land",
+      "description": "Forge 50 Rifles",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/bb0ce3806bbc3ddbf23d68406897d2e334979eeb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ACH_CANNON_50": {
+      "name": "Fire Fight",
+      "description": "Forge 50 Cannons",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/476d1e1aada6cafbbfb2d44f3e18f6598d7ace0e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "ACH_KATANA_50": {
+      "name": "For Peace And Love",
+      "description": "Forge 50 Katanas",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/5c48ea7f6080b10889c5b56ee61ef17ad07342cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ACH_LEGENDARY_HERO_90011": {
+      "name": "Fallen Petals",
+      "description": "Complete Claude Strife's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/7a170862b369f647a7e7bd9b1bfc0ff641ea6c8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.2"
+    },
+    "ACH_LEGENDARY_HERO_90012": {
+      "name": "The Heart Reforged",
+      "description": "Complete Hero's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/50afa0781cbeed6a5bc092789ff93ca0311f5cd2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "ACH_LEGENDARY_HERO_90013": {
+      "name": "S.U.C.C.E.S.S.",
+      "description": "Complete David's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/c3dc8f27b771cadb0a5636df8eaf2a8af0a4e242.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ACH_LEGENDARY_HERO_90014": {
+      "name": "I Put On My Sword And Special Belt",
+      "description": "Complete Kamen Tater's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/5780cab8053560f2d1de6c11a4d4f1ac8c57cb4c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.5"
+    },
+    "ACH_LEGENDARY_HERO_90015": {
+      "name": "For Science",
+      "description": "Complete POTaDOS' Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/01b9989f146251cdf72f65726c3f4793670e0489.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "ACH_LEGENDARY_HERO_90016": {
+      "name": "Half-Life 3 Confirmed",
+      "description": "Complete Gordon TrappedMan's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/934596129f29fecb67e093c288a8009cd0bba8b9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.2"
+    },
+    "ACH_LEGENDARY_HERO_90017": {
+      "name": "Open Sesame!",
+      "description": "Complete The Locksmith's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/5ef3a0f0da2d2ea8ab4426df58947f5ad8ab682d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.0"
+    },
+    "ACH_LEGENDARY_HERO_90018": {
+      "name": "Yummy Rum In My Tum",
+      "description": "Complete Johnny Sparrow's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/09b6919125955325ca1324dd4194bf3faf23d79b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "ACH_LEGENDARY_HERO_90019": {
+      "name": "Do You Even Lift, Bro? ",
+      "description": "Complete Kratatoes' Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/815ff580f95d082ac7145a028397208dc49ef61f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.4"
+    },
+    "ACH_LEGENDARY_HERO_90020": {
+      "name": "Defeat Is Not An Option!",
+      "description": "Complete Spudttousai's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/7029d2d3a40094f69da4599437142ff909899882.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    },
+    "ACH_LEGENDARY_HERO_90021": {
+      "name": "I Have No Meowmory Of This Place",
+      "description": "Complete Nyandalf the Grey's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/549a2591620d90a55845078af9237d43f452fb1f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.4"
+    },
+    "ACH_LEGENDARY_HERO_90022": {
+      "name": "Love Wins",
+      "description": "Complete Wolverinnie's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/b8faca825d33d946bfeaf0c2be88c60cc7ba1e0d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "ACH_LEGENDARY_HERO_90023": {
+      "name": "The Spud Who Lived",
+      "description": "Complete Hairy Pota(to)'s Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/8d7740c67680f4c31fa341c946a93224b74667c9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "ACH_LEGENDARY_HERO_90024": {
+      "name": "I Just Want A Good Game",
+      "description": "Complete Blue Boy's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/0f2da669df0762ef741cadb34a0c12dc4c6dd3ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.3"
+    },
+    "ACH_LEGENDARY_HERO_90025": {
+      "name": "She's My What?!",
+      "description": "Complete Luke Spudwalker's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/b5070431074db83b7ddd2d6a626d77544f408f13.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "ACH_LEGENDARY_SMITH_30001": {
+      "name": "The Galaxy Fulfilled",
+      "description": "Hire Okazaki Masamune in your shop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/e4e9231a71a917675063709ed0d09898c89eff25.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.8"
+    },
+    "ACH_LEGENDARY_SMITH_30002": {
+      "name": "Chemicals Now Bubbling",
+      "description": "Hire Heisenberger in your shop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/ab502d5cc062fa3e02814d892fb93f4f7ff89506.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "ACH_LEGENDARY_SMITH_30003": {
+      "name": "Formed S.P.U.D.",
+      "description": "Hire Tony Starch in your shop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/d6ec9c39678eec4619832a1f439764b7bda2a931.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.2"
+    },
+    "ACH_LEGENDARY_SMITH_30004": {
+      "name": "Pigeons Are Love, Pigeons Are Life",
+      "description": "Hire Nikola Taterla in your shop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/291653d5305de70bc28c452b0cc3b6090c24eef8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "ACH_LEGENDARY_SMITH_30005": {
+      "name": "Hired A God!",
+      "description": "Hire Haepharion in your shop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/953c977cb7dd2737a7e98cb18f9245efd8b789be.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "ACH_EXPLORE_2500": {
+      "name": "Dora",
+      "description": "Get 2,500 items from explorations",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/486d0140f9bf9ef2071d41b8767a8cb0b5e4805e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.1"
+    },
+    "ACH_LEGENDARY_HERO_91001": {
+      "name": "A Culinary Evolution",
+      "description": "Complete Poseidadoes's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/e83d43bb5e6ddbe5beeaab08dc4812c3a31c2605.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.1"
+    },
+    "ACH_LEGENDARY_HERO_91002": {
+      "name": "We Need A New Car!",
+      "description": "Complete Julios's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/2f16da0f8fc5ace9473e2c7c5e70d87117a339ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACH_LEGENDARY_HERO_91003": {
+      "name": "The Hercluelean Task",
+      "description": "Complete Herclueless's Request",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/844ee8a382853bb19c45f96cb491c561c135f82d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACH_OBJECTIVE_100004": {
+      "name": "O.W.L.s",
+      "description": "Collect 5 Molted Plumes for Athena",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/c221537c88ca90c58e0f0ee2d11fa68b7cae3e04.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "ACH_OBJECTIVE_100009": {
+      "name": "Mind Games",
+      "description": "Meet Hermes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/f83653768ae833a3fb66a3f137ce2d0cf24e194c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/363600/1e61a35da84496396c89d53b0d00f09c9e39cfae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}

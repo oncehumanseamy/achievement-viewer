@@ -1,0 +1,154 @@
+{
+  "appid": "2127010",
+  "name": "Handyman Legend",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2127010/header.jpg?t=1748937113",
+  "achievements": {
+    "GIRLA_LEWD_LV5": {
+      "name": "The illusion of innocence",
+      "description": "College Girl's horny level reach to level 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/93a3d474abe2bbcfaf7b3b8bea98f2b17726ac60.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "76.7"
+    },
+    "GIRLB_LEWD_LV5": {
+      "name": "Hungry beast",
+      "description": "Office lady's horny level reach to level 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/b5ea5d346a0584b75a2ee6082abdc89ab3bcb07f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.4"
+    },
+    "GIRLC_LEWD_LV5": {
+      "name": "Be my wifuuuu!",
+      "description": "Wife's horny level reach to level 5",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/dc962c96ee10993ae786847b81eb2ba552894fc4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.2"
+    },
+    "GIRLA_FALLEN": {
+      "name": "Secret to get popular",
+      "description": "College Girl has fallen",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/9b76b96691d1645d148f4d7b3b8c813ba3fcf723.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.1"
+    },
+    "GIRLB_FALLEN": {
+      "name": "Unlimited desire",
+      "description": "Office Lady has fallen",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/fda4bab64aff9d52df25b8b97f651b5e4e1c9e62.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "63.4"
+    },
+    "GIRLC_FALLEN": {
+      "name": "Broken vow",
+      "description": "Wife has fallen",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/bb4f5658d2c00044e0239ab20c0f51c644d5b144.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.9"
+    },
+    "SNS_UNLOCKED": {
+      "name": "Dicktok fever",
+      "description": "Unlocked soical media app",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/0d5757662512fa33d8b5e27c64fc0d13c6806e3d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.7"
+    },
+    "CAMERA_SET": {
+      "name": "I see you ~",
+      "description": "Installed spy camera for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/04e878833afab13ce72ea282d2905d6c5a3627c1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "69.7"
+    },
+    "STAND_GET": {
+      "name": "Is this Stan Power??",
+      "description": "Get the working robot",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/fade4a61fe2220172ca208adca833692831c41a4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.7"
+    },
+    "STORE_BUY_ALL": {
+      "name": "I'm so rich",
+      "description": "Bought out the items in the Shop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/59ca921c792ead268f3a3b9acee9e73832ccd083.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "66.8"
+    },
+    "SECRET_STORE_BUY_ALL": {
+      "name": "An insider sudtomer",
+      "description": "Bought out the items in the Mystery Shop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/1328b13772a7d08b34bf79734c5cbfec57bf0242.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.5"
+    },
+    "WOMAN_ENCOUNTER": {
+      "name": "What a free show!",
+      "description": "Encounter a exhinitionist in the park",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/2ff17facd7b3a2e80405d08ecdc23d1ae437d061.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "73.7"
+    },
+    "NO_HORNY": {
+      "name": "No horny!",
+      "description": "Fail in the harassment state",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/678da6902332383eb519f329ed54904bde0562b6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.8"
+    },
+    "GET_OUT_BAR": {
+      "name": "Gonna rate you one star",
+      "description": "Get kicked out by the bartender",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/b25d009eb0366fba9fe101a153b4d4b4bfc8d98f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.1"
+    },
+    "DRINK_WINE_10": {
+      "name": "Heavy Drinker",
+      "description": "Drink 10 times in the bar",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/a7e646327c86b15c0fc1dab7196f674d9d441d17.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.4"
+    },
+    "GAME_OVER": {
+      "name": "You work to hard.",
+      "description": "Ran out of your stamina",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/8dddd831f3bcb90e93a9ed6396118e715e4995c6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "81.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}

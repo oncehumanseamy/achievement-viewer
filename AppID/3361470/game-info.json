@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/c27d4d40d507db8524b53114696c1bffe537e4f8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.3"
+      "percent": "80.4"
     },
     "BRINK_OF_REALITY": {
       "name": "Final Destination",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/c27d4d40d507db8524b53114696c1bffe537e4f8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "82.3"
+      "percent": "82.4"
     },
     "PRESTIGE_5_TIMES": {
       "name": "Sleep Cycles",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3361470/c27d4d40d507db8524b53114696c1bffe537e4f8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "82.0"
     }
   },
   "platform": null,

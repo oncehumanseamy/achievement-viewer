@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "85.4"
+      "percent": "85.5"
     },
     "ACH_04_MainStory": {
       "name": "Sonnenschein nach dem Regen",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "75.6"
+      "percent": "75.7"
     },
     "ACH_08_MainStory": {
       "name": "A Profitable Trade",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "73.4"
+      "percent": "73.5"
     },
     "ACH_09_MainStory": {
       "name": "Saviours of the Sands",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.2"
+      "percent": "69.3"
     },
     "ACH_12_MainStory": {
       "name": "Everlastin' Love",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.7"
+      "percent": "69.8"
     },
     "ACH_14_MainStory": {
       "name": "Dizzy New Heights",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.8"
+      "percent": "65.9"
     },
     "ACH_17_MainStory": {
       "name": "Nyet Positive",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.7"
+      "percent": "61.8"
     },
     "ACH_20_MainStory": {
       "name": "Heavens Above",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.9"
+      "percent": "61.0"
     },
     "ACH_21_MainStory": {
       "name": "Darkest Before the Dawn",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "60.3"
     },
     "ACH_22_MainStory": {
       "name": "Righting the Righteous",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.9"
+      "percent": "56.0"
     },
     "ACH_27_MainStory": {
       "name": "Déjà Vous",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.9"
+      "percent": "46.0"
     },
     "ACH_29_MainStory": {
       "name": "Grand Finale",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.7"
+      "percent": "52.8"
     },
     "ACH_30_MainStory": {
       "name": "Saviours of the Forgotten Past",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/092d416cb1a95fd72e5851925710b2ec6d03f8e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.5"
     },
     "ACH_31_MainStory": {
       "name": "The Future is in Your Hands",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "36.3"
+      "percent": "36.4"
     },
     "ACH_32_MainStory": {
       "name": "Crowning Glory",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "ACH_01_System": {
       "name": "Massively Minted",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/e344fd54f796bd4d259f580baf3e58c12f3b5a1c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.4"
+      "percent": "55.5"
     },
     "ACH_02_System": {
       "name": "Gold Medallist",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/521b972e0f1df70eabad2b6d09bebb4be187cf15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.7"
+      "percent": "73.8"
     },
     "ACH_03_Battle": {
       "name": "Winning Machine",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/b2d76f74732ecd2af1757ff0e652707396063df0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.9"
+      "percent": "60.0"
     },
     "ACH_06_Battle": {
       "name": "Take No Prisoners",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/dac72adf2685e9f4c3450f6e553f0442de32a543.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "ACH_06_MiniGame": {
       "name": "Rampage Revelry",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/e744d920f2be40b63a54b6eeebcdd0ff42af5d8d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.5"
     },
     "ACH_08_MiniGame": {
       "name": "Proficient Paneller",
@@ -487,7 +487,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/7c4ef26344aad730fa00d7352298b1807eac78e4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "22.0"
+      "percent": "22.1"
     },
     "ACH_10_MiniGame": {
       "name": "Platinum Paneller",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/ede7887a3659f8fea0dae84e4f59c74be151ea91.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "67.0"
+      "percent": "67.1"
     },
     "ACH_04_Job": {
       "name": "Top of the Class",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0a5382f55c9592e52943b2076832f0c57f4426a6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "46.6"
     },
     "ACH_06_Job": {
       "name": "The Hustler Grindset",

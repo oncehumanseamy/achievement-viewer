@@ -1,0 +1,937 @@
+{
+  "appid": "1042550",
+  "name": "Digimon Story Cyber Sleuth: Complete Edition",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1042550/header.jpg?t=1785896576",
+  "achievements": {
+    "DIGIMON_ACHIEVE_H_1": {
+      "name": "Back-Alley Hackers",
+      "description": "Hacker's Memory: Reached Yet another side_chapter01.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "34.0"
+    },
+    "DIGIMON_ACHIEVE_H_2": {
+      "name": "Handyman of Hudie",
+      "description": "Hacker's Memory: Reached Yet another side_chapter02.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.5"
+    },
+    "DIGIMON_ACHIEVE_H_3": {
+      "name": "Demonslaying (Zaxon's Request)",
+      "description": "Hacker's Memory: Reached Yet another side_chapter03.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "DIGIMON_ACHIEVE_H_4": {
+      "name": "Net-Dancin' Cowboy",
+      "description": "Hacker's Memory: Reached Yet another side_chapter04.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.9"
+    },
+    "DIGIMON_ACHIEVE_H_5": {
+      "name": "To the Island of Happiness (Yuugo's Request)",
+      "description": "Hacker's Memory: Reached Yet another side_chapter05.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.8"
+    },
+    "DIGIMON_ACHIEVE_H_6": {
+      "name": "Connected Girl",
+      "description": "Hacker's Memory: Reached Yet another side_chapter06.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.5"
+    },
+    "DIGIMON_ACHIEVE_H_7": {
+      "name": "Mask Master",
+      "description": "Hacker's Memory: Reached Yet another side_chapter07.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/ab4591502f4d751e717ed3177ca331ee395ba5cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.8"
+    },
+    "DIGIMON_ACHIEVE_H_8": {
+      "name": "Cyber-Gloom",
+      "description": "Hacker's Memory: Reached Yet another side_chapter08.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "13.3"
+    },
+    "DIGIMON_ACHIEVE_H_9": {
+      "name": "Tumult of Winter",
+      "description": "Hacker's Memory: Reached Yet another side_chapter09.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "DIGIMON_ACHIEVE_H_10": {
+      "name": "Just Below Zero",
+      "description": "Hacker's Memory: Reached Yet another side_chapter10.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "DIGIMON_ACHIEVE_H_11": {
+      "name": "Dimensional Collapse",
+      "description": "Hacker's Memory: Reached Yet another side_chapter11.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/9fda485a6d1359ecb87898008311d0c39df1f8ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "DIGIMON_ACHIEVE_H_12": {
+      "name": "Astray",
+      "description": "Hacker's Memory: Reached Yet another side_chapter12.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.6"
+    },
+    "DIGIMON_ACHIEVE_H_13": {
+      "name": "Butterfly's Long Afternoon",
+      "description": "Hacker's Memory: Reached Yet another side_chapter13.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "DIGIMON_ACHIEVE_H_14": {
+      "name": "Dark Legend",
+      "description": "Hacker's Memory: Reached Yet another side_chapter14.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "DIGIMON_ACHIEVE_H_15": {
+      "name": "Rescue and Return",
+      "description": "Hacker's Memory: Reached Yet another side_chapter15.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.3"
+    },
+    "DIGIMON_ACHIEVE_H_16": {
+      "name": "Vanquished Boy",
+      "description": "Hacker's Memory: Reached Yet another side_chapter16.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.2"
+    },
+    "DIGIMON_ACHIEVE_H_17": {
+      "name": "Even in Arcadia, there am I",
+      "description": "Hacker's Memory: Reached Yet another side_chapter17.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "DIGIMON_ACHIEVE_H_18": {
+      "name": "Our Memories",
+      "description": "Hacker's Memory: Reached Yet another side_chapter18.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "DIGIMON_ACHIEVE_H_19": {
+      "name": "I'm sure we'll meet again.",
+      "description": "Hacker's Memory: Cleared Hacker's Memory main story.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "DIGIMON_ACHIEVE_H_20": {
+      "name": "Vampire Hunter",
+      "description": "Hacker's Memory: Beat back the Vampire King in the depths of the Abyss Server.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.1"
+    },
+    "DIGIMON_ACHIEVE_H_21": {
+      "name": "Memory Fragments",
+      "description": "Hacker's Memory: Accessed a Hacker's Memory for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/9fda485a6d1359ecb87898008311d0c39df1f8ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.9"
+    },
+    "DIGIMON_ACHIEVE_H_22": {
+      "name": "Memory Spinner",
+      "description": "Hacker's Memory: Accessed all memories of Hackers' Memory.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "DIGIMON_ACHIEVE_H_23": {
+      "name": "Vanguard",
+      "description": "Hacker's Memory: Attained maximum hacker rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f38f333a0e6c13f56c0b3e1d60b70d45daa73015.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/8e8c9abb7abc588598b34e3a4be646264bf80683.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "DIGIMON_ACHIEVE_H_24": {
+      "name": "Hacker-of-All-Trades",
+      "description": "Hacker's Memory: Solved 50 BBS cases.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.4"
+    },
+    "DIGIMON_ACHIEVE_H_25": {
+      "name": "Digimon Master",
+      "description": "Hacker's Memory: 300 Digimon registered in the Digimon Field Guide.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "DIGIMON_ACHIEVE_H_26": {
+      "name": "Extreme Medal Collector",
+      "description": "Hacker's Memory: Collected 600 types of Digimon medals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "DIGIMON_ACHIEVE_H_27": {
+      "name": "Infinite Medal Collector",
+      "description": "Hacker's Memory: Collected 700 types of Digimon medals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f38f333a0e6c13f56c0b3e1d60b70d45daa73015.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/8e8c9abb7abc588598b34e3a4be646264bf80683.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "DIGIMON_ACHIEVE_H_28": {
+      "name": "999 Damage!",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.3"
+    },
+    "DIGIMON_ACHIEVE_H_29": {
+      "name": "Ultra-Long Combo",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.5"
+    },
+    "DIGIMON_ACHIEVE_H_30": {
+      "name": "Mr. Navit's Rescue Squad",
+      "description": "Hacker's Memory: Saved all broken Mr. Navits.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "DIGIMON_ACHIEVE_H_31": {
+      "name": "I'm a Champion!",
+      "description": "Hacker's Memory: Defeated PileVolcamon in the offline Colosseum.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "DIGIMON_ACHIEVE_H_32": {
+      "name": "Renowned Tactician",
+      "description": "Hacker's Memory: Cleared five Domination Battles during investigations.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "DIGIMON_ACHIEVE_H_33": {
+      "name": "Dawn of a New Legend",
+      "description": "Hacker's Memory: Digivolved a Susanoomon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "DIGIMON_ACHIEVE_H_34": {
+      "name": "Butterfly's Dream",
+      "description": "Hacker's Memory: Digivolved a Hudiemon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "DIGIMON_ACHIEVE_H_35": {
+      "name": "Twin Chaos",
+      "description": "Hacker's Memory: Digivolved both Chaosmon and Chaosmon VA.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "DIGIMON_ACHIEVE_H_36": {
+      "name": "Cap'n Fashion",
+      "description": "Hacker's Memory: Equipped a Digimon with an accessory for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "DIGIMON_ACHIEVE_H_37": {
+      "name": "Top-Notch Coordinator",
+      "description": "Hacker's Memory: Equipped all three Battle Digimon with accessories.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/9fda485a6d1359ecb87898008311d0c39df1f8ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.3"
+    },
+    "DIGIMON_ACHIEVE_H_38": {
+      "name": "Transformation!",
+      "description": "Hacker's Memory: Changed avatar in online mode for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "DIGIMON_ACHIEVE_H_39": {
+      "name": "Fiend with Twenty Faces",
+      "description": "Hacker's Memory: Bought at least 20 avatars at the Coin Shop.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "DIGIMON_ACHIEVE_H_40": {
+      "name": "By Another Name",
+      "description": "Hacker's Memory: Changed title in online mode for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.5"
+    },
+    "DIGIMON_ACHIEVE_H_41": {
+      "name": "The Ten-Titled One",
+      "description": "Hacker's Memory: Got at least ten titles from online mode.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "DIGIMON_ACHIEVE_H_42": {
+      "name": "Date Time",
+      "description": "Hacker's Memory: Saw a popularity event for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.3"
+    },
+    "DIGIMON_ACHIEVE_H_43": {
+      "name": "Someone Special",
+      "description": "Hacker's Memory: Saw all popularity events with a human character.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/820975e1022cf4de9ddd7dd13939c46dc70f8ce3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f0fe8178bb4f8f1e966e3a0f47921583ab68cf9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "DIGIMON_ACHIEVE_H_44": {
+      "name": "Partner to You Only",
+      "description": "Hacker's Memory: Saw all popularity events with a Digimon character.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "DIGIMON_ACHIEVE_H_45": {
+      "name": "Today's Fill",
+      "description": "Hacker's Memory: Savored every flavor from the Internet cafe's coffee maker.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "DIGIMON_ACHIEVE_C_1": {
+      "name": "Reached Chapter 1",
+      "description": "Cyber Sleuth: It's me, Mr. Navit! You enjoying Digimon Capture? Can't wait to see what you guys get up to!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "68.8"
+    },
+    "DIGIMON_ACHIEVE_C_2": {
+      "name": "Reached Chapter 2",
+      "description": "Cyber Sleuth: Never thought I'd get an assistant like this. And that half-cyber body...heh. Looks like things are about to get interesting.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.7"
+    },
+    "DIGIMON_ACHIEVE_C_3": {
+      "name": "Reached Chapter 3",
+      "description": "Cyber Sleuth: EDEN Syndrome, and that gloomy woman... Your fate as a cyber sleuth has only just begun!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "48.8"
+    },
+    "DIGIMON_ACHIEVE_C_4": {
+      "name": "Reached Chapter 4",
+      "description": "Cyber Sleuth: Why did Agumon and the other Digimon come to EDEN? Better think on it all night long! Not that there's night in EDEN...",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.9"
+    },
+    "DIGIMON_ACHIEVE_C_5": {
+      "name": "Reached Chapter 5",
+      "description": "Cyber Sleuth: Eaters, a \"white ghost boy,\" and now a cyber sleuth? Cool! About time I got in on this party!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.7"
+    },
+    "DIGIMON_ACHIEVE_C_6": {
+      "name": "Reached Chapter 6",
+      "description": "Cyber Sleuth: Kamishiro's pulling the strings behind the hacker revolt? If that's true, I gotta do something as leader of the Zaxons!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.5"
+    },
+    "DIGIMON_ACHIEVE_C_7": {
+      "name": "Reached Chapter 7",
+      "description": "Cyber Sleuth: All things change, and more phenomena are explained every day! Youthful curiosity plays a key role in this, don't you think? Tee-hee...",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "35.9"
+    },
+    "DIGIMON_ACHIEVE_C_8": {
+      "name": "Reached Chapter 8",
+      "description": "Cyber Sleuth: That ugly thing looked like it hasn't given up. Bring it anytime, I'll clean your clock.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/ab4591502f4d751e717ed3177ca331ee395ba5cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "33.0"
+    },
+    "DIGIMON_ACHIEVE_C_9": {
+      "name": "Reached Chapter 9",
+      "description": "Cyber Sleuth: That conceited Arata's proposing infiltration, but these are two separate things! Time for the Rebels!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.7"
+    },
+    "DIGIMON_ACHIEVE_C_10": {
+      "name": "Reached Chapter 10",
+      "description": "Cyber Sleuth: The first victim of EDEN Syndrome...just who is it? Also...that coffee isn't fit for human consumption...",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.8"
+    },
+    "DIGIMON_ACHIEVE_C_11": {
+      "name": "Reached Chapter 11",
+      "description": "Cyber Sleuth: My name is Omegamon. I must convey to you the crisis approaching your world and mine!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/9fda485a6d1359ecb87898008311d0c39df1f8ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "28.0"
+    },
+    "DIGIMON_ACHIEVE_C_12": {
+      "name": "Reached Chapter 12",
+      "description": "Cyber Sleuth: What the?! Just as I think I've saved Yuuko, how come you're the one who's disappeared now!?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.2"
+    },
+    "DIGIMON_ACHIEVE_C_13": {
+      "name": "Reached Chapter 13",
+      "description": "Cyber Sleuth: That Arata... What's he thinking of doing on his own!? Hurry back, Little Kyoko... They're gonna need your help!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.1"
+    },
+    "DIGIMON_ACHIEVE_C_14": {
+      "name": "Reached Chapter 14",
+      "description": "Cyber Sleuth: You found my lil' partner! Not bad! I'll call you again if something comes up! ...Refuse, and I'll arrest you.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "25.2"
+    },
+    "DIGIMON_ACHIEVE_C_15": {
+      "name": "Reached Chapter 15",
+      "description": "Cyber Sleuth: I know you must be worried about Arata Sanada's whereabouts, but there's something you gotta do now. ...Time for a counterattack.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "24.2"
+    },
+    "DIGIMON_ACHIEVE_C_16": {
+      "name": "Reached Chapter 16",
+      "description": "Cyber Sleuth: Me 'n' Veevee are happy to have more allies! ...But wait, what happened to the kid!? That right arm doesn't look good, ya know!?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.7"
+    },
+    "DIGIMON_ACHIEVE_C_17": {
+      "name": "Reached Chapter 17",
+      "description": "Cyber Sleuth: People can't help but laugh at the unsightliness that accompanies change, yes? It's a much better look than succumbing to sadness, though.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.6"
+    },
+    "DIGIMON_ACHIEVE_C_18": {
+      "name": "Reached Chapter 18",
+      "description": "Cyber Sleuth: Before I knew it I was back in Akihabara...but why just me? Does this mean... Did I get revenge for my father?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/ab4591502f4d751e717ed3177ca331ee395ba5cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.3"
+    },
+    "DIGIMON_ACHIEVE_C_19": {
+      "name": "Reached Chapter 19",
+      "description": "Cyber Sleuth: The five of us are childhood friends? Kyoko is a Digimon!? Wasabi, hatcho miso and cream cheese!? Argh, my head!!!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.2"
+    },
+    "DIGIMON_ACHIEVE_C_20": {
+      "name": "Reached Chapter 20",
+      "description": "Cyber Sleuth: Fools. Every last one of you is a total fool. ...Even so, you're my friends. Let's go, our fifth friend is waiting for us.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.8"
+    },
+    "DIGIMON_ACHIEVE_C_21": {
+      "name": "Reached the Ending",
+      "description": "Cyber Sleuth: See you tomorrow!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.6"
+    },
+    "DIGIMON_ACHIEVE_C_22": {
+      "name": "Best Cyber Sleuth",
+      "description": "Cyber Sleuth: Attained maximum sleuth rank.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f38f333a0e6c13f56c0b3e1d60b70d45daa73015.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/8e8c9abb7abc588598b34e3a4be646264bf80683.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "DIGIMON_ACHIEVE_C_23": {
+      "name": "Veteran Investigator",
+      "description": "Cyber Sleuth: Solved 50 cases.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.3"
+    },
+    "DIGIMON_ACHIEVE_C_24": {
+      "name": "Digimon Fan",
+      "description": "Cyber Sleuth: 50 Digimon registered in the Digimon Field Guide.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/9fda485a6d1359ecb87898008311d0c39df1f8ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.3"
+    },
+    "DIGIMON_ACHIEVE_C_25": {
+      "name": "Digimon Researcher",
+      "description": "Cyber Sleuth: 100 Digimon registered in the Digimon Field Guide.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.2"
+    },
+    "DIGIMON_ACHIEVE_C_26": {
+      "name": "Digimon Professor",
+      "description": "Cyber Sleuth: 200 Digimon registered in the Digimon Field Guide.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f0fe8178bb4f8f1e966e3a0f47921583ab68cf9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.9"
+    },
+    "DIGIMON_ACHIEVE_C_27": {
+      "name": "Medal Fan",
+      "description": "Cyber Sleuth: Collected 50 types of Digimon medals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.7"
+    },
+    "DIGIMON_ACHIEVE_C_28": {
+      "name": "Medal Maniac",
+      "description": "Cyber Sleuth: Collected 100 types of Digimon medals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "18.2"
+    },
+    "DIGIMON_ACHIEVE_C_29": {
+      "name": "Third-Rate Medal Collector",
+      "description": "Cyber Sleuth: Collected 200 types of Digimon medals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "DIGIMON_ACHIEVE_C_30": {
+      "name": "Second-Rate Medal Collector",
+      "description": "Cyber Sleuth: Collected 300 types of Digimon medals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/ab4591502f4d751e717ed3177ca331ee395ba5cd.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "DIGIMON_ACHIEVE_C_31": {
+      "name": "First-Rate Medal Collector",
+      "description": "Cyber Sleuth: Collected 400 types of Digimon medals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "DIGIMON_ACHIEVE_C_32": {
+      "name": "Legendary Medal Collector",
+      "description": "Cyber Sleuth: Collected 500 types of Digimon medals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "DIGIMON_ACHIEVE_C_33": {
+      "name": "999 Damage!",
+      "description": "Cyber Sleuth: Dealt 999 damage or more with a single attack.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.5"
+    },
+    "DIGIMON_ACHIEVE_C_34": {
+      "name": "Ultra-Long Combo",
+      "description": "Cyber Sleuth: Landed a combo of three or more attacks.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "53.5"
+    },
+    "DIGIMON_ACHIEVE_C_35": {
+      "name": "Battle Expert",
+      "description": "Cyber Sleuth: Fought in over 500 battles.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.6"
+    },
+    "DIGIMON_ACHIEVE_C_36": {
+      "name": "Battle Iron Man",
+      "description": "Cyber Sleuth: Fought in over 1,000 battles.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "DIGIMON_ACHIEVE_C_37": {
+      "name": "Seasoned Gamer",
+      "description": "Cyber Sleuth: Won the Platinum Cup in the Offline Colosseum.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "DIGIMON_ACHIEVE_C_38": {
+      "name": "Pro Gamer",
+      "description": "Cyber Sleuth: Won the Legendary Cup in the Offline Colosseum.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "DIGIMON_ACHIEVE_C_39": {
+      "name": "Master Gamer",
+      "description": "Cyber Sleuth: Won the Masters Cup in the Offline Colosseum.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "DIGIMON_ACHIEVE_C_40": {
+      "name": "Good Friend",
+      "description": "Cyber Sleuth: Maximized CAM of a single Digimon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/9fda485a6d1359ecb87898008311d0c39df1f8ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "50.7"
+    },
+    "DIGIMON_ACHIEVE_C_41": {
+      "name": "Best Friend",
+      "description": "Cyber Sleuth: Maximized CAM of 30 Digimon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "DIGIMON_ACHIEVE_C_42": {
+      "name": "Top Talent",
+      "description": "Cyber Sleuth: Maximized ABI of a single Digimon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.8"
+    },
+    "DIGIMON_ACHIEVE_C_43": {
+      "name": "Digimon Idol",
+      "description": "Cyber Sleuth: Maximized ABI of 10 Digimon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "DIGIMON_ACHIEVE_C_44": {
+      "name": "Level 99!",
+      "description": "Cyber Sleuth: Raised a single Digimon to the maximum level (level 99).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.5"
+    },
+    "DIGIMON_ACHIEVE_C_45": {
+      "name": "Big-Shot Breeder",
+      "description": "Cyber Sleuth: Digivolved 30 Digimon to Ultimate.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.7"
+    },
+    "DIGIMON_ACHIEVE_C_46": {
+      "name": "Top-Notch Breeder",
+      "description": "Cyber Sleuth: Digivolved 30 Digimon to Mega.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f0fe8178bb4f8f1e966e3a0f47921583ab68cf9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "19.0"
+    },
+    "DIGIMON_ACHIEVE_C_47": {
+      "name": "Millionaire",
+      "description": "Cyber Sleuth: Acquired over one million yen.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "19.7"
+    },
+    "DIGIMON_ACHIEVE_C_48": {
+      "name": "Land Baron",
+      "description": "Cyber Sleuth: Got five islands on your DigiFarm.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "DIGIMON_ACHIEVE_C_49": {
+      "name": "One-Star Rating",
+      "description": "Cyber Sleuth: Raised the rank of a Farm Island to maximum.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.8"
+    },
+    "DIGIMON_ACHIEVE_C_50": {
+      "name": "Five-Star Rating",
+      "description": "Cyber Sleuth: Raised the rank of all Farm Islands to maximum.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "DIGIMON_ACHIEVE_C_51": {
+      "name": "Full House",
+      "description": "Cyber Sleuth: Filled one Farm Island with Digimon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.0"
+    },
+    "DIGIMON_ACHIEVE_C_52": {
+      "name": "Standing Room Only",
+      "description": "Cyber Sleuth: Filled all Farm Islands with Digimon.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.1"
+    },
+    "DIGIMON_ACHIEVE_C_53": {
+      "name": "Digi-Wrangler",
+      "description": "Cyber Sleuth: Fed Digimon 100 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.2"
+    },
+    "DIGIMON_ACHIEVE_C_54": {
+      "name": "Dependable Replier",
+      "description": "Cyber Sleuth: Replied to 30 DigiLine messages.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.2"
+    },
+    "DIGIMON_ACHIEVE_C_55": {
+      "name": "Quiz Master",
+      "description": "Cyber Sleuth: Answered 20 DigiLine quiz questions correctly.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/f5e8f709f37405cfdfc17a9f06cbb953651ccd21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.7"
+    },
+    "DIGIMON_ACHIEVE_C_56": {
+      "name": "Battle Master",
+      "description": "Cyber Sleuth: Achieved 30 victories in Colosseum battles.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/4d8a17a9cccee3d63ac950483f59cdb2a9ce525f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "DIGIMON_ACHIEVE_H_46": {
+      "name": "Perfect Hacker",
+      "description": "Hacker's Memory: Acquired all achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/43425777c4f3da0eab7d119ed29fbddd49fe5ccd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/9ecaa336f66397dd1f4502173de7d26d0428abdd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "DIGIMON_ACHIEVE_C_57": {
+      "name": "Perfect Sleuth",
+      "description": "Cyber Sleuth: Acquired all achievements.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/43425777c4f3da0eab7d119ed29fbddd49fe5ccd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/9ecaa336f66397dd1f4502173de7d26d0428abdd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": true
+}
