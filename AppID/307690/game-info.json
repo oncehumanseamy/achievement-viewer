@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/2cbdb92e37570fcda335d362d99566eee7cce9ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "ACHIEVEMENT_04": {
       "name": "Big Smiles All Around",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/c41740973ec4c78d60ca7e801379c7bec3b86967.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.8"
+      "percent": "49.7"
     },
     "ACHIEVEMENT_06": {
       "name": "Gaining Face",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/abd33ffe2839346768de63789d5282b330e86827.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.7"
+      "percent": "29.6"
     },
     "ACHIEVEMENT_07": {
       "name": "Great Face",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/1fe67f301da4fcedc0d5922e47ec6a5508c009c8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.0"
     },
     "ACHIEVEMENT_12": {
       "name": "Man Around Town",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/e6d7680c136401db6bdaecd04d91c013e4c92d74.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.0"
     },
     "ACHIEVEMENT_16": {
       "name": "Safe Driver",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/f584e54e4df11be2c89b5d9bcd3b4b0a5c07ac08.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.0"
     },
     "ACHIEVEMENT_34": {
       "name": "Bounty Hunter",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/5a262ac8529e85e2eeb521a3424b2a8ff6ae0788.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "ACHIEVEMENT_38": {
       "name": "Spiritual Healing",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/dfdda50038768d8a8cab5a344a78dd787145b93a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.3"
+      "percent": "49.2"
     },
     "ACHIEVEMENT_41": {
       "name": "Substantial Silver",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/ff84e870d48fffb34e536c1de4cd8d71b9c28416.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.5"
     },
     "ACHIEVEMENT_45": {
       "name": "Golden Touch",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/2a69e6a90f9a4227036260a8d78bdcdd255f110c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.4"
+      "percent": "34.3"
     },
     "ACHIEVEMENT_49": {
       "name": "Detective",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/0da2d446afc5a753a8239b60947dd058c5242ffa.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.4"
+      "percent": "18.3"
     },
     "ACHIEVEMENT_50": {
       "name": "Chief Inspector",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/1dfc7be28c71949dcd99316283eb2ecc6f29bfe3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.3"
     },
     "ACHIEVEMENT_52": {
       "name": "I Can Haz Banishment",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/b7686bce47bfd96853e6d4d4a723bbd17dcb05df.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.8"
+      "percent": "15.7"
     },
     "ACHIEVEMENT_57": {
       "name": "Cult Master",

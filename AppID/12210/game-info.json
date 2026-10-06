@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/3cf9bfd3542c40e8beaee532cb17a638494c078d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.6"
     },
     "KEYMISSION1": {
       "name": "Lowest Point",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/471de4bf9da7159480c39118a9a950dcfc475736.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "KEYMISSION2": {
       "name": "Impossible Trinity",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/e527d43bc43da8cd90fac4a3283728b04790fc8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.4"
+      "percent": "21.5"
     },
     "TURKEY": {
       "name": "Gobble Gobble",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/d460952859934dc9bc93f31e9cd93baf2c1e7488.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.7"
     },
     "HALFMILLION": {
       "name": "Half Million",

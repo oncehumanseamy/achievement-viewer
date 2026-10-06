@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/785b231faa4b79c1e4723d4bd1c902a88747d25f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.1"
+      "percent": "79.0"
     },
     "ACH21": {
       "name": "Angerring/Devirring Exterminator 2",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/805d5cc9e540f725c3a748aa39e86d6356b7faca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.5"
+      "percent": "76.4"
     },
     "ACH22": {
       "name": "Angerring/Devirring Exterminator 3",
@@ -856,7 +856,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/e07ec7f80246c69eac46f4b4b67ff06945e00678.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.8"
+      "percent": "54.7"
     },
     "ACH96": {
       "name": "Health Junky",
@@ -910,7 +910,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/f918ce97feb3b206d06d405c8d5f28c372a09719.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "ACH102": {
       "name": "Nameless Hero's Divinity",
@@ -919,7 +919,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/b22a6dd604995ea05575c3173e53c4f80c24ebcb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.8"
+      "percent": "43.7"
     },
     "ACH103": {
       "name": "Great Beauty's Divinity",
@@ -982,7 +982,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/83d393ad68dfd5b8cf9613ebf4242abca12bdba0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.5"
+      "percent": "31.4"
     },
     "ACH110": {
       "name": "Miss Shirker's Divinity",
@@ -1072,7 +1072,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1737340/90c562170a30848139e79b698a493b0821cfbb0e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "ACH120": {
       "name": "Enter Through the Exit",

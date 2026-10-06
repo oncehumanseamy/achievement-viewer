@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/81dae186a20805fc86fda2f28434518a471e2df5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.4"
     },
     "feat6": {
       "name": "Pathfinder",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/36019d3bfdbd92ba6999e934311561c4046e8801.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.5"
+      "percent": "48.4"
     },
     "feat7": {
       "name": "Ice Breaker",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/d9d18bc491667d5a27431ce0b6bf62e06496345b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.6"
+      "percent": "68.5"
     },
     "feat30": {
       "name": "Expansionist",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/f507035eda87c2b4f99209b5898c85e3c263c165.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.7"
+      "percent": "74.6"
     },
     "feat36": {
       "name": "Big Hoarder",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/0169cc66554694858f2c0a6b6b53345e2e90767a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.4"
     },
     "feat37": {
       "name": "Irrigator",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/b9915a80b5cfa774d2309a335e3c7ec4ddfa89f7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.0"
     },
     "feat43": {
       "name": "Treasure Hunter",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/df32b2c4c71141dc74eeac802c5bfc8fcf3c8b46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.5"
+      "percent": "55.4"
     },
     "feat48": {
       "name": "Waterproof",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/deb860c78eb472d6fb5126bbc3ad5eb06afda444.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.3"
+      "percent": "32.2"
     },
     "feat50": {
       "name": "Enlightened",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/b866304d64323f1bac7eeaa4bae71ec24fdf5b2d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.0"
+      "percent": "38.9"
     },
     "feat64": {
       "name": "Ghost Helper",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/d23b2975854cc29cca83508f5d333766cd0228d6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "feat65": {
       "name": "Old People Helper",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/045fd28c474892adaecc3fdf2d7977554d242154.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.9"
+      "percent": "25.8"
     },
     "feat70": {
       "name": "Master Farmer",
@@ -694,7 +694,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/528c5210feb1717e27e0b56df6218a8352f7eedf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.8"
+      "percent": "29.7"
     },
     "feat77": {
       "name": "Imperialist",
@@ -730,7 +730,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/da51957d0a08460b236f7154d98b3fd56c72a5f1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.0"
     },
     "feat81": {
       "name": "Seal Collector",

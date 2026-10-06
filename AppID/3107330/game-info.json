@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.9"
+      "percent": "84.8"
     },
     "MILESTONES": {
       "name": "Milestones",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.0"
+      "percent": "88.9"
     },
     "BITS_100K": {
       "name": "Bit Getter",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.9"
+      "percent": "76.8"
     },
     "NODES_1K": {
       "name": "Node Hunter",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.9"
+      "percent": "79.8"
     },
     "SP_25": {
       "name": "SP Seeker",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3107330/bec67e4671c8b23817746df2abe684f143f6c8a4.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "75.5"
+      "percent": "75.4"
     }
   },
   "platform": null,

@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/15fdab54551a91d8571d8aefb3b9505177278869.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "76.3"
+      "percent": "76.4"
     },
     "Survive15MinutesInMolise": {
       "name": "Skip 1",
@@ -649,7 +649,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/3321af1fc283f5fb431a1f702ace3a88639c9d6f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.4"
+      "percent": "37.5"
     },
     "See70Items": {
       "name": "Banish 2",
@@ -1648,7 +1648,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/443dd77bb15e912c0b4b2047cf415ff1f356f59a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "FOSC21_DefeatBossAbyss": {
       "name": "Hyper Abyss Foscari",
@@ -1882,7 +1882,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/8c2e03453415d21be5046558d3cf82034707e63e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.6"
     },
     "HitManyEnemiesWithTrain": {
       "name": "EXTRA: Carlo Cart",

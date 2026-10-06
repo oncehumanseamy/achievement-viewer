@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "83.6"
+      "percent": "83.5"
     },
     "MAIN_STORY_3": {
       "name": "Time Marches On",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.8"
+      "percent": "77.7"
     },
     "MAIN_STORY_4": {
       "name": "Down and Out",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.1"
+      "percent": "74.0"
     },
     "MAIN_STORY_5": {
       "name": "Misgivings",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.5"
+      "percent": "70.4"
     },
     "MAIN_STORY_6": {
       "name": "Hiding in Plain Sight",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.5"
+      "percent": "65.4"
     },
     "MAIN_STORY_7": {
       "name": "Separate Ways",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.9"
+      "percent": "63.8"
     },
     "MAIN_STORY_8": {
       "name": "Layered Lies",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "61.2"
+      "percent": "61.1"
     },
     "MAIN_STORY_9": {
       "name": "Found and Lost",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.6"
+      "percent": "57.5"
     },
     "MAIN_STORY_12": {
       "name": "Holding the Line",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.0"
+      "percent": "53.9"
     },
     "MAIN_STORY_CLEAR": {
       "name": "The Man Who Regained His Name",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.2"
+      "percent": "62.1"
     },
     "SUBSTORY_C": {
       "name": "Living Your Best Life",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.2"
+      "percent": "46.1"
     },
     "KIZUNA_SAEKO": {
       "name": "Missing Words",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.7"
+      "percent": "50.6"
     },
     "KIZUNA_HAN": {
       "name": "Breaking Free",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.6"
+      "percent": "30.5"
     },
     "KIZUNA_CHOU": {
       "name": "Starting Fresh",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.3"
     },
     "KIZUNA_SONHI": {
       "name": "Commanding Respect",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.9"
+      "percent": "81.8"
     },
     "KASUGA_LEVEL_B": {
       "name": "Resolute Dragon",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.6"
+      "percent": "65.5"
     },
     "KASUGA_LEVEL_C": {
       "name": "Apex Dragon",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "57.8"
     },
     "ENDING_MEMORY_B": {
       "name": "Abundant Memories",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.7"
     },
     "KIRYU_LEVEL_A": {
       "name": "Funk Goes On",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.2"
+      "percent": "57.1"
     },
     "JOB_MASTER_A": {
       "name": "Side Hustle",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.6"
+      "percent": "60.5"
     },
     "JOB_MASTER_C": {
       "name": "Ultimate Hustle",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.3"
     },
     "DELIHELP_A": {
       "name": "Pound for Pound",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.1"
     },
     "BUKI_ROMAN_SEISAKUJO": {
       "name": "Investing in the Future",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.8"
+      "percent": "57.7"
     },
     "SUJIMON_A": {
       "name": "Sujimaniac",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.8"
+      "percent": "62.7"
     },
     "SUJIMON_B": {
       "name": "Sujimon Sensei",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.1"
+      "percent": "35.0"
     },
     "SUJIMON_GET": {
       "name": "Sujimon Snag 'Em",
@@ -451,7 +451,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "54.6"
+      "percent": "54.5"
     },
     "SUJIMON_LEVEL_MAX": {
       "name": "Prize Fighter",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "RESORT_GUEST": {
       "name": "Island Hospitality",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.6"
     },
     "PLAY_ALL_SPOT": {
       "name": "Having Fun Yet?",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.7"
     },
     "DELIVERY_CLEAR": {
       "name": "30 Mins or It's Free",
@@ -559,7 +559,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.7"
+      "percent": "68.6"
     },
     "MATCHINGAPP_A": {
       "name": "Don't Hate the Player",
@@ -577,7 +577,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "70.7"
+      "percent": "70.6"
     },
     "RAINBOW": {
       "name": "Somewhere Over the Rainbow",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2072450/a5d9e184064d56c6afa78a8beccbfe3f9ffdda1b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.4"
     },
     "PNEW_GAME_COME_BACK": {
       "name": "The Hero Returns",
