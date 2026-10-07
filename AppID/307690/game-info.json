@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/02af4bc8cc1e493a29862bd0990b2dac1de87c6b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "42.9"
     },
     "ACHIEVEMENT_09": {
       "name": "Stuntman",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/dc46bb0a12657aacd4b07f024d3a69e6a497080d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.0"
     },
     "ACHIEVEMENT_19": {
       "name": "Tourist",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/317b6f8d6b415236a0a3f120ba8543facf8bc3ac.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.1"
     },
     "ACHIEVEMENT_39": {
       "name": "Auto Enthusiast",

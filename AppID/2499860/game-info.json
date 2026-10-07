@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "89.3"
+      "percent": "89.4"
     },
     "ACH_03_MainStory": {
       "name": "A Well-Earned Brew",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/6aa9fd577732bdafd007ea58a5674260cd061266.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.0"
+      "percent": "50.1"
     },
     "ACH_08_Battle": {
       "name": "Metal Mangler",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/3de04062aefa7822c45198b7fd48a3768732927f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "60.3"
     },
     "ACH_05_Job": {
       "name": "Master of All",

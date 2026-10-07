@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/841e477f039e3de035a9753ea250175c4d4244dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.3"
+      "percent": "77.2"
     },
     "copper": {
       "name": "Copper!",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/4a4b217c83f5c8af80d765c30a607d018c56fd90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.9"
+      "percent": "77.8"
     },
     "beamDynamitePlazma": {
       "name": "Beams, explosions and balls!",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/690c4266a1d6362dbc6c3518ed12f8c2656d3e01.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "89.7"
+      "percent": "89.6"
     },
     "allSkillTree": {
       "name": "Everything purchased!",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/5d0f836c97d87d868a2532224f404dff02cc6cad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.6"
+      "percent": "70.5"
     },
     "artifact": {
       "name": "Hidden inside a rock!",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/6a762aa733651b0ee4637aa33172a1576d7b4d0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "93.4"
+      "percent": "93.3"
     },
     "artifactALL": {
       "name": "Master Archaeologist",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/6a762aa733651b0ee4637aa33172a1576d7b4d0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.7"
+      "percent": "81.6"
     },
     "bars100": {
       "name": "Craft!",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/eacce61a4b54a7f0466abddf68f19c94370b174a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "80.1"
+      "percent": "80.0"
     },
     "beatGame": {
       "name": "Beat the game.",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/448180e40e2514da4a4b190095ecfdb382544890.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "74.3"
+      "percent": "74.2"
     },
     "equipDiamondPickaxe": {
       "name": "The diamond pickaxe.",

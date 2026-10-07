@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.4"
     },
     "DIGIMON_ACHIEVE_H_3": {
       "name": "Demonslaying (Zaxon's Request)",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/ab4591502f4d751e717ed3177ca331ee395ba5cd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "DIGIMON_ACHIEVE_C_9": {
       "name": "Reached Chapter 9",
@@ -829,7 +829,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.7"
     },
     "DIGIMON_ACHIEVE_C_48": {
       "name": "Land Baron",

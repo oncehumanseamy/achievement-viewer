@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.4"
+      "percent": "63.3"
     },
     "GIRLC_FALLEN": {
       "name": "Broken vow",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2127010/4e79ac6d866028ab3dd9ebdd6f49cb9a736970b5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.2"
+      "percent": "81.3"
     }
   },
   "platform": null,

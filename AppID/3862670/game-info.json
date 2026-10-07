@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/fed820cf5df78658be1fe61255f54d6a5b44955f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "99.1"
+      "percent": "99.2"
     },
     "ACH_DEPTH_02": {
       "name": "400m Depth",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/f7bddb988ead44fc03c7cf60d33f362a2ac5a513.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.8"
+      "percent": "71.7"
     },
     "ACH_SHELLS_01": {
       "name": "First 1M",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/6db22722da25fca21ffb455f6a83115c5e489883.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "75.0"
+      "percent": "74.9"
     },
     "ACH_SHELLS_03": {
       "name": "First 1T",

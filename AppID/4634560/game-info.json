@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/7312170dbd625e0b72c00c423eda6be1c83f244d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.0"
+      "percent": "76.9"
     },
     "ACH_FIRST_DARK_SHOP_PURCHASE": {
       "name": "Dark Deal",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/76968ce5547121bae25e399b59b8b94e6e000e09.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.8"
+      "percent": "69.7"
     },
     "ACH_MONEY_1M": {
       "name": "Millionaire",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/887473e06626d3a87f6117e2f92af07999f526f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.5"
+      "percent": "64.4"
     }
   },
   "platform": null,

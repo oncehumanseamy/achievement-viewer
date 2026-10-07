@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/84da9ce2ef23d7c970d9d185075c92b379387840.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.7"
+      "percent": "28.6"
     },
     "feat23": {
       "name": "Robotic",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/2b89e8bf119071e0df94bc81aa800e9cea7f9d4f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.5"
+      "percent": "70.4"
     },
     "feat32": {
       "name": "Jealous",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/976a413aad3982919821c80a2afecacbd371d2b8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "56.3"
+      "percent": "56.2"
     },
     "feat45": {
       "name": "Artisan",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/04750487986c985a71657c83509df7cea432a5ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "41.2"
+      "percent": "41.1"
     },
     "feat52": {
       "name": "Acrobat",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/fc1449fc538e020db94669312a8d9cad845ec83c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "51.2"
     },
     "feat53": {
       "name": "Daredevil",
@@ -496,7 +496,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/1f549c2e427a59d403963142e16d29ad71825b31.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.9"
+      "percent": "49.8"
     },
     "feat55": {
       "name": "Bug Catcher",
@@ -748,7 +748,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/751780/4d4c662ac8b44b1536ab9c6cdda12079ba7f0b15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.1"
     },
     "feat83": {
       "name": "Completionist",
