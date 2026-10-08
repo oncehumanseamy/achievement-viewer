@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/fed820cf5df78658be1fe61255f54d6a5b44955f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "99.2"
+      "percent": "99.1"
     },
     "ACH_DEPTH_02": {
       "name": "400m Depth",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/f8bd0c07c46f69148a7165ec87ebcef458c9eb9d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.4"
+      "percent": "78.3"
     },
     "ACH_DEPTH_04": {
       "name": "1000m Depth",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/79490df38f87d9b175b426ec79c154a11a2094e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.0"
+      "percent": "70.9"
     },
     "ACH_ALL_ACHIEVEMENTS": {
       "name": "Cleared Island",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/c153c3f7d8ace5eda282dccfdb355b5b34a5b34d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.2"
+      "percent": "68.1"
     }
   },
   "platform": null,

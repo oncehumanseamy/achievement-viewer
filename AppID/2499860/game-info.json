@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "89.4"
+      "percent": "89.3"
     },
     "ACH_03_MainStory": {
       "name": "A Well-Earned Brew",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.9"
+      "percent": "55.8"
     },
     "ACH_27_MainStory": {
       "name": "Déjà Vous",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/092d416cb1a95fd72e5851925710b2ec6d03f8e6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.4"
+      "percent": "52.3"
     },
     "ACH_31_MainStory": {
       "name": "The Future is in Your Hands",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/6aa9fd577732bdafd007ea58a5674260cd061266.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "50.0"
     },
     "ACH_08_Battle": {
       "name": "Metal Mangler",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/3de04062aefa7822c45198b7fd48a3768732927f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.3"
+      "percent": "60.2"
     },
     "ACH_05_Job": {
       "name": "Master of All",
