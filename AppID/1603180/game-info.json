@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/5b3d04b9a2b8c393f85e0e3a3fd93cecb6cf3369.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.5"
+      "percent": "65.6"
     },
     "ACH_100K": {
       "name": "Ballin'",
@@ -613,7 +613,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/668789aa7b76619522e8cc87d90cb913a7394e00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "39.9"
+      "percent": "39.8"
     },
     "ACH_WORM": {
       "name": "Worm",

@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/2acb539b985dfe9fa5f28a674e058e59eb36ede5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.1"
+      "percent": "69.0"
     },
     "ACH_REST": {
       "name": "Hammock Sleep",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/ffafbfa735e9fa009f9fd89828efd63c4752c57b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.0"
+      "percent": "68.9"
     },
     "ACH_DEPTH_01": {
       "name": "100m Depth",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/6beb9f0fc24265f7ce394cf7da0e5dc927ba664d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.6"
+      "percent": "84.5"
     },
     "ACH_DEPTH_03": {
       "name": "700m Depth",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/d9577b620e6539fc59af396ad96d93f709a69b3b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.6"
+      "percent": "73.5"
     },
     "ACH_WAVE": {
       "name": "Make a Friend!",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/63404b5395c2c038dd85c6ecf4938ebd70213af6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.3"
+      "percent": "78.2"
     },
     "ACH_RAINBOW": {
       "name": "Ultra Special Rainbow Jellyfish",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/f7bddb988ead44fc03c7cf60d33f362a2ac5a513.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.7"
+      "percent": "71.6"
     },
     "ACH_SHELLS_01": {
       "name": "First 1M",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/d5563e07e1f284df2ca5207071d275315b0c222f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.5"
+      "percent": "79.4"
     },
     "ACH_SHELLS_02": {
       "name": "First 1B",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/e25e4303cbd5c95c0a85e003f32424df1718d7f5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.5"
+      "percent": "72.4"
     },
     "ACH_SHELLS_04": {
       "name": "First 1Q",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/79490df38f87d9b175b426ec79c154a11a2094e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.9"
+      "percent": "70.8"
     },
     "ACH_ALL_ACHIEVEMENTS": {
       "name": "Cleared Island",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/c153c3f7d8ace5eda282dccfdb355b5b34a5b34d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.1"
+      "percent": "68.0"
     }
   },
   "platform": null,

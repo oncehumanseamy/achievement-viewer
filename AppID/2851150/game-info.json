@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/eba4a36afcd0c96b5fb64679b423febd0c8188e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.2"
+      "percent": "47.1"
     },
     "ACH_CIVILIZED_WORLD": {
       "name": "Civilized World",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/82d6c6d4b66543d427b509d61dcae04b04326888.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.6"
     },
     "ACH_RISE_AND_SHINE_OF_THE_PHOENIX": {
       "name": "Rise (and Shine) of the Phoenix",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/0692dcffb4e4239cb7e9bd3a3699ed0c8b61d669.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.1"
     },
     "ACH_GOLD_MEDAL_CHAMP": {
       "name": "Gold Medal Champ",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/448da30b9135e29054bd228e09fed37ff4687b25.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "18.0"
+      "percent": "17.9"
     },
     "ACH_SHRED_THREADS": {
       "name": "Shred Threads",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/50309982f8fac4a8f042e403695687005d2e6dc2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.0"
+      "percent": "22.9"
     },
     "ACH_MATH_LESSONS": {
       "name": "Math Lessons",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/7ce83e19b520f50f89272d86cfb11cba0e0381bf.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.4"
     },
     "ACH_CAPTURE_WATER_PIG": {
       "name": "Capture the Water Pig",

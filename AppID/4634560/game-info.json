@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/6c92127eb51e85de043a85407b1c9f2b460c9813.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.2"
+      "percent": "63.1"
     },
     "ACH_ENTER_GAME_WITH_ROBOT": {
       "name": "Robot Deployed",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/06a9b59ee17180a8f6bd1d18a4977f3df74ca800.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.4"
+      "percent": "71.3"
     },
     "ACH_ENTER_GAME_WITH_FAN": {
       "name": "Fan Deployed",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4634560/887473e06626d3a87f6117e2f92af07999f526f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.4"
+      "percent": "64.3"
     }
   },
   "platform": null,

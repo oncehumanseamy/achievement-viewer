@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/dc62b908d0d41e8c6313b3b4b8a66c48774afd13.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "ACH_009": {
       "name": "Hand in Hand",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/1ea851c35fe1c0abcc3caf1f0db4e90048dfd7a1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "ACH_047": {
       "name": "Nickname Collector",

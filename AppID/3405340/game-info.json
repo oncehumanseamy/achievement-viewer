@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/9196cfd7258d16c839f10dffcf840eb3ffc0e764.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "a_key": {
       "name": "Key",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/e623801917741d2ad8320cd253738ca89e6f3f53.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "94.3"
+      "percent": "94.4"
     },
     "a_turboSocks": {
       "name": "Turbo Socks",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/61484582f89fe4300bcca7ee57f1a249b57d14e2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "66.1"
+      "percent": "66.2"
     },
     "a_demonicBlade": {
       "name": "Demonic Blade",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/71f5657cc162610037fbb9e71c381bfc95145030.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.2"
+      "percent": "85.3"
     },
     "a_kevin": {
       "name": "Kevin",
@@ -568,7 +568,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/1a695916a94ab983284e0dd0aac92da148aa8866.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.6"
+      "percent": "86.7"
     },
     "a_chaosTome": {
       "name": "Chaos Tome",
@@ -631,7 +631,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/03cb71ab143831c05b532e170ff0ccc24a42448b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.6"
+      "percent": "86.7"
     },
     "a_aegis": {
       "name": "Aegis",
@@ -748,7 +748,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3405340/8cfabd885c7fa9a0b434fa5fa7f2ff13a134f152.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.4"
+      "percent": "57.5"
     },
     "a_mines": {
       "name": "Mines",
