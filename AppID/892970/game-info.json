@@ -1,7 +1,7 @@
 {
   "appid": "892970",
   "name": "Valheim",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1790220314",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1791544831",
   "achievements": {
     "BuildHigh": {
       "name": "Mighty Halls",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/f7e675a9150b884ac85687f6d83eb70fce4ac415.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "Arrived": {
       "name": "I Have Arrived!",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "13.4"
+      "percent": "13.5"
     },
     "Boss1Eikthyr": {
       "name": "Eikthyr",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/8e46b6e1784e128370410d2bb920acba490bbeb5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.3"
+      "percent": "4.4"
     },
     "Boss4Moder": {
       "name": "Moder",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/8ac8b88dcd286595b72aa0c28546d74fcbb79516.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.3"
+      "percent": "2.4"
     },
     "GrindForager": {
       "name": "The Forager",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.9"
+      "percent": "11.0"
     },
     "BuildVillage": {
       "name": "The Architect",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "GrindComfort": {
       "name": "Comfort is King",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/8ac8b88dcd286595b72aa0c28546d74fcbb79516.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "3.0"
     },
     "GrindFish": {
       "name": "The Fisherman",
@@ -433,7 +433,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "SoloBoss": {
       "name": "Lone Wolf",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/892970/7bca03728b35215c129a5781533982a7b5aca81e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "BigFish": {
       "name": "A Catch Worthy of Njord",

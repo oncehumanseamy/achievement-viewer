@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/a0a1b5b97f41533c6db216523d5ef1c6fc7feb0d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.0"
+      "percent": "9.9"
     },
     "DEFEAT_ONATSU": {
       "name": "Silver Ravens: Onatsu",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/0476093acae8ad3411412a9493ecaab5ad25f6d6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "DEFEAT_OKASHIRA": {
       "name": "Chief Amatsu",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/b5aa2bb6fe6829a3da07bdb21096bac9dbbb635d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "LEARN_STEAL_ALL": {
       "name": "Master of Theft",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/7632589c7ed242c4a6eced81d3c4e9013ad823a9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.4"
+      "percent": "22.3"
     },
     "UNLOCKING_GIZOKU": {
       "name": "Silver Hands",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/f5d22b262dabb2f738f73520b5c899235caa2878.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.1"
+      "percent": "15.2"
     },
     "UNLOCKING_OODOROBO": {
       "name": "Golden Hands",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1924810/30d583a7df71cb0a996ba84a1210e325b90ab36d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.5"
+      "percent": "16.6"
     },
     "GET_STOIC_LICENSE": {
       "name": "Stoic Thief",
