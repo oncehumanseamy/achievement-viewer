@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/dc62b908d0d41e8c6313b3b4b8a66c48774afd13.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "ACH_009": {
       "name": "Hand in Hand",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/d64af78ccbb1a37108ca04cadceb49e49e6a399d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "ACH_017": {
       "name": "Gaming God",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/e769f119bb8e25801e54d006b020bfe27b2ded36.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.4"
+      "percent": "3.3"
     },
     "ACH_040": {
       "name": "Now I'm Unstrippable!",
@@ -415,7 +415,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/1ea851c35fe1c0abcc3caf1f0db4e90048dfd7a1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "10.6"
+      "percent": "10.5"
     },
     "ACH_047": {
       "name": "Nickname Collector",
@@ -442,7 +442,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/47816c86ad99b13f5c01d08093ba99d50673b016.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.1"
     },
     "ACH_050": {
       "name": "Leave Junk PCs to Me!",

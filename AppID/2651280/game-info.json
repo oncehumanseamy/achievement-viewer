@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2651280/2d9365d2850b3aebaef28d4ef5883efee78137e9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "91.1"
+      "percent": "91.2"
     },
     "PlatinumTrophy": {
       "name": "Dedicated",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2651280/86bab425f85f0546c5462f3834115edb5b2dd109.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.3"
     },
     "FNSM_Howard": {
       "name": "A New Adventure",

@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/bf5c722d802b09f46b7b8ee2176b0e54cf17bd8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.8"
+      "percent": "88.9"
     },
     "Defeat5000Enemies": {
       "name": "Lightning Ring",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/1da0f2ca47fff0a6a58e077325b3fa3cc15af562.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.4"
+      "percent": "77.5"
     },
     "FindAStoneMask": {
       "name": "Stone Mask",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/44b8d5d40cc22b6a16f0fc7d549495607b75d65a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "74.4"
+      "percent": "74.5"
     },
     "Survive20MinutesWithCross": {
       "name": "Tiragisú",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/3fb61b05a91004eeb200e5e32c82cf4f6ff0a998.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.2"
+      "percent": "72.3"
     },
     "FindCoffinStage3": {
       "name": "Coffin: Dairy Plant",
@@ -2107,7 +2107,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/063d9369533c7acfc51de49160278e4511d0052a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "EvolveMagiStone": {
       "name": "EXTRA: Kyra-Stones",

@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "93.2"
+      "percent": "93.1"
     },
     "ACH_02_MainStory": {
       "name": "Anchors Aweigh!",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.4"
+      "percent": "63.5"
     },
     "ACH_19_MainStory": {
       "name": "Beacons of Hope",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.4"
+      "percent": "59.5"
     },
     "ACH_23_MainStory": {
       "name": "Awakening the Flames",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.0"
+      "percent": "58.1"
     },
     "ACH_24_MainStory": {
       "name": "Awakening the Earth",
@@ -397,7 +397,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/6aa9fd577732bdafd007ea58a5674260cd061266.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.0"
+      "percent": "50.1"
     },
     "ACH_08_Battle": {
       "name": "Metal Mangler",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/8634d2df111dc33b4b9c7743ffe1bac6ad81fcf2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.7"
+      "percent": "48.8"
     },
     "ACH_03_MiniGame": {
       "name": "Grizzled Gladiator",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/87987b2ad7d5d695b52206f447ef8d522cbc87fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.0"
+      "percent": "55.9"
     },
     "ACH_09_MiniGame": {
       "name": "Perfect Paneller",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/3de04062aefa7822c45198b7fd48a3768732927f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.2"
+      "percent": "60.3"
     },
     "ACH_05_Job": {
       "name": "Master of All",

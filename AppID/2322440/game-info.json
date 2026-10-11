@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.9"
+      "percent": "58.0"
     },
     "ACHIEVMENT_LOG_007": {
       "name": "Guardian Megabot",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.6"
+      "percent": "46.7"
     },
     "ACHIEVMENT_LOG_008": {
       "name": "Giant Automaton",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2322440/d3b34b0c0e334641d9d5acc1d91c92ade60b6c9e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "32.9"
+      "percent": "33.0"
     }
   },
   "platform": null,

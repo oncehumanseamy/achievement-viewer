@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030840/a7080d2281ff0525d1a3fe0d267e98738bce9e88.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.4"
+      "percent": "70.3"
     },
     "ACHIEVEMENT_6": {
       "name": "Storm Cloud over Chinatown",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030840/379975665609fd48fca54e5090db5bb29693f212.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.7"
+      "percent": "62.6"
     },
     "ACHIEVEMENT_9": {
       "name": "Rat in the House",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030840/4a6a5ce97cee8400a526ab633d1a4dfbed390ebb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.0"
+      "percent": "42.9"
     },
     "ACHIEVEMENT_25": {
       "name": "Car Enthusiast",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030840/698e685da5b0f4dc4472be24e1980f79eda614b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.2"
     },
     "ACHIEVEMENT_26": {
       "name": "That Motor can Move",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030840/6edd33635e1a4a08378f85cac172185b6dbeaf43.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.5"
     },
     "ACHIEVEMENT_29": {
       "name": "Motor Museum",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030840/30ecb8f49129d757f96529ea4e4a6b1d268f2765.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.1"
+      "percent": "3.2"
     },
     "ACHIEVEMENT_36": {
       "name": "On the Trail",

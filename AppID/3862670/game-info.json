@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/fed820cf5df78658be1fe61255f54d6a5b44955f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "99.1"
+      "percent": "99.2"
     },
     "ACH_DEPTH_02": {
       "name": "400m Depth",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/6beb9f0fc24265f7ce394cf7da0e5dc927ba664d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "84.5"
+      "percent": "84.6"
     },
     "ACH_DEPTH_03": {
       "name": "700m Depth",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/d9577b620e6539fc59af396ad96d93f709a69b3b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.5"
+      "percent": "73.6"
     },
     "ACH_WAVE": {
       "name": "Make a Friend!",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/63404b5395c2c038dd85c6ecf4938ebd70213af6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.2"
+      "percent": "78.3"
     },
     "ACH_RAINBOW": {
       "name": "Ultra Special Rainbow Jellyfish",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/f7bddb988ead44fc03c7cf60d33f362a2ac5a513.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "71.6"
+      "percent": "71.7"
     },
     "ACH_SHELLS_01": {
       "name": "First 1M",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/d5563e07e1f284df2ca5207071d275315b0c222f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.4"
+      "percent": "79.5"
     },
     "ACH_SHELLS_02": {
       "name": "First 1B",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/79490df38f87d9b175b426ec79c154a11a2094e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "70.8"
+      "percent": "70.9"
     },
     "ACH_ALL_ACHIEVEMENTS": {
       "name": "Cleared Island",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3862670/c153c3f7d8ace5eda282dccfdb355b5b34a5b34d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "68.0"
+      "percent": "68.1"
     }
   },
   "platform": null,
