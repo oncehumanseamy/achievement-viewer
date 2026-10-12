@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/841e477f039e3de035a9753ea250175c4d4244dc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.2"
+      "percent": "77.3"
     },
     "copper": {
       "name": "Copper!",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/4a4b217c83f5c8af80d765c30a607d018c56fd90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.8"
+      "percent": "77.9"
     },
     "beamDynamitePlazma": {
       "name": "Beams, explosions and balls!",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/6a762aa733651b0ee4637aa33172a1576d7b4d0f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "81.6"
+      "percent": "81.7"
     },
     "bars100": {
       "name": "Craft!",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3769130/77f213f800d61c32d101a81dcf791bb463f3e33e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.8"
+      "percent": "73.9"
     },
     "levelUp": {
       "name": "1",

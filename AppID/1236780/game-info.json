@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/dc62b908d0d41e8c6313b3b4b8a66c48774afd13.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "ACH_009": {
       "name": "Hand in Hand",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/d64af78ccbb1a37108ca04cadceb49e49e6a399d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.2"
+      "percent": "5.1"
     },
     "ACH_017": {
       "name": "Gaming God",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/5b677cef2cb10d8d10c48642e76eb7aad421527e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.1"
+      "percent": "37.2"
     },
     "ACH_023": {
       "name": "Rookie Freedom Fighter",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/ce64c711db1093f4d3c8de94f25fbcdec4dd9d0c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.0"
     },
     "ACH_028": {
       "name": "Hipster Novice",

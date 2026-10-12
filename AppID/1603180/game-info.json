@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/aa0139bcd428d55e066a1b585b4062b9cf5fd1ca.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "95.1"
+      "percent": "95.0"
     },
     "ACH_SILVER": {
       "name": "Silver seeker",
@@ -460,7 +460,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/d2664c87cbb95ee61220c3f81295993c563839ab.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.0"
+      "percent": "12.1"
     },
     "ACH_TREASURE_COLLECTOR": {
       "name": "Professional treasure collector",

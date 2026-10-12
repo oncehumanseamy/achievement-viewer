@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/95b7f9f67cf1c834b1d606d9e886dd23d11aedf2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "85.9"
+      "percent": "86.0"
     },
     "GetLightningRingToLevel4": {
       "name": "Porta",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/d3075499686fedb6a3965b88ebae77b53078b070.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.7"
+      "percent": "92.8"
     },
     "Destroy20Candles": {
       "name": "Fire Wand",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/076ac162a2f6986253105e665a4a0bdf7ab49854.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.4"
+      "percent": "88.5"
     },
     "Survive5MinutesWithKnife": {
       "name": "Pummarola",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/2cc77f819306b7dafb8d3486c5252fe1fd663497.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.3"
+      "percent": "67.4"
     },
     "EvolveKingBible": {
       "name": "Unholy Vespers",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/dcbd865f873355ceb6dc2fc29052b3c6f969a2e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.2"
+      "percent": "34.3"
     },
     "Defeat3000Buers": {
       "name": "Yatta Cavallo",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/f9bf673a847734c7106904a6ba94a637dfbf3155.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.6"
+      "percent": "38.7"
     },
     "EvolveRunetracer": {
       "name": "NO FUTURE",
@@ -676,7 +676,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/1fd7e3a529753e76b29d1c126620ae202601cc61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.8"
     },
     "FindCoffinStage2": {
       "name": "Coffin: Inlaid Library",
@@ -928,7 +928,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/bd61bca03c5c98bb47cf10d239496a994d7f2381.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.4"
     },
     "ObtainTheInfiniteCorridor": {
       "name": "Seeker of the Infinite Corridor",
@@ -1108,7 +1108,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/29912ad9cd30185b3edadbc54b6baba28d181841.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.0"
+      "percent": "27.1"
     },
     "Unlock5Hypers": {
       "name": "Boss Rash",
@@ -2008,7 +2008,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/21939079df96cf93a71df5df90828b5a635ad9f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "7.9"
     },
     "Defeat0EnemiesInCoop": {
       "name": "EXTRA: Gaze of Gaea",
@@ -2062,7 +2062,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/84da912393f37114e2ae7cf6c6599637e2de9486.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.0"
     },
     "FindManyClovers": {
       "name": "EXTRA: Westwoods",
@@ -2080,7 +2080,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/bf8880b838db55a218090462871633e690c35f81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.2"
+      "percent": "6.1"
     },
     "FindKaromasMana": {
       "name": "EXTRA: Karoma's Mana",
@@ -2161,7 +2161,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/3f5800a6db8500a482a3c2268f36f86df0c9f057.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.4"
     },
     "EvolveAmmoAppalate": {
       "name": "EXTRA: Zi'Appunta Belpaese",

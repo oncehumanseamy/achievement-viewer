@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/1a32feb3003c3c500cc5c49562392e37351fc87e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.4"
+      "percent": "58.5"
     },
     "ACH_LAUGH": {
       "name": "LAUGH!",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/eba4a36afcd0c96b5fb64679b423febd0c8188e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.1"
+      "percent": "47.2"
     },
     "ACH_CIVILIZED_WORLD": {
       "name": "Civilized World",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2851150/9eeff1badba75d6b2db616d74fc6ec2e466b3822.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.5"
+      "percent": "29.6"
     },
     "ACH_ANIMAL_DASH": {
       "name": "Animal Dash",

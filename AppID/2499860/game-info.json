@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "93.1"
+      "percent": "93.2"
     },
     "ACH_02_MainStory": {
       "name": "Anchors Aweigh!",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "89.3"
+      "percent": "89.4"
     },
     "ACH_03_MainStory": {
       "name": "A Well-Earned Brew",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "63.5"
+      "percent": "63.4"
     },
     "ACH_19_MainStory": {
       "name": "Beacons of Hope",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "59.5"
+      "percent": "59.4"
     },
     "ACH_23_MainStory": {
       "name": "Awakening the Flames",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "58.1"
+      "percent": "58.0"
     },
     "ACH_24_MainStory": {
       "name": "Awakening the Earth",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/8634d2df111dc33b4b9c7743ffe1bac6ad81fcf2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.8"
+      "percent": "48.7"
     },
     "ACH_03_MiniGame": {
       "name": "Grizzled Gladiator",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/87987b2ad7d5d695b52206f447ef8d522cbc87fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.9"
+      "percent": "56.0"
     },
     "ACH_09_MiniGame": {
       "name": "Perfect Paneller",
