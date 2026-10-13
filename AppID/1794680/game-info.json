@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/95b7f9f67cf1c834b1d606d9e886dd23d11aedf2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "86.0"
+      "percent": "85.9"
     },
     "GetLightningRingToLevel4": {
       "name": "Porta",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/d3075499686fedb6a3965b88ebae77b53078b070.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "92.8"
+      "percent": "92.7"
     },
     "Destroy20Candles": {
       "name": "Fire Wand",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/bf5c722d802b09f46b7b8ee2176b0e54cf17bd8d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.9"
+      "percent": "88.8"
     },
     "Defeat5000Enemies": {
       "name": "Lightning Ring",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/076ac162a2f6986253105e665a4a0bdf7ab49854.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "88.5"
+      "percent": "88.4"
     },
     "Survive5MinutesWithKnife": {
       "name": "Pummarola",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/1da0f2ca47fff0a6a58e077325b3fa3cc15af562.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "77.5"
+      "percent": "77.4"
     },
     "FindAStoneMask": {
       "name": "Stone Mask",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/2cc77f819306b7dafb8d3486c5252fe1fd663497.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "67.4"
+      "percent": "67.3"
     },
     "EvolveKingBible": {
       "name": "Unholy Vespers",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/dcbd865f873355ceb6dc2fc29052b3c6f969a2e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.3"
+      "percent": "34.2"
     },
     "Defeat3000Buers": {
       "name": "Yatta Cavallo",
@@ -586,7 +586,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/f9bf673a847734c7106904a6ba94a637dfbf3155.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "38.7"
+      "percent": "38.6"
     },
     "EvolveRunetracer": {
       "name": "NO FUTURE",
@@ -658,7 +658,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/95e22d24fb4459b7decf720cfcd369288aba7880.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.4"
     },
     "FindRandomazzo": {
       "name": "Randomazzo",
@@ -1072,7 +1072,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/dcbd865f873355ceb6dc2fc29052b3c6f969a2e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.7"
+      "percent": "16.8"
     },
     "FindGrimoire": {
       "name": "Grim Grimoire",
@@ -1189,7 +1189,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/cfd999a6fe755d6c0ddb9ee75869d4d3123ac628.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.3"
+      "percent": "22.4"
     },
     "ReachLV99WithPoe": {
       "name": "XXI - Blood Astronomia",
@@ -1648,7 +1648,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/443dd77bb15e912c0b4b2047cf415ff1f356f59a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "FOSC21_DefeatBossAbyss": {
       "name": "Hyper Abyss Foscari",
@@ -1675,7 +1675,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/4a5d2be545b7b014a2c3623f152e1406580c1c51.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "FindTrisection": {
       "name": "EXTRA: Trisection",
@@ -1738,7 +1738,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/40b5715c2dd19a2b26fb6b3eb5d24f993aa51c0a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "EvolveGlassFandango": {
       "name": "EXTRA: Celestial Voulge",
@@ -1747,7 +1747,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/be183d6fa87d3143c3955d5c2f2d400d907b0993.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.6"
+      "percent": "17.7"
     },
     "SurviveUntilTheEndOfWhiteout": {
       "name": "EXTRA: She-Moon Eeta",
@@ -1846,7 +1846,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/c886324f6f79bc0e98b2abcb6b86039af08f4ed5.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "GetJavelinToLevel7": {
       "name": "EXTRA: Santa Javelin",
@@ -1900,7 +1900,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/b8b9e8169e30a32f0e0fed553da69517ee85bcae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "CompleteAdv_AGarlicParadise": {
       "name": "EXTRA: A Garlic Paradise",
@@ -2008,7 +2008,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/21939079df96cf93a71df5df90828b5a635ad9f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.9"
+      "percent": "8.0"
     },
     "Defeat0EnemiesInCoop": {
       "name": "EXTRA: Gaze of Gaea",
@@ -2017,7 +2017,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/245fb72b9aae5d0eda168e60e772b5468511f007.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "EvolveOfGaea": {
       "name": "EXTRA: Gazebo",
@@ -2062,7 +2062,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/84da912393f37114e2ae7cf6c6599637e2de9486.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "FindManyClovers": {
       "name": "EXTRA: Westwoods",
@@ -2071,7 +2071,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/0f456457bb4ac0186eff916b52e67f6c6193f4b6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "Survive20minutesInWestwoods": {
       "name": "EXTRA: Chula-Reh",
@@ -2080,7 +2080,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/bf8880b838db55a218090462871633e690c35f81.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "FindKaromasMana": {
       "name": "EXTRA: Karoma's Mana",
@@ -2107,7 +2107,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/063d9369533c7acfc51de49160278e4511d0052a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "6.1"
     },
     "EvolveMagiStone": {
       "name": "EXTRA: Kyra-Stones",
@@ -2116,7 +2116,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/6f2047de976337fadb9a7bebafb6609510531522.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "Dark_13Chula": {
       "name": "EXTRA: XIII - Call of a Mad Moon",
@@ -2161,7 +2161,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1794680/3f5800a6db8500a482a3c2268f36f86df0c9f057.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.4"
+      "percent": "10.5"
     },
     "EvolveAmmoAppalate": {
       "name": "EXTRA: Zi'Appunta Belpaese",

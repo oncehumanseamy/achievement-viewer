@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/44441ac92bd14d000e1652088754170ffc01f8a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.1"
+      "percent": "2.2"
     },
     "TAXIPASSANGER": {
       "name": "It'll Cost Ya",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/679e9e88bcceb727ff1257b9afcc627af831c136.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "E1INTRO": {
       "name": "TLAD: One Percenter",
