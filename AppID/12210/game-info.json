@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/3cf9bfd3542c40e8beaee532cb17a638494c078d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "55.7"
+      "percent": "55.6"
     },
     "KEYMISSION1": {
       "name": "Lowest Point",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/471de4bf9da7159480c39118a9a950dcfc475736.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.1"
     },
     "KEYMISSION2": {
       "name": "Impossible Trinity",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/c2d5258a296bdcdf56c11b6d3fd76bc1595a5b5f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.4"
+      "percent": "15.3"
     },
     "OPENEDALDERNEY": {
       "name": "Full Exploration",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/44441ac92bd14d000e1652088754170ffc01f8a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "2.2"
+      "percent": "2.1"
     },
     "TAXIPASSANGER": {
       "name": "It'll Cost Ya",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/4274f78f2e525b45332909be5cfc057a7262db46.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.6"
+      "percent": "7.5"
     },
     "UNDERALLBRIDGES": {
       "name": "Under The Radar",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/ad1551dae54f35af35004c52731d68597f2c4cb1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.3"
+      "percent": "10.2"
     },
     "WANTEDLEVEL6STARSURVIVAL": {
       "name": "One Man Army",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/85a196680279187ebfa3f53f57ae2c5673a273a1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.7"
     },
     "KEYMISSION4": {
       "name": "That Special Someone",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/441d8620aeffa8f1cd36f42f4f26c6237494d1b7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "33.8"
     },
     "SABOMBCAR": {
       "name": "Dial B For Bomb",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/12210/679e9e88bcceb727ff1257b9afcc627af831c136.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.1"
+      "percent": "13.0"
     },
     "E1INTRO": {
       "name": "TLAD: One Percenter",

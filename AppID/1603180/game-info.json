@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/0591caf1ba2df646bee1bc8da49717e4b9af7deb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.9"
+      "percent": "66.0"
     },
     "ACH_CONFETTI": {
       "name": "Party time!",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/0ac030698034c6b40bacb015e9eda4f5ea2da07e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "46.0"
+      "percent": "46.1"
     },
     "ACH_L33T": {
       "name": "L33t master",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/e09b390adbe8f701d9459112a7f44c2d77717fcc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.0"
+      "percent": "34.1"
     },
     "ACH_EXPLORER_100": {
       "name": "Explorer I",
@@ -523,7 +523,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1603180/e25a72e4b7994ba5238e588f1dfc882f3144256e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "49.6"
+      "percent": "49.7"
     },
     "ACH_EXPLORER_700": {
       "name": "Explorer VII",

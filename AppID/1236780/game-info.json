@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/dc62b908d0d41e8c6313b3b4b8a66c48774afd13.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.0"
+      "percent": "8.1"
     },
     "ACH_009": {
       "name": "Hand in Hand",
@@ -199,7 +199,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/5b677cef2cb10d8d10c48642e76eb7aad421527e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.1"
     },
     "ACH_023": {
       "name": "Rookie Freedom Fighter",
@@ -379,7 +379,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1236780/3fcc63a21d23ddae3ccc6e8289e0b4f38c8483f1.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.6"
+      "percent": "27.5"
     },
     "ACH_043": {
       "name": "Mix 'n' Match",

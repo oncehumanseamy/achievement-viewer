@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/d5327e78fbfbc4eb8177e997d02bb8bd574cec87.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.9"
+      "percent": "44.0"
     },
     "ACHIEVEMENT_03": {
       "name": "A Big Betrayal",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/6e094cdf2b1fdf98e37bc856aca620131f68e8b0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "ACHIEVEMENT_05": {
       "name": "Minor Face",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/93a3115dd9401449d2212eecbeae69f4791824f4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "ACHIEVEMENT_08": {
       "name": "Fashion Statement",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/2264e70057c7fb64694ff63c36db2818d4359b03.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.2"
+      "percent": "48.3"
     },
     "ACHIEVEMENT_10": {
       "name": "A Slap in the Face",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/f98436550683d927fe195d2a2fb823ec3e71fb88.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.3"
+      "percent": "47.4"
     },
     "ACHIEVEMENT_13": {
       "name": "Foodie",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/28c7be1b90087d6e771b177d51c8c3fe324ea69b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "24.1"
     },
     "ACHIEVEMENT_18": {
       "name": "Whatever's Handy",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/e7724e1f8d845e1b957498851952349eaae81643.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.7"
+      "percent": "17.8"
     },
     "ACHIEVEMENT_20": {
       "name": "Infowlable",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/96530461b75d4fa33a6dfe2141580dac391c7c29.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "ACHIEVEMENT_21": {
       "name": "Kleptomaniac",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/cbee008e43af19638df50f9b25f8816b788390e7.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.6"
     },
     "ACHIEVEMENT_26": {
       "name": "Event Planner",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/4ac7dc49a75a1caf5fd598a6694d778ff15a7c60.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "ACHIEVEMENT_28": {
       "name": "Wei of the Road",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/d9b3adb982aaa544c9c724a8656ae51a076aafc2.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.3"
+      "percent": "6.4"
     },
     "ACHIEVEMENT_29": {
       "name": "Ultimate Fighter",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/d31edc0de046d76f3d6a64a98f0c1ab0fe931480.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.9"
+      "percent": "5.0"
     },
     "ACHIEVEMENT_30": {
       "name": "Super Cop",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/05206f5448417aefbf5c7b5597a6b1a7d763e3b1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "5.0"
+      "percent": "5.1"
     },
     "ACHIEVEMENT_33": {
       "name": "West End Scavenger",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/a7f81968b27dbe71fa9b0d480b5c82d8f474a917.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.3"
+      "percent": "7.4"
     },
     "ACHIEVEMENT_35": {
       "name": "Karaoke Superstar",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/ef38f48c61a91f9d0972cd644b04f2c28e53c428.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.1"
+      "percent": "31.2"
     },
     "ACHIEVEMENT_42": {
       "name": "Solid Silver",
@@ -388,7 +388,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/2d6d208e531da91e5f02a6cc99bbbca362a82a97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "59.0"
+      "percent": "59.1"
     },
     "ACHIEVEMENT_44": {
       "name": "Gold Rush",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/61f531e00cf75e18e7244294ad3b6cb57f61c7e1.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.1"
+      "percent": "48.2"
     },
     "ACHIEVEMENT_48": {
       "name": "Officer",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/307690/9f06eb7e06bc2ed7f2fd868a8ebe9d9ae5a0f13c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.1"
+      "percent": "10.2"
     },
     "ACHIEVEMENT_53": {
       "name": "Ghosts and Stuff",

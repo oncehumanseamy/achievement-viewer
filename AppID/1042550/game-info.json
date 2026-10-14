@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.4"
     },
     "DIGIMON_ACHIEVE_H_3": {
       "name": "Demonslaying (Zaxon's Request)",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.9"
+      "percent": "18.8"
     },
     "DIGIMON_ACHIEVE_H_5": {
       "name": "To the Island of Happiness (Yuugo's Request)",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/0bac6dd73a3c5c7eb3b34bff59873648411fb98c.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "8.1"
+      "percent": "8.0"
     },
     "DIGIMON_ACHIEVE_H_20": {
       "name": "Vampire Hunter",
@@ -478,7 +478,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/ab4591502f4d751e717ed3177ca331ee395ba5cd.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "DIGIMON_ACHIEVE_C_9": {
       "name": "Reached Chapter 9",
@@ -505,7 +505,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "28.1"
+      "percent": "28.0"
     },
     "DIGIMON_ACHIEVE_C_12": {
       "name": "Reached Chapter 12",
@@ -532,7 +532,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.2"
     },
     "DIGIMON_ACHIEVE_C_15": {
       "name": "Reached Chapter 15",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.2"
     },
     "DIGIMON_ACHIEVE_C_16": {
       "name": "Reached Chapter 16",
@@ -703,7 +703,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "42.5"
+      "percent": "42.4"
     },
     "DIGIMON_ACHIEVE_C_34": {
       "name": "Ultra-Long Combo",
@@ -721,7 +721,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.7"
+      "percent": "27.6"
     },
     "DIGIMON_ACHIEVE_C_36": {
       "name": "Battle Iron Man",
@@ -775,7 +775,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "2.9"
+      "percent": "2.8"
     },
     "DIGIMON_ACHIEVE_C_42": {
       "name": "Top Talent",
@@ -829,7 +829,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1042550/6145bcb6e72f99be498f2913888abcf8b4a7c27e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.7"
     },
     "DIGIMON_ACHIEVE_C_48": {
       "name": "Land Baron",

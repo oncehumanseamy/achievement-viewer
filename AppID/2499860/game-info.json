@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "82.1"
+      "percent": "82.2"
     },
     "ACH_06_MainStory": {
       "name": "A Clockwork Soul",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "75.6"
+      "percent": "75.7"
     },
     "ACH_08_MainStory": {
       "name": "A Profitable Trade",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "52.2"
+      "percent": "52.3"
     },
     "ACH_18_MainStory": {
       "name": "Whispers on the Wind",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0deb469ce0e3c5af7a805d4a36f05c71704dd289.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.4"
+      "percent": "56.5"
     },
     "ACH_25_MainStory": {
       "name": "Awakening the Wind",
@@ -334,7 +334,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/b69de6de6cea6edc42203f0c715903771c160467.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.2"
+      "percent": "33.3"
     },
     "ACH_01_Battle": {
       "name": "Field Day",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/521b972e0f1df70eabad2b6d09bebb4be187cf15.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.7"
+      "percent": "73.8"
     },
     "ACH_03_Battle": {
       "name": "Winning Machine",
@@ -406,7 +406,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/b6ed4a3a584eaed8f5d91f0e98286555d52496bd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.2"
+      "percent": "35.3"
     },
     "ACH_01_MiniGame": {
       "name": "Fledgling Fighter",
@@ -424,7 +424,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/8634d2df111dc33b4b9c7743ffe1bac6ad81fcf2.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.8"
+      "percent": "48.9"
     },
     "ACH_03_MiniGame": {
       "name": "Grizzled Gladiator",
@@ -469,7 +469,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/e744d920f2be40b63a54b6eeebcdd0ff42af5d8d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.4"
+      "percent": "20.5"
     },
     "ACH_08_MiniGame": {
       "name": "Proficient Paneller",
@@ -541,7 +541,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2499860/0a5382f55c9592e52943b2076832f0c57f4426a6.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "46.5"
+      "percent": "46.6"
     },
     "ACH_06_Job": {
       "name": "The Hustler Grindset",
